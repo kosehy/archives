@@ -1,7 +1,7 @@
 # AI를 매일 접해도 판단력은 생기지 않는다
 
-Source: https://hyungwoon.vercel.app/article/ai%EB%A5%BC-%EB%A7%A4%EC%9D%BC-%EC%A0%91%ED%95%B4%EB%8F%84-%ED%8C%90%EB%8B%A8%EB%A0%A5%EC%9D%80-%EC%83%9D%EA%B8%B0%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4
-Saved: 2026-03-29
+- Source: https://hyungwoon.vercel.app/article/ai%EB%A5%BC-%EB%A7%A4%EC%9D%BC-%EC%A0%91%ED%95%B4%EB%8F%84-%ED%8C%90%EB%8B%A8%EB%A0%A5%EC%9D%80-%EC%83%9D%EA%B8%B0%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4
+- Saved: 2026-03-29
 
 센싱, 클리핑, 적용. 대부분은 2단계에서 멈춘다. 그래서 FOMO가 끝나지 않는다.
 

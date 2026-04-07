@@ -1,9 +1,9 @@
 # Why Physical AI is getting attention now, and how this cycle differs from the past
 
-Original: https://news.hada.io/topic?id=28167
-Archived: 2026-04-06
-Language: English
-Document type: GeekNews summary / robotics / Physical AI trend analysis
+- Original: https://news.hada.io/topic?id=28167
+- Archived: 2026-04-06
+- Language: English
+- Document type: GeekNews summary / robotics / Physical AI trend analysis
 
 ## Core argument
 

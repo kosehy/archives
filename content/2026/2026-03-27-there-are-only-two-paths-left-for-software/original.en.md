@@ -1,7 +1,7 @@
 # There are only two paths left for software
 
-Source: https://www.a16z.news/p/there-are-only-two-paths-left-for
-Saved: 2026-03-27
+- Source: https://www.a16z.news/p/there-are-only-two-paths-left-for
+- Saved: 2026-03-27
 
 To software CEOs, founders, boards, and the investor community: the comfortable middle is over.
 

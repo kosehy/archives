@@ -1,7 +1,7 @@
 # Anthropic Economic Index report: Learning curves
 
-Source: https://www.anthropic.com/research/economic-index-march-2026-report
-Saved: 2026-03-29
+- Source: https://www.anthropic.com/research/economic-index-march-2026-report
+- Saved: 2026-03-29
 
 The Anthropic Economic Index uses our privacy-preserving data analysis system to track how Claude is being used across the economy. It’s part of our effort to understand the economic impacts of AI as early as possible, so that researchers and policymakers have adequate time to prepare.
 

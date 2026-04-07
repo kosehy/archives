@@ -1,7 +1,7 @@
 # "중국 모델, 가격 경쟁력으로 미국 넘어...'오픈라운터' 상위권 점령
 
-Source: https://www.aitimes.com/news/articleView.html?idxno=207427
-Saved: 2026-04-01
+- Source: https://www.aitimes.com/news/articleView.html?idxno=207427
+- Saved: 2026-04-01
 
 (사진=셔터스톡)
 

@@ -1,9 +1,9 @@
 # From prompts to harnesses — a four-year record of AI agentic patterns
 
-Original: https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html
-Archived: 2026-04-06
-Language: English
-Document type: Long-form essay / agentic AI / software engineering
+- Original: https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html
+- Archived: 2026-04-06
+- Language: English
+- Document type: Long-form essay / agentic AI / software engineering
 
 ## Core argument
 

@@ -1,7 +1,7 @@
 # You hit "Send" on an LLM API call.
 
-Source: https://www.linkedin.com/posts/brijpandeyji_you-hit-send-on-an-llm-api-call-400-share-7443133741075521536-cdjK
-Saved: 2026-03-29
+- Source: https://www.linkedin.com/posts/brijpandeyji_you-hit-send-on-an-llm-api-call-400-share-7443133741075521536-cdjK
+- Saved: 2026-03-29
 
 ~400 milliseconds later you get a response.
 

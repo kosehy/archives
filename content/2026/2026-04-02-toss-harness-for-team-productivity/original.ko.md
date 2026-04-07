@@ -1,7 +1,7 @@
 # Software 3.0 시대, Harness를 통한 조직 생산성 저점 높이기
 
-Source: https://toss.tech/article/harness-for-team-productivity
-Saved: 2026-04-03
+- Source: https://toss.tech/article/harness-for-team-productivity
+- Saved: 2026-04-03
 
 ## 당신의 팀은 같은 LLM을 쓰고 있나요?
 현재 많은 개발팀이 LLM을 도입하고 있지만, 냉정하게 들여다보면 그것은 '각자도생'에 가깝습니다.

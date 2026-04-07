@@ -1,7 +1,7 @@
 # 중국, '토큰 경제' 강조..."풍부한 전력을 토큰으로 변환해 전 세계에 수출"
 
-Source: https://www.aitimes.com/news/articleView.html?idxno=208626
-Saved: 2026-04-01
+- Source: https://www.aitimes.com/news/articleView.html?idxno=208626
+- Saved: 2026-04-01
 
 (사진=셔터스톡)
 

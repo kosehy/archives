@@ -1,7 +1,7 @@
 # The hidden technical debt of agentic engineering
 
-Source: https://thenewstack.io/hidden-agentic-technical-debt/
-Saved: 2026-04-03
+- Source: https://thenewstack.io/hidden-agentic-technical-debt/
+- Saved: 2026-04-03
 
 Agents are easy to build but hard to run. At Port, we mapped seven blocks of hidden infrastructure debt with AI agents in enterprise systems.
 

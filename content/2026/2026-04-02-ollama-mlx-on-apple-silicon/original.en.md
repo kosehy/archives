@@ -1,7 +1,7 @@
 # Ollama is now powered by MLX on Apple Silicon in preview
 
-Source: https://ollama.com/blog/mlx
-Saved: 2026-04-02
+- Source: https://ollama.com/blog/mlx
+- Saved: 2026-04-02
 
 Today, we’re previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple’s machine learning framework.
 
