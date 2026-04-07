@@ -1,5 +1,19 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { QuartzPluginData } from "./quartz/plugins/vfile"
+
+const byOldestDateFirst = (f1: QuartzPluginData, f2: QuartzPluginData) => {
+  const d1 = f1.dates?.modified?.getTime() ?? f1.dates?.created?.getTime() ?? 0
+  const d2 = f2.dates?.modified?.getTime() ?? f2.dates?.created?.getTime() ?? 0
+
+  if (d1 !== d2) {
+    return d1 - d2
+  }
+
+  const t1 = f1.frontmatter?.title?.toString() ?? ""
+  const t2 = f2.frontmatter?.title?.toString() ?? ""
+  return t1.localeCompare(t2)
+}
 
 /**
  * Quartz 4 Configuration
@@ -78,7 +92,9 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      Plugin.FolderPage({
+        sort: byOldestDateFirst,
+      }),
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
