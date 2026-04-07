@@ -1,9 +1,9 @@
 # 끊임없이 자기계발을 연구하지만 시작하지 않는 사람은 게으른 게 아니다 — 배움의 감각을 변화의 감각으로 착각했을 뿐이다
 
-원문: https://siliconcanals.com/gen-psychology-says-people-who-constantly-research-self-improvement-but-never-start-arent-lazy-theyve-confused-the-feeling-of-learning-with-the-feeling-of-changing/
-아카이브일: 2026-04-06
-언어: 한국어
-문서 유형: 심리 / 자기계발 글
+- 원문: https://siliconcanals.com/gen-psychology-says-people-who-constantly-research-self-improvement-but-never-start-arent-lazy-theyve-confused-the-feeling-of-learning-with-the-feeling-of-changing/
+- 아카이브일: 2026-04-06
+- 언어: 한국어
+- 문서 유형: 심리 / 자기계발 글
 
 ## 핵심 주장
 

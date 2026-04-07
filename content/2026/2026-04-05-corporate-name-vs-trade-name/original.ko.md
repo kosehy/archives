@@ -1,9 +1,9 @@
 # 법인명상호명차이 정확히 알아야 사업이 안전합니다
 
-출처: https://lawpang.co.kr/%EB%B2%95%EC%9D%B8%EB%AA%85%EC%83%81%ED%98%B8%EB%AA%85%EC%B0%A8%EC%9D%B4393/?utm_source=perplexity
-아카이브일: 2026-04-05
-언어: 한국어
-문서 유형: 실무형 안내 글
+- 출처: https://lawpang.co.kr/%EB%B2%95%EC%9D%B8%EB%AA%85%EC%83%81%ED%98%B8%EB%AA%85%EC%B0%A8%EC%9D%B4393/?utm_source=perplexity
+- 아카이브일: 2026-04-05
+- 언어: 한국어
+- 문서 유형: 실무형 안내 글
 
 ## 법인명과 상호명은 왜 혼동되기 쉬울까?
 

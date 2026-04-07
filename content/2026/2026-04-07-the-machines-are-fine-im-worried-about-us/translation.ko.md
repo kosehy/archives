@@ -1,9 +1,9 @@
 # 기계는 괜찮다. 내가 걱정하는 건 우리다.
 
-원문: https://ergosphere.blog/posts/the-machines-are-fine/
-아카이브일: 2026-04-07
-언어: 한국어
-문서 유형: 성찰적 에세이 / 과학에서의 AI / 학술 훈련
+- 원문: https://ergosphere.blog/posts/the-machines-are-fine/
+- 아카이브일: 2026-04-07
+- 언어: 한국어
+- 문서 유형: 성찰적 에세이 / 과학에서의 AI / 학술 훈련
 
 ## 핵심 주장
 

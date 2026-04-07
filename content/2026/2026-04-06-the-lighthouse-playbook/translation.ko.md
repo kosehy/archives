@@ -1,9 +1,9 @@
 # The Lighthouse Playbook
 
-원문: https://www.a16z.news/p/the-lighthouse-playbook
-아카이브일: 2026-04-06
-언어: 한국어
-문서 유형: 스타트업 성장 / 브랜드 전략 / 네트워크 효과 에세이
+- 원문: https://www.a16z.news/p/the-lighthouse-playbook
+- 아카이브일: 2026-04-06
+- 언어: 한국어
+- 문서 유형: 스타트업 성장 / 브랜드 전략 / 네트워크 효과 에세이
 
 ## 핵심 주장
 

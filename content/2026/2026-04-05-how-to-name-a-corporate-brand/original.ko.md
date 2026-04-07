@@ -1,9 +1,9 @@
 # 법인의 브랜드명을 정하는 방법 : 특허검색
 
-출처: https://m.blog.naver.com/PostView.naver?blogId=buza-club&logNo=223373274221&categoryNo=44&proxyReferer=&noTrackingCode=true
-아카이브일: 2026-04-05
-언어: 한국어
-문서 유형: 실무형 블로그 글
+- 출처: https://m.blog.naver.com/PostView.naver?blogId=buza-club&logNo=223373274221&categoryNo=44&proxyReferer=&noTrackingCode=true
+- 아카이브일: 2026-04-05
+- 언어: 한국어
+- 문서 유형: 실무형 블로그 글
 
 법인설립을 하려면은 법인상호명 외에도, 법인의 브랜드명을 정해야 하는데요, 법인의 브랜드명을 정하는 방법 및 절차를 자세히 알려드리겠습니다.
 

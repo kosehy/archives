@@ -1,10 +1,10 @@
 # 2026년 4월 기준 Mac mini(Apple Silicon)에서 Ollama + Gemma 4 설정 TL;DR — 자동 시작, preload, keep-alive
 
-원문: https://share.google/BPBBQOCf3HOaoSuJO
-최종 출처: https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5
-아카이브일: 2026-04-04
-언어: 한국어
-문서 유형: 실무 설정 메모 / GitHub Gist
+- 원문: https://share.google/BPBBQOCf3HOaoSuJO
+- 최종 출처: https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5
+- 아카이브일: 2026-04-04
+- 언어: 한국어
+- 문서 유형: 실무 설정 메모 / GitHub Gist
 
 ## 개요
 

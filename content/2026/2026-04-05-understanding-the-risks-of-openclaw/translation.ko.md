@@ -1,9 +1,9 @@
 # OpenClaw의 위험을 이해하기
 
-원문: https://www.infoworld.com/article/4153975/understanding-the-risks-of-openclaw.html
-아카이브일: 2026-04-05
-언어: 한국어
-문서 유형: 엔터프라이즈 리스크 / 분석 글
+- 원문: https://www.infoworld.com/article/4153975/understanding-the-risks-of-openclaw.html
+- 아카이브일: 2026-04-05
+- 언어: 한국어
+- 문서 유형: 엔터프라이즈 리스크 / 분석 글
 
 ## 핵심 질문: OpenClaw는 클라우드인가?
 

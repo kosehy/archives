@@ -1,9 +1,9 @@
 # ‘토큰 세금’을 이기는 법: Google Gemma 4, NVIDIA, OpenClaw이 로컬 에이전트형 AI를 어떻게 바꾸고 있나 — RTX 데스크톱부터 DGX Spark까지
 
-원문: https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/
-아카이브일: 2026-04-04
-언어: 한국어
-문서 유형: 뉴스형 홍보 기사
+- 원문: https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/
+- 아카이브일: 2026-04-04
+- 언어: 한국어
+- 문서 유형: 뉴스형 홍보 기사
 
 ## 한눈에 보기
 

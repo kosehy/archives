@@ -1,9 +1,9 @@
 # AI 에이전트를 위한 지속적 학습
 
-원문: https://blog.langchain.com/continual-learning-for-ai-agents/
-아카이브일: 2026-04-06
-언어: 한국어
-문서 유형: 에이전트 시스템 / 지속적 학습 / LangChain 에세이
+- 원문: https://blog.langchain.com/continual-learning-for-ai-agents/
+- 아카이브일: 2026-04-06
+- 언어: 한국어
+- 문서 유형: 에이전트 시스템 / 지속적 학습 / LangChain 에세이
 
 ## 핵심 주장
 
