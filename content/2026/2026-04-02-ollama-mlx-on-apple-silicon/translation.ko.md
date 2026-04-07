@@ -1,8 +1,8 @@
 # Ollama가 Apple Silicon에서 MLX 기반으로 전환됐다
 
-원문: https://ollama.com/blog/mlx
-저장일: 2026-04-02
-번역 메모: 공식 블로그 공지의 구조와 의미를 유지하면서 자연스러운 한국어로 다듬었다.
+- 원문: https://ollama.com/blog/mlx
+- 저장일: 2026-04-02
+- 번역 메모: 공식 블로그 공지의 구조와 의미를 유지하면서 자연스러운 한국어로 다듬었다.
 
 Ollama가 Apple의 머신러닝 프레임워크인 MLX를 기반으로 Apple Silicon에서 더 빠르게 동작하는 프리뷰 버전을 공개했다.
 

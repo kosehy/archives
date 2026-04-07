@@ -1,8 +1,8 @@
 # 중국, '토큰 경제' 강조 — 요약
 
-원문: https://www.aitimes.com/news/articleView.html?idxno=208626
-기준 파일: `archive/2026/2026-04-01-china-token-economy-exporting-electricity-as-ai-tokens/original.ko.md`
-저장일: 2026-04-01
+- 원문: https://www.aitimes.com/news/articleView.html?idxno=208626
+- 기준 파일: `archive/2026/2026-04-01-china-token-economy-exporting-electricity-as-ai-tokens/original.ko.md`
+- 저장일: 2026-04-01
 
 ## 한 문단 요약
 이 기사는 중국이 AI 토큰을 단순 사용 지표가 아니라 새로운 성장 지표이자 수출 상품으로 보기 시작했다고 설명한다. 토큰 소비가 급증하는 가운데, 중국 정부는 값싼 전력과 컴퓨팅 인프라, 모델 경쟁력을 결합해 에너지를 저렴한 AI 토큰으로 바꿔 전 세계에 판매하는 전략을 강조하고 있다. 기사는 이를 중국 AI 산업을 구조적으로 유리한 위치에 올려놓으려는 broader한 경제 구상으로 제시한다.

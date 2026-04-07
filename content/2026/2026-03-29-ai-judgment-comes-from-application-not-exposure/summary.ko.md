@@ -1,8 +1,8 @@
 # AI를 매일 접해도 판단력은 생기지 않는다 — 요약
 
-원문: https://hyungwoon.vercel.app/article/ai%EB%A5%BC-%EB%A7%A4%EC%9D%BC-%EC%A0%91%ED%95%B4%EB%8F%84-%ED%8C%90%EB%8B%A8%EB%A0%A5%EC%9D%80-%EC%83%9D%EA%B8%B0%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4
-기준 파일: `archive/2026/2026-03-29-ai-judgment-comes-from-application-not-exposure/original.ko.md`
-저장일: 2026-03-29
+- 원문: https://hyungwoon.vercel.app/article/ai%EB%A5%BC-%EB%A7%A4%EC%9D%BC-%EC%A0%91%ED%95%B4%EB%8F%84-%ED%8C%90%EB%8B%A8%EB%A0%A5%EC%9D%80-%EC%83%9D%EA%B8%B0%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4
+- 기준 파일: `archive/2026/2026-03-29-ai-judgment-comes-from-application-not-exposure/original.ko.md`
+- 저장일: 2026-03-29
 
 ## 한 문단 요약
 이 글은 AI 시대의 불안을 정보 부족이 아니라 판단 부족의 문제로 본다. 최신 소식을 빠르게 접하고 저장하는 것만으로는 실제 이해가 생기지 않으며, 판단력은 도구를 실제 업무에 적용해 보고 예상과 결과의 차이를 겪는 과정에서만 만들어진다. 결국 중요한 것은 많이 아는 것이 아니라, 직접 써보고 무엇이 통하고 무엇이 통하지 않는지 스스로 가려내는 경험이다.

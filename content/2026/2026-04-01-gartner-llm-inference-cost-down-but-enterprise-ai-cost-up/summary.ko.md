@@ -1,8 +1,8 @@
 # 가트너, 2030년 LLM 추론 비용 90% 감소 전망 — 요약
 
-원문: https://www.hellot.net/mobile/article.html?no=111774
-기준 파일: `archive/2026/2026-04-01-gartner-llm-inference-cost-down-but-enterprise-ai-cost-up/original.ko.md`
-저장일: 2026-04-01
+- 원문: https://www.hellot.net/mobile/article.html?no=111774
+- 기준 파일: `archive/2026/2026-04-01-gartner-llm-inference-cost-down-but-enterprise-ai-cost-up/original.ko.md`
+- 저장일: 2026-04-01
 
 ## 한 문단 요약
 이 기사는 LLM 추론 단가가 크게 내려가더라도 기업의 전체 AI 비용이 자동으로 줄어들지는 않을 것이라고 본다. 가트너는 2030년까지 반도체, 인프라, 모델 설계, 추론 특화 칩, 엣지 적용 확대 덕분에 추론 비용이 급감할 것으로 전망한다. 하지만 기업이 점점 더 에이전트형·고급 추론형 AI로 이동할수록 작업당 토큰 사용량이 크게 늘어나기 때문에, 총비용은 오히려 증가할 수 있다. 글의 전략적 결론은 단일 모델 자체보다 여러 모델을 효율적으로 배분하고 오케스트레이션하는 플랫폼 역량이 중요해진다는 것이다.

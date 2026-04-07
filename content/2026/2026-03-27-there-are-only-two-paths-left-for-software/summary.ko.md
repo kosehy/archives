@@ -1,8 +1,8 @@
 # 소프트웨어 기업에 남은 길은 이제 두 가지뿐이다 — 요약
 
-원문: https://www.a16z.news/p/there-are-only-two-paths-left-for
-기준 파일: `archive/2026/2026-03-27-there-are-only-two-paths-left-for-software/translation.ko.md`
-저장일: 2026-03-27
+- 원문: https://www.a16z.news/p/there-are-only-two-paths-left-for
+- 기준 파일: `archive/2026/2026-03-27-there-are-only-two-paths-left-for-software/translation.ko.md`
+- 저장일: 2026-03-27
 
 ## 한 문단 요약
 

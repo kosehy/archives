@@ -1,8 +1,8 @@
 # 중국 모델, 가격 경쟁력으로 미국 넘어 — 요약
 
-원문: https://www.aitimes.com/news/articleView.html?idxno=207427
-기준 파일: `archive/2026/2026-04-01-chinese-models-overtake-us-on-openrouter-price-competitiveness/original.ko.md`
-저장일: 2026-04-01
+- 원문: https://www.aitimes.com/news/articleView.html?idxno=207427
+- 기준 파일: `archive/2026/2026-04-01-chinese-models-overtake-us-on-openrouter-price-competitiveness/original.ko.md`
+- 저장일: 2026-04-01
 
 ## 한 문단 요약
 이 기사는 중국 AI 모델들이 강한 가격 경쟁력을 바탕으로 미국 주도의 AI 시장을 흔들기 시작했다고 본다. 오픈라우터의 토큰 사용량 데이터를 기준으로 미니맥스, 딥시크, 문샷, 지푸AI 같은 중국 모델들이 미국 모델을 앞서는 모습을 보여주며, 그 배경으로 훨씬 낮은 가격과 코딩 중심 활용도를 든다. 다만 오픈라우터는 비용에 민감한 개발자·스타트업 중심 플랫폼이기 때문에, 이 수치는 전체 시장이라기보다 방향성을 보여주는 지표에 가깝다고 볼 수 있다.

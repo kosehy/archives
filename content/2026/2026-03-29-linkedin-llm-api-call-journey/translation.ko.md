@@ -1,8 +1,8 @@
 # LLM API 호출에서 응답이 오기까지
 
-원문: https://www.linkedin.com/posts/brijpandeyji_you-hit-send-on-an-llm-api-call-400-share-7443133741075521536-cdjK
-저장일: 2026-03-29
-번역 메모: LinkedIn 포스트를 읽기 좋은 한국어 문장으로 정리한 번역본.
+- 원문: https://www.linkedin.com/posts/brijpandeyji_you-hit-send-on-an-llm-api-call-400-share-7443133741075521536-cdjK
+- 저장일: 2026-03-29
+- 번역 메모: LinkedIn 포스트를 읽기 좋은 한국어 문장으로 정리한 번역본.
 
 당신이 LLM API 호출에서 “Send”를 누른 뒤 약 400밀리초 후 응답을 받았다고 하자. 그 사이에는 무엇이 일어날까?
 

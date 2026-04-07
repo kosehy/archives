@@ -1,8 +1,8 @@
 # 어렵게 설득해서 채용한 사람들이 자꾸 나가요. — 요약
 
-원문: https://www.linkedin.com/posts/divercity_%EC%96%B4%EB%A0%B5%EA%B2%8C-%EC%84%A4%EB%93%9D%ED%95%B4%EC%84%9C-%EC%B1%84%EC%9A%A9%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%90%EA%BE%B8-%EB%82%98%EA%B0%80%EC%9A%94-%EC%98%88%EC%A0%84%EB%B6%80%ED%84%B0-%EC%95%8C%EA%B3%A0-%EC%A7%80%EB%82%B4%EB%8D%98-%ED%95%9C-share-7444897976369463296-4rqF
-기준 파일: `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/original.ko.md`
-저장일: 2026-04-02
+- 원문: https://www.linkedin.com/posts/divercity_%EC%96%B4%EB%A0%B5%EA%B2%8C-%EC%84%A4%EB%93%9D%ED%95%B4%EC%84%9C-%EC%B1%84%EC%9A%A9%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%90%EA%BE%B8-%EB%82%98%EA%B0%80%EC%9A%94-%EC%98%88%EC%A0%84%EB%B6%80%ED%84%B0-%EC%95%8C%EA%B3%A0-%EC%A7%80%EB%82%B4%EB%8D%98-%ED%95%9C-share-7444897976369463296-4rqF
+- 기준 파일: `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/original.ko.md`
+- 저장일: 2026-04-02
 
 ## 한 문단 요약
 이 LinkedIn 포스트는 반복적인 핵심 인재 이탈이 단순한 HR 실행 문제는 아니며, CEO가 그것을 문제로 인식하지 않는다면 CHRO를 영입해도 해결되기 어렵다고 말한다. 스타트업 HR 담당자와의 대화를 통해 저자는 리더십이 문제의식을 갖지 않는 상황에서 외부 HR 리더를 데려오는 것은 거의 의미가 없다고 본다. 동시에 글은 채용의 윤리적 무게를 강조한다. 좋은 사람이 왜 계속 떠나는지 이해하면서도 계속 사람을 데려오는 HR 역시 자신의 역할을 돌아봐야 한다는 메시지를 던진다.

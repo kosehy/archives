@@ -1,8 +1,8 @@
 # Anthropic Economic Index report: Learning curves
 
-원문: https://www.anthropic.com/research/economic-index-march-2026-report
-저장일: 2026-03-29
-번역 메모: 직역보다 자연스러운 한국어 흐름을 우선해 다듬은 번역본.
+- 원문: https://www.anthropic.com/research/economic-index-march-2026-report
+- 저장일: 2026-03-29
+- 번역 메모: 직역보다 자연스러운 한국어 흐름을 우선해 다듬은 번역본.
 
 Anthropic Economic Index는 Claude가 경제 전반에서 어떻게 사용되고 있는지를 프라이버시를 보존하는 분석 방식으로 추적하는 프로젝트다. 목적은 AI의 경제적 영향을 가능한 한 이른 시점에 파악해 연구자와 정책 담당자가 대비할 시간을 확보하는 데 있다.
 

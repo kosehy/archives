@@ -1,8 +1,8 @@
 # LLM API 호출에서 응답이 오기까지 — 요약
 
-원문: https://www.linkedin.com/posts/brijpandeyji_you-hit-send-on-an-llm-api-call-400-share-7443133741075521536-cdjK
-기준 파일: `archive/2026/2026-03-29-linkedin-llm-api-call-journey/translation.ko.md`
-저장일: 2026-03-29
+- 원문: https://www.linkedin.com/posts/brijpandeyji_you-hit-send-on-an-llm-api-call-400-share-7443133741075521536-cdjK
+- 기준 파일: `archive/2026/2026-03-29-linkedin-llm-api-call-journey/translation.ko.md`
+- 저장일: 2026-03-29
 
 ## 한 문단 요약
 이 LinkedIn 포스트는 LLM API 요청이 응답으로 돌아오기까지의 과정을 인프라 관점에서 단순화해 설명한다. 요청은 게이트웨이 검증, 로드밸런싱, 토큰화, 모델 라우팅, GPU 기반 추론, 후처리, 과금 단계를 거치며, 실제 지연 시간의 대부분은 추론 단계, 특히 토큰을 순차적으로 생성하는 decode 구간에서 발생한다고 본다. 핵심 메시지는 우리가 받는 한 번의 응답 뒤에는 단순 모델 호출을 넘어선 복합적인 시스템이 있다는 것이다.

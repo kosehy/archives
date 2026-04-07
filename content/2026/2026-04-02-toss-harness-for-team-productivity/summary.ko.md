@@ -1,8 +1,8 @@
 # Software 3.0 시대, Harness를 통한 조직 생산성 저점 높이기 — 요약
 
-원문: https://toss.tech/article/harness-for-team-productivity
-기준 파일: `archive/2026/2026-04-02-toss-harness-for-team-productivity/original.ko.md`
-저장일: 2026-04-03
+- 원문: https://toss.tech/article/harness-for-team-productivity
+- 기준 파일: `archive/2026/2026-04-02-toss-harness-for-team-productivity/original.ko.md`
+- 저장일: 2026-04-03
 
 ## 한 문단 요약
 이 글은 LLM 활용을 개인의 능숙함에 맡겨둘 것이 아니라 조직 차원의 시스템으로 편입해야 한다고 주장한다. Claude Code의 플러그인과 마켓플레이스 생태계를 중심 사례로 삼아, 팀의 워크플로우와 도메인 맥락, 운영 규율을 실행 가능한 하네스로 패키징하면 조직 생산성의 저점을 끌어올릴 수 있다고 본다. 결국 Software 3.0의 핵심은 더 좋은 모델 자체보다, 팀의 LLM 활용 역량과 지식을 실행 가능한 형태로 배포·운영하는 시스템에 있다는 메시지다.

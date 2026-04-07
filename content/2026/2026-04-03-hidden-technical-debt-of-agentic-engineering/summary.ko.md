@@ -1,8 +1,8 @@
 # 에이전틱 엔지니어링의 숨겨진 기술 부채 — 요약
 
-원문: https://thenewstack.io/hidden-agentic-technical-debt/
-기준 파일: `archive/2026/2026-04-03-hidden-technical-debt-of-agentic-engineering/translation.ko.md`
-저장일: 2026-04-03
+- 원문: https://thenewstack.io/hidden-agentic-technical-debt/
+- 기준 파일: `archive/2026/2026-04-03-hidden-technical-debt-of-agentic-engineering/translation.ko.md`
+- 저장일: 2026-04-03
 
 ## 한 문단 요약
 이 글은 에이전틱 엔지니어링의 진짜 복잡성이 에이전트 코드 자체가 아니라, 그것을 조직 규모에서 안전하게 운영하기 위해 필요한 주변 인프라에 있다고 말한다. Google의 머신러닝 시스템 숨은 기술 부채 논문을 연상시키는 프레임으로, 글은 기업 에이전트 주변에 쌓이는 일곱 가지 부채 영역을 정리한다: integrations, context lake, agent registry, measurement, human-in-the-loop, governance, orchestration. 결국 핵심 메시지는 기업이 이 인프라를 사고가 나기 전에 만들든, 사고가 난 뒤에 만들든 언젠가는 반드시 만들게 된다는 것이다.
