@@ -6,10 +6,10 @@ Date: 2026-04-06
 Folder: `archive/2026/2026-04-06-evolution-of-ai-agentic-patterns/`
 
 ## Files
-- Original article (Korean)
-  - `archive/2026/2026-04-06-evolution-of-ai-agentic-patterns/original.ko.md`
-- English translation
-  - `archive/2026/2026-04-06-evolution-of-ai-agentic-patterns/translation.en.md`
+- Original article (English)
+  - `archive/2026/2026-04-06-evolution-of-ai-agentic-patterns/original.en.md`
+- Korean translation
+  - `archive/2026/2026-04-06-evolution-of-ai-agentic-patterns/translation.ko.md`
 - English summary
   - `archive/2026/2026-04-06-evolution-of-ai-agentic-patterns/summary.en.md`
 - Korean summary
@@ -29,11 +29,11 @@ Folder: `archive/2026/2026-04-06-evolution-of-ai-agentic-patterns/`
 1. `summary.ko.md`
 2. `opinion.ko.md`
 3. `summary-opinion.ko.md`
-4. `translation.en.md`
-5. `original.ko.md`
+4. `translation.ko.md`
+5. `original.en.md`
 
 ## Notes
-- The source article is written in Korean, so the archive preserves it as `original.ko.md` and provides `translation.en.md`.
+- The source article is written in English, so the archive preserves it as `original.en.md` and provides `translation.ko.md`.
 - The article is a long-form interpretive chronology of prompt engineering, context engineering, and harness engineering.
 - It mixes historical narrative, commentary, and many external references rather than functioning as a neutral survey.
 - Personal note is intentionally left as a template for later reflection.

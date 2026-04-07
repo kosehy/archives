@@ -2,7 +2,7 @@
 
 Source: https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html
 Archived: 2026-04-06
-Language: Korean
+Language: English
 Type: Long-form essay / agentic AI / software engineering
 
 ## Core framing
