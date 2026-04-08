@@ -3,22 +3,22 @@
 # Propwave | Parking Space Management and Demand Vehicle Matching Solution Using CCTV Video Analytics
 
 ## Basic Information
-- Demonstration company: 프롭웨이브
-- Location: 인천 연수구 컨벤시아대로 204 (송도동)
-- Demonstration partner: 인천스타트업파크
-- Demonstration target: 인천스타트업파크 인스타 I, II, III 실내공간 및 측위 마커
+- Demonstration company: Propwave
+- Location: 204 Convensia-daero, Yeonsu-gu, Incheon (Songdo-dong)
+- Demonstration partner: Incheon Startup Park
+- Demonstration target: Interior spaces of Incheon Startup Park Instar I, II, and III, as well as positioning markers
 
 ## Demonstration Overview
-- Case name: CCTV 영상분석 기술을 활용한 주차공간 관리 및 수요차량 매칭 솔루션
-- Purpose: 주차공간 관리와 수요차량 매칭을 위해 CCTV 영상분석 기반 솔루션을 실환경에서 검증하는 것
+- Case name: Parking Space Management and Demand Vehicle Matching Solution Using CCTV Video Analytics
+- Purpose: To verify, in a real environment, a CCTV video analytics-based solution for parking-space management and matching demand vehicles.
 
 ## Demonstration Method
-- CCTV 영상분석 기술을 활용한 주차공간 관리 및 수요차량 매칭 솔루션
+- Parking-space management and demand vehicle matching solution using CCTV video analytics technology
 
 ## Currently Confirmed Information
-- Demonstration partner, Location, 실증대상, Demonstration company, Demonstration method 확인
-- 인스타 I, II, III 공간 사진 및 주차 분석 예시 이미지 확보
-- Demonstration year, Support amount, 목표, 결과, Contact 정보는 추가 확인 필요
+- Demonstration partner, location, demonstration target, demonstration company, and demonstration method confirmed
+- Images secured for the Instar buildings, parking-lot scenes, and analysis examples such as frame-by-frame analytics, heatmaps, and parking-space judgment
+- Demonstration year, support amount, objectives, results, and contact information require further confirmation
 
 ## Related Images
 
@@ -32,5 +32,5 @@
 ![](./raw/image-03.jpg)
 
 ## Notes
-- See the `raw/` folder for related images and source materials
-- This document is organized based on shared screenshots and user-provided text
+- See the `raw/` folder for related images and source materials.
+- This document is organized based on shared screenshots and user-provided text.

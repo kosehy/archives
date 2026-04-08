@@ -3,36 +3,36 @@
 # GY Networks | Vision Intelligence-Based Safety Management Solution
 
 ## Basic Information
-- Demonstration company: 지와이네트웍스
+- Demonstration company: GY Networks
 - Demonstration year: 2021
-- Support amount: 100,000,000원
-- Location: 인천 연수구 컨벤시아대로 204 (송도동)
+- Support amount: KRW 100,000,000
+- Location: 204 Convensia-daero, Yeonsu-gu, Incheon (Songdo-dong)
 - Demonstration partner: IFEZ
-- Demonstration target: 인천스타트업파크 전체의 공간 또는 장소
-- Category: 공간
+- Demonstration target: Entire spaces or locations within Incheon Startup Park
+- Category: Space
 
 ## Demonstration Overview
-- Case name: 시각지능기반 안전관리솔루션
-- Purpose: AI 이미지 태깅 기반 안전관리 솔루션을 현장에 적용하여 화재, 쓰러짐 등 이상징후와 재해 상황을 자동 분류·검색하고 긴급 알람을 제공하는 것
+- Case name: Vision Intelligence-Based Safety Management Solution
+- Purpose: To apply an AI image-tagging-based safety management solution on site so that abnormal signs such as fire or collapse, as well as disaster situations, can be automatically classified and searched, with urgent alerts provided.
 
 ## Demonstration Details
-- AI 이미지 태깅 기반 안전관리 솔루션을 실증하여, 현장 내 화재·쓰러짐 등 이상징후와 재해 상황을 자동 분류·검색하고 긴급 알람을 제공
+- Demonstrated an AI image-tagging-based safety management solution that automatically classifies and searches abnormal signs such as fire and collapse, as well as disaster situations, and provides urgent alerts on site.
 
 ## Demonstration Objectives
-1. 이상징후 알고리즘 성능인증 인증통과
-2. 감지 정확도를 설치 전 대비 10% 이상 향상
-3. 감지 시간을 설치 전 대비 3초 이내 감축
+1. Pass performance certification for the abnormal-sign detection algorithm
+2. Improve detection accuracy by at least 10% compared with before installation
+3. Reduce detection time to within 3 seconds compared with before installation
 
 ## Demonstration Method
-- CCTV 2대 / 영상저장서버 1대 / 분석서버 1대 / 운영서버 1대를 설치하여 현장에서 일반적으로 적용될 수 있는 인공지능기반 안전관리솔루션을 실증
+- Installed 2 CCTV units, 1 video storage server, 1 analytics server, and 1 operation server to demonstrate an AI-based safety management solution that could be generally applied in real sites.
 
 ## Demonstration Results
-1. 이상징후 알고리즘 성능인증 인증통과 / 달성
-2. 감지 정확도를 설치 전 대비 10% 이상 향상 / 달성
-3. 감지 시간을 설치 전 대비 3초 이내 감축 / 달성
+1. Passed abnormal-sign algorithm performance certification / Achieved
+2. Detection accuracy improved by at least 10% over pre-installation baseline / Achieved
+3. Detection time reduced to within 3 seconds over pre-installation baseline / Achieved
 
 ## Contact
-- 강바람
+- Kang Baram
 - 010-5138-5858
 - zakkdime@itp.or.kr
 
@@ -45,7 +45,7 @@
 ![](./raw/image-02.jpg)
 
 ## Notes
-- Within the same IFEZ / Incheon Startup Park-wide bundle, 오이스터에이블, 베스텔라랩, 소테리아, 웨인, 소무나, 청개구리, 퍼니테크21, 모이기술, 하벤 등의 사례가 함께 존재
-- See the `raw/` folder for related images and source materials
-- Quartz 배포 시에도 문서에서 바로 확인할 수 있도록 상대경로 이미지 링크를 추가함
-- This document is organized based on shared screenshots and user-provided text
+- The same IFEZ / Incheon Startup Park-wide bundle also includes cases from OysterAble, VestellaLab, Soteria, Wayne, Somuna, Cheonggaeguri, FunnyTech21, Moi Technology, and Haben.
+- See the `raw/` folder for related images and source materials.
+- Relative image links were added so the images can also be viewed directly in the document when published through Quartz.
+- This document is organized based on shared screenshots and user-provided text.

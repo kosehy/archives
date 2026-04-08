@@ -3,41 +3,41 @@
 # PIASPACE | Multimodal AI Video Analytics Solution for Improving False Positives and Missed Detections in Port Facility Security CCTV Monitoring (Open Innovation Type)
 
 ## Basic Information
-- Demonstration company: 피아스페이스
+- Demonstration company: PIASPACE
 - Demonstration year: 2024
-- Support amount: 25,000,000원
-- Location: 인천 연수구 센트럴로 263 (송도동)
-- Demonstration partner: 인천항만공사
-- Resource type: 실증자원이 아닌 인천항만공사의 다양한 데이터
-  - 보안 CCTV(공유범위 내)
-  - 도급사업 안전관리 전자문서 등
+- Support amount: KRW 25,000,000
+- Location: 263 Central-ro, Yeonsu-gu, Incheon (Songdo-dong)
+- Demonstration partner: Incheon Port Authority
+- Resource type: Various data held by Incheon Port Authority rather than a fixed physical demonstration resource
+  - Security CCTV (within the allowed sharing scope)
+  - Electronic documents related to contractor safety management, etc.
 
 ## Demonstration Overview
-- Case name: 항만시설 보안관리 CCTV 선별관제 오탐지 및 미탐지 개선 멀티모달 AI 영상분석 솔루션(오픈이노베이션형)
-- 분야: 항만 보안, CCTV 영상분석, 멀티모달 AI
-- Purpose: 항만시설 보안관리 CCTV 선별관제 과정에서 오탐지 및 미탐지를 줄이고 이상상황 탐지 성능을 개선하는 것
+- Case name: Multimodal AI Video Analytics Solution for Improving False Positives and Missed Detections in Port Facility Security CCTV Monitoring (Open Innovation Type)
+- Field: Port security, CCTV video analysis, multimodal AI
+- Purpose: To reduce false positives and missed detections in security CCTV selective monitoring at port facilities and improve abnormal-situation detection performance.
 
 ## Demonstration Details
-- 정확도 개선 지표(F1-Score) 및 선별관제(물체탐지 기술 기반)로 CCTV 채널 25개 이상 검증
+- Verified more than 25 CCTV channels using accuracy improvement metrics (F1-Score) and selective monitoring based on object-detection technology.
 
 ## Demonstration Objectives
-1. 정확도 개선 92% 이상
-2. 복잡한 상황 탐지 가능성 확인 2건 이상
-3. 비용 효율적 솔루션 25채널 이상
-4. 소프트웨어 만족도 90점 이상
+1. Accuracy improvement of at least 92%
+2. Confirmation of at least 2 cases of complex-situation detection capability
+3. Cost-efficient solution applicable to at least 25 channels
+4. Software satisfaction score of at least 90 points
 
 ## Demonstration Method
-1. 인천항만공사 내부 보유한 영상 데이터 활용해 다채널 실시간 CCTV 영상처리 기술 적용
-2. 인천항만공사 이상상황 데이터셋 구축 위한 데이터 수집 진행
+1. Applied multi-channel real-time CCTV video-processing technology using internal video data held by Incheon Port Authority
+2. Collected data to build an abnormal-situation dataset for Incheon Port Authority
 
 ## Demonstration Results
-1. 정확도 개선 100% / 달성
-2. 복잡한 상황 탐지 가능성 확인 200% / 달성
-3. 비용 효율적 솔루션 200% / 달성
-4. 소프트웨어 만족도 100% / 달성
+1. Accuracy improvement: 100% / Achieved
+2. Confirmation of complex-situation detection capability: 200% / Achieved
+3. Cost-efficient solution: 200% / Achieved
+4. Software satisfaction: 100% / Achieved
 
 ## Contact
-- 조예주
+- Jo Yeju
 - 032-228-1220
 - yeju@itp.or.kr
 
@@ -56,5 +56,5 @@
 ![](./raw/image-04.jpg)
 
 ## Notes
-- See the `raw/` folder for related images and source materials
-- This document is organized based on shared screenshots and user-provided text
+- See the `raw/` folder for related images and source materials.
+- This document is organized based on shared screenshots and user-provided text.

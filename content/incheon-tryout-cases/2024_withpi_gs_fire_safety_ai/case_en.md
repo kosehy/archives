@@ -3,44 +3,44 @@
 # WithPi | Real-Time Fire Safety Service with AI-Linked CCTV and Automatic Fire Reporting (Open Innovation Type)
 
 ## Basic Information
-- Demonstration company: 위드피
+- Demonstration company: WithPi
 - Demonstration year: 2024
-- Support amount: 25,000,000원
-- Location: 인천 연수구 하모니로 128 (송도동)
-- Demonstration partner: GS칼텍스
-- Demonstration scope: 총 24개소, 인천(17개소) 및 경기(김포/부천/안산/시흥 7개소)
-- Category: 공간
+- Support amount: KRW 25,000,000
+- Location: 128 Harmony-ro, Yeonsu-gu, Incheon (Songdo-dong)
+- Demonstration partner: GS Caltex
+- Demonstration scope: 24 total sites, including 17 in Incheon and 7 in Gyeonggi (Gimpo, Bucheon, Ansan, and Siheung)
+- Category: Space
 
 ## Demonstration Overview
-- Case name: AI기반 CCTV 연계한 스스로 화재신고하는 실시간 소방 안전서비스(오픈이노베이션형)
-- Purpose: 주유소 환경에서 AI 기반 CCTV, 화재 버튼 센서, 화재 신고 시스템을 연동하여 화재를 실시간 감지하고 즉시 소방서로 신고 접수하는 안전서비스를 검증하는 것
+- Case name: Real-Time Fire Safety Service with AI-Linked CCTV and Automatic Fire Reporting (Open Innovation Type)
+- Purpose: To verify a safety service that integrates AI-based CCTV, fire-button sensors, and a fire-reporting system in gas-station environments so that fire events can be detected in real time and immediately reported to the fire department.
 
 ## Demonstration Details
-1. AI 기반 CCTV, 화재 버튼 센서, 화재 신고 시스템을 실증 사이트에 구축
-2. 24시간 무중단 AI 기반 CCTV가 화재를 탐지, 화재 발생 시 언제든 바로 소방서로 화재 신고 접수
-3. 주유소 건물을 사용하는 누구라도 화재 발견 시 화재 신고 버튼을 누름으로써 신속하게 소방서로 화재 출동 신고
+1. Built AI-based CCTV, fire-button sensors, and a fire-reporting system at the demonstration site
+2. Enabled 24/7 uninterrupted AI-based CCTV fire detection so that fire reports could be submitted to the fire station at any time when a fire occurred
+3. Allowed anyone using the gas-station building to press a fire-report button upon discovering a fire and quickly request dispatch from the fire station
 
 ## Demonstration Objectives
-1. 연기, 불꽃 감지 데이터 전송 속도 5초 이내
-2. 화재버튼 신고 접수 10회 성공
-3. 오류 탐지 9회 감지 성공
-4. 소방본부 화재 신고 접수 3회 성공
+1. Smoke and flame detection data transmission speed within 5 seconds
+2. Successful reception of 10 fire-button reports
+3. Successful detection of 9 error signals
+4. Successful reception of 3 fire reports by the fire headquarters
 
 ## Demonstration Method
-1. 현재 운영 중인 주유소의 자동화재탐지 설비에 다매체 화재(소방프로그램) 화재 신고 시스템 연동
-2. AI기반 CCTV(연기, 불꽃 감지)를 설치하여 다매체 화재신고 시스템에 연동
-3. 화재 이벤트 발생 시 직접 신고가 가능한 화재 신고 버튼을 설치
-4. CCTV를 통해 화재 감지 시 인천소방본부 화재 신고 서버로 화재 신고 접수해 출동 요청
-5. 화재 이벤트 발생 시 주유소 Contact에게 화재 알림 문자 전송
+1. Linked the existing automatic fire-detection facilities at operating gas stations with a multi-channel fire-reporting system (firefighting program)
+2. Installed AI-based CCTV for smoke and flame detection and linked it to the multi-channel fire-reporting system
+3. Installed a fire-report button enabling direct reporting when a fire event occurs
+4. Upon fire detection through CCTV, submitted a fire report to the Incheon Fire Headquarters reporting server to request dispatch
+5. Sent text-message fire alerts to the gas-station manager when a fire event occurred
 
 ## Demonstration Results
-1. 감지데이터 전송 속도 (100% 달성)
-2. 신고 버튼 발생 감지 (100% 달성)
-3. 오류 신호 감지 (100% 달성)
-4. 화재 신고 접수 (100% 달성)
+1. Detection data transmission speed (100% achieved)
+2. Fire-report button event detection (100% achieved)
+3. Error signal detection (100% achieved)
+4. Fire report reception (100% achieved)
 
 ## Contact
-- 강지원
+- Kang Jiwon
 - 032-228-1222
 - lily@itp.or.kr
 
@@ -53,6 +53,6 @@
 ![](./raw/image-02.jpg)
 
 ## Notes
-- 같은 GS칼텍스 묶음 안에 어반모빌리티, 시티아이랩 사례가 함께 존재
-- See the `raw/` folder for related images and source materials
-- This document is organized based on shared screenshots and user-provided text
+- The same GS Caltex bundle also includes cases from Urban Mobility and CityEyeLab.
+- See the `raw/` folder for related images and source materials.
+- This document is organized based on shared screenshots and user-provided text.
