@@ -1,5 +1,7 @@
 # Index of Past Demonstration Cases in Incheon Startup Park and the Incheon Smart City Region
 
+[한국어 인덱스](./index_ko.md)
+
 ## Purpose
 - Build a folder-based archive of past demonstration cases centered on Incheon Startup Park.
 - Include IFEZ and Incheon smart city-related cases when relevant.
