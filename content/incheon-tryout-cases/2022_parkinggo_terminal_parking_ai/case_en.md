@@ -45,10 +45,10 @@
 ## Related Images
 
 ### Image 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/2022_parkinggo_terminal_parking_ai/raw/image-01.jpg)
 
 ### Image 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/2022_parkinggo_terminal_parking_ai/raw/image-02.jpg)
 
 ## Notes
 - The same partner bundle also includes the Appmedia case, but this document separates only the ParkingGo case.

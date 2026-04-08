@@ -39,10 +39,10 @@
 ## Related Images
 
 ### Image 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/2021_gynetworks_safety_ai/raw/image-01.jpg)
 
 ### Image 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/2021_gynetworks_safety_ai/raw/image-02.jpg)
 
 ## Notes
 - The same IFEZ / Incheon Startup Park-wide bundle also includes cases from OysterAble, VestellaLab, Soteria, Wayne, Somuna, Cheonggaeguri, FunnyTech21, Moi Technology, and Haben.

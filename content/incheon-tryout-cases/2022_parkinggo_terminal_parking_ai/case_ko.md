@@ -45,10 +45,10 @@
 ## 관련 이미지
 
 ### 이미지 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/2022_parkinggo_terminal_parking_ai/raw/image-01.jpg)
 
 ### 이미지 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/2022_parkinggo_terminal_parking_ai/raw/image-02.jpg)
 
 ## 비고
 - 같은 파트너 아래 앱미디어 사례가 함께 표기되지만, 이번 문서는 파킹고 사례만 별도 정리함

@@ -54,10 +54,10 @@
 ## Related Images
 
 ### Image 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/2024_meteosimulation_subway_fire_response/raw/image-01.jpg)
 
 ### Image 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/2024_meteosimulation_subway_fire_response/raw/image-02.jpg)
 
 ## Notes
 - Although it shares the same partner and location context as the iCaptain case, it is documented separately as a distinct demonstration case.

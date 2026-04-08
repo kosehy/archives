@@ -47,10 +47,10 @@
 ## 관련 이미지
 
 ### 이미지 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/2024_withpi_gs_fire_safety_ai/raw/image-01.jpg)
 
 ### 이미지 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/2024_withpi_gs_fire_safety_ai/raw/image-02.jpg)
 
 ## 비고
 - 같은 GS칼텍스 묶음 안에 어반모빌리티, 시티아이랩 사례가 함께 존재

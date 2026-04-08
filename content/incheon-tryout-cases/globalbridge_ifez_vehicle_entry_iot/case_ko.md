@@ -26,16 +26,16 @@
 ## 관련 이미지
 
 ### 이미지 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/globalbridge_ifez_vehicle_entry_iot/raw/image-01.jpg)
 
 ### 이미지 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/globalbridge_ifez_vehicle_entry_iot/raw/image-02.jpg)
 
 ### 이미지 3
-![](./raw/image-03.jpg)
+![](/incheon-tryout-cases/globalbridge_ifez_vehicle_entry_iot/raw/image-03.jpg)
 
 ### 이미지 4
-![](./raw/image-04.jpg)
+![](/incheon-tryout-cases/globalbridge_ifez_vehicle_entry_iot/raw/image-04.jpg)
 
 ## 비고
 - 관련 이미지 및 동영상, 근거자료는 `raw/` 폴더 참고

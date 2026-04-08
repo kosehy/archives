@@ -27,13 +27,13 @@
 ## Related Images
 
 ### Image 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/zebra_sequence_station_face_recognition/raw/image-01.jpg)
 
 ### Image 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/zebra_sequence_station_face_recognition/raw/image-02.jpg)
 
 ### Image 3
-![](./raw/image-03.jpg)
+![](/incheon-tryout-cases/zebra_sequence_station_face_recognition/raw/image-03.jpg)
 
 ## Notes
 - See the `raw/` folder for related images and source materials.

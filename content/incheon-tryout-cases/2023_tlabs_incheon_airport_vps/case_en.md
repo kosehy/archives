@@ -39,22 +39,22 @@
 ## Related Images
 
 ### Image 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-01.jpg)
 
 ### Image 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-02.jpg)
 
 ### Image 3
-![](./raw/image-03.jpg)
+![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-03.jpg)
 
 ### Image 4
-![](./raw/image-04.jpg)
+![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-04.jpg)
 
 ### Image 5
-![](./raw/image-05.jpg)
+![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-05.jpg)
 
 ### Image 6
-![](./raw/image-06.jpg)
+![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-06.jpg)
 
 ## Notes
 - See the `raw/` folder for related images and source materials.

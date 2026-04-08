@@ -54,10 +54,10 @@
 ## 관련 이미지
 
 ### 이미지 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/2024_meteosimulation_subway_fire_response/raw/image-01.jpg)
 
 ### 이미지 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/2024_meteosimulation_subway_fire_response/raw/image-02.jpg)
 
 ## 비고
 - 같은 인천교통공사 파트너 사례이지만, 아이캡틴과는 별도 실증사례로 분리 정리함

@@ -24,10 +24,10 @@
 ## 관련 이미지
 
 ### 이미지 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/cityeyelab_geomdan_traffic_monitoring/raw/image-01.jpg)
 
 ### 이미지 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/cityeyelab_geomdan_traffic_monitoring/raw/image-02.jpg)
 
 ## 비고
 - 관련 이미지 및 근거자료는 `raw/` 폴더 참고

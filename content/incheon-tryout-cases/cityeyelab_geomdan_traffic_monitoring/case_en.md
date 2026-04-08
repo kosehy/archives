@@ -24,10 +24,10 @@
 ## Related Images
 
 ### Image 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/cityeyelab_geomdan_traffic_monitoring/raw/image-01.jpg)
 
 ### Image 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/cityeyelab_geomdan_traffic_monitoring/raw/image-02.jpg)
 
 ## Notes
 - See the `raw/` folder for related images and source materials.

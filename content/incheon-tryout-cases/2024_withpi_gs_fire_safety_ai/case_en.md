@@ -47,10 +47,10 @@
 ## Related Images
 
 ### Image 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/2024_withpi_gs_fire_safety_ai/raw/image-01.jpg)
 
 ### Image 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/2024_withpi_gs_fire_safety_ai/raw/image-02.jpg)
 
 ## Notes
 - The same GS Caltex bundle also includes cases from Urban Mobility and CityEyeLab.

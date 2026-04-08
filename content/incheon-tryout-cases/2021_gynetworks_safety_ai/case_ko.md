@@ -39,10 +39,10 @@
 ## 관련 이미지
 
 ### 이미지 1
-![](./raw/image-01.jpg)
+![](/incheon-tryout-cases/2021_gynetworks_safety_ai/raw/image-01.jpg)
 
 ### 이미지 2
-![](./raw/image-02.jpg)
+![](/incheon-tryout-cases/2021_gynetworks_safety_ai/raw/image-02.jpg)
 
 ## 비고
 - 같은 IFEZ/인천스타트업파크 전체 공간 묶음 안에 오이스터에이블, 베스텔라랩, 소테리아, 웨인, 소무나, 청개구리, 퍼니테크21, 모이기술, 하벤 등의 사례가 함께 존재
