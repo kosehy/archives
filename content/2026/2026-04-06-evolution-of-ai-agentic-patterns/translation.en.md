@@ -32,7 +32,7 @@ The article’s argument is simple. **Engineering rigor did not disappear. It on
 
 Each move was triggered by the failures of the previous era. The article follows the path of those failures.
 
-![AI 에이전틱 패턴의 진화 타임라인 — Prompt → Context → Harness Engineering](/assets/images/three-era-timeline.png)
+![AI 에이전틱 패턴의 진화 타임라인 — Prompt → Context → Harness Engineering](./figures/figure-01.png)
 
 ## 2. The age of prompt engineering (2022-2024)
 
@@ -72,7 +72,7 @@ While Copilot and ChatGPT were proving practical possibility, academia was worki
 
 On GSM8K, the grade-school math benchmark, PaLM 540B jumped from 17.9 percent to 58.1 percent accuracy. Simply asking for the intermediate reasoning process dramatically improved arithmetic, commonsense, and symbolic reasoning. It was the moment when a single line of prompting proved its power.
 
-![Chain-of-Thought 프롬프팅: 일반 프롬프트(좌)와 CoT 프롬프트(우)의 차이 — Wei et al., 2022](https://ar5iv.labs.arxiv.org/html/2201.11903/assets/x1.png)
+![Chain-of-Thought 프롬프팅: 일반 프롬프트(좌)와 CoT 프롬프트(우)의 차이 — Wei et al., 2022](./figures/figure-02.png)
 
 **[ReAct: reasoning and acting combined](https://arxiv.org/abs/2210.03629)**, Yao et al., 2022. In October of the same year, the Princeton-Google team went a step further. If CoT was a "thinking only" pattern, ReAct alternated Thought and Action. The model would search Wikipedia on its own, observe the result, and then continue reasoning.
 
@@ -85,7 +85,7 @@ Action: Search[Y]
 ...
 ```
 
-![ReAct 패턴: 추론(Reasoning)과 행동(Acting)의 결합 — Yao et al., 2022](https://ylanglabs.com/static/images/blogs/react-reasoning-and-acting-in-language-models/react-act-reason.png)
+![ReAct 패턴: 추론(Reasoning)과 행동(Acting)의 결합 — Yao et al., 2022](./figures/figure-03.png)
 
 The two key gains were clear. First, hallucination dropped because the model could search for what it did not know. Second, the reasoning path became transparent because you could trace why it answered the way it did. Absolute improvements of 34 percent on ALFWorld and 10 percent on WebShop followed. **The prototype of the agent was born here.** Today’s AI agents, Claude Code, Cursor Agent, GitHub Copilot Coding Agent, all descend from variations of this Thought-Action-Observation loop.
 
@@ -93,7 +93,7 @@ So far, things still looked promising. Problems began once people tried to push 
 
 **[Tree-of-Thought](https://arxiv.org/abs/2305.10601)**, Yao et al., 2023. In 2023, the focus shifted from the depth of reasoning to its breadth.
 
-![Tree-of-Thought: 일직선(CoT) 대비 트리 탐색 기반 추론 — Yao et al., 2023](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FTOT.3b13bc5e.png&w=1920&q=75)
+![Tree-of-Thought: 일직선(CoT) 대비 트리 탐색 기반 추론 — Yao et al., 2023](./figures/figure-04.png)
 
 If CoT reasoned in a straight line, Tree-of-Thought explored multiple reasoning paths in parallel and backtracked from dead ends. It worked like reading multiple lines ahead in chess. Seductive, but expensive. A single problem could require dozens of API calls. The paper’s Future Work mentions cost in a single caveat line. In production, the cloud bill makes it the first crisis.
 
@@ -103,7 +103,7 @@ If CoT reasoned in a straight line, Tree-of-Thought explored multiple reasoning 
 
 In March 2024, Andrew Ng, Stanford professor, Coursera co-founder, and former leader at Google Brain and Baidu AI, took the stage at Sequoia AI Ascent. His [four agentic design patterns](https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/) synthesized the research into a practical engineering framework.
 
-![Andrew Ng의 4가지 에이전틱 디자인 패턴 — Sequoia AI Ascent, 2024.03](https://miro.medium.com/v2/resize:fit:720/format:webp/1*wjqLo8i3WSZqX5VX_uchQg.png)
+![Andrew Ng의 4가지 에이전틱 디자인 패턴 — Sequoia AI Ascent, 2024.03](./figures/figure-05.png)
 
 **Reflection.** The model critiques and revises its own output. It works on the same principle as Self-Refine, but Ng framed it as the most stable and predictable pattern. Generate code, then ask the model to review it for bugs. Simple, but surprisingly effective. The key was to have the same model review under a different persona, such as a senior code reviewer.
 
@@ -135,7 +135,7 @@ The cause of death for the prompt era is clear. The place where rigor belonged w
 
 If Copilot was autocomplete that only saw the current file, **Cursor**, launched in March 2023, changed the question itself. Created by four MIT students, Michael Truell, Sualeh Asif, Arvid Lunnemark, and Aman Sanger, this fork of VS Code fundamentally changed how AI systems understood code.
 
-![Cursor의 AI 코드 에디터 아키텍처](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a8360f2-297e-4cb0-a502-f35532070821_918x1040.png)
+![Cursor의 AI 코드 에디터 아키텍처](./figures/figure-06.png)
 
 The crucial difference was **context scope**.
 
@@ -236,7 +236,7 @@ Context engineering does not mean "put in more information." If that were the id
 
 #### Anthropic’s four strategies: Write / Select / Compress / Isolate
 
-![Anthropic의 컨텍스트 엔지니어링 프레임워크 — Write, Select, Compress, Isolate](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Ffaa261102e46c7f090a2402a49000ffae18c5dd6-2292x1290.png&w=3840&q=75)
+![Anthropic의 컨텍스트 엔지니어링 프레임워크 — Write, Select, Compress, Isolate](./figures/figure-07.png)
 
 [Anthropic’s guide](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) classifies context curation into four strategies. Imagine building a customer support agent.
 
@@ -268,7 +268,7 @@ What they called the single most important production metric for agents was **KV
 
 Here is how KV-cache works. When you send a prompt to an LLM API, the model computes attention keys and values for each token. That computation is expensive. But if the **prefix** of the current prompt is identical to the prefix from the previous request, the model can reuse cached results instead of recomputing them. For Claude Sonnet, a cache hit can reduce cost by roughly an order of magnitude. Over thirty turns of interaction, the difference between recomputing the whole system prompt every time and caching it is enormous.
 
-![KV-cache 작동 원리 — 안정 접두어가 비용을 결정한다](/assets/images/kv-cache-mechanism.png)
+![KV-cache 작동 원리 — 안정 접두어가 비용을 결정한다](./figures/figure-08.png)
 
 The crucial point is this: change even **one token** in the context prefix and the rest of the cache becomes invalid. That is why Google ADK insists on placing the stable prefix first. In production, the **stability** of the prompt matters more than the quality of the phrasing. It is ironic. After two years of obsessing over better prompts, what matters most in production is often **not touching the prompt at all**.
 
@@ -292,7 +292,7 @@ The Manus team went further and proposed five practical rules.
 
 Start with the foundational infrastructure of context engineering: **[MCP, the Model Context Protocol](https://modelcontextprotocol.io/)**. Announced by Anthropic in November 2024, this open protocol standardizes how LLMs connect to external tools and data sources.
 
-![MCP(Model Context Protocol) 아키텍처](https://mintcdn.com/mcp/bEUxYpZqie0DsluH/images/mcp-simple-diagram.png?w=1100&fit=max&auto=format&n=bEUxYpZqie0DsluH&q=85&s=341b88d6308188ab06bf05748c80a494)
+![MCP(Model Context Protocol) 아키텍처](./figures/figure-09.png)
 
 Before MCP, each tool required its own custom integration. Slack APIs, GitHub APIs, databases, file systems, each one needed different glue code. It was like the era before USB, when printers, keyboards, and mice each needed their own connector. MCP plays the role of USB. Once a tool exposes an MCP server, any AI client that supports MCP, Claude, ChatGPT, Cursor, VS Code, can connect in the same way.
 
@@ -389,7 +389,7 @@ Theory is one thing. How does harness engineering work in practice?
 
 So Anthropic split the system into three agents, inspired loosely by GAN-like separation between generation and evaluation.
 
-![Anthropic의 3-에이전트 하네스 아키텍처 — Planner, Generator, Evaluator의 GAN 스타일 피드백 루프](https://cdn.sanity.io/images/4zrzovbb/website/3bde53c9578d74f6e05c3e515e20b910c5a8c20a-4584x4584.png)
+![Anthropic의 3-에이전트 하네스 아키텍처 — Planner, Generator, Evaluator의 GAN 스타일 피드백 루프](./figures/figure-10.png)
 
 - **Planner** expands a simple prompt into a detailed product spec, focusing on ambition and high-level design rather than over-prescribing technical details.
 - **Generator** implements one feature at a time in a React, Vite, FastAPI, and SQLite stack, evaluating each sprint and handing it over for QA.
@@ -431,7 +431,7 @@ Concrete examples follow naturally.
 - External read + state change: sensitive access must be blocked or heavily sandboxed.
 - Sensitive access + state change: external input should be excluded so that only trusted internal data is involved.
 
-![Lethal Trifecta — 세 가지가 동시에 존재하면 보안 사고는 필연이다](https://www.promptfoo.dev/img/blog/lethal-trifecta/lethal-trifecta-venn.png)
+![Lethal Trifecta — 세 가지가 동시에 존재하면 보안 사고는 필연이다](./figures/figure-12.png)
 
 These guardrails are not optional feature restrictions. They are core trust infrastructure. Agents without such harnesses may sparkle in demos, but in production they behave like time bombs.
 
