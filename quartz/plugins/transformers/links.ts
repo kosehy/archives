@@ -147,8 +147,13 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   node.properties.loading = "lazy"
                 }
 
-                if (!isAbsoluteUrl(node.properties.src, { httpOnly: false })) {
-                  let dest = node.properties.src as RelativeURL
+                const src = node.properties.src as string
+                const isExternalResource = isAbsoluteUrl(src, { httpOnly: false })
+                const isRootRelativeResource = src.startsWith("/")
+                const isRelativeResource = src.startsWith("./") || src.startsWith("../")
+
+                if (!isExternalResource && !isRootRelativeResource && !isRelativeResource) {
+                  let dest = src as RelativeURL
                   dest = node.properties.src = transformLink(
                     file.data.slug!,
                     dest,
