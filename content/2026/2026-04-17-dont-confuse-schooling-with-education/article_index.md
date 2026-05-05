@@ -1,4 +1,4 @@
-# Article Index
+# Quote of the day by Elon Musk: “Don't confuse schooling with education. I didn't go to Harvard but the people that work for me did”
 
 - Title: Quote of the day by Elon Musk: “Don't confuse schooling with education. I didn't go to Harvard but the people that work for me did”
 - Date archived: 2026-04-17
@@ -6,16 +6,12 @@
 - Source type: Times of India article
 - Language: English source, Korean translation added
 
-## Files
+## Published files
 
-- `original.en.md`
-- `translation.ko.md`
-- `summary.en.md`
-- `summary.ko.md`
-- `opinion.en.md`
-- `opinion.ko.md`
-- `summary-opinion.ko.md`
-- `personal-note.ko.md`
+- [original.en.md](./original.en)
+- [summary.en.md](./summary.en)
+- [summary.ko.md](./summary.ko)
+- [translation.ko.md](./translation.ko)
 
 ## Work log
 

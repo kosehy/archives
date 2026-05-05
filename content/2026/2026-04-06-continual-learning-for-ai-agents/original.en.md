@@ -66,11 +66,13 @@ The article explicitly mentions OpenClaw as an example of an agent that updates 
 The article gives two concrete mappings.
 
 For Claude Code:
+
 - model = claude-sonnet and similar models
 - harness = Claude Code itself
 - user context = `CLAUDE.md`, `/skills`, `mcp.json`
 
 For OpenClaw:
+
 - model = many possible models
 - harness = Pi plus surrounding scaffolding
 - agent context = `SOUL.md`, skills from ClawHub

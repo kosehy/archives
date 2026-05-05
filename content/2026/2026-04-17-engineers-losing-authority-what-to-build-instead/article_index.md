@@ -1,4 +1,4 @@
-# Article Index
+# Engineers Losing Authority? Here's What To Build Instead
 
 - Title: Engineers Losing Authority? Here's What To Build Instead
 - Date archived: 2026-04-17
@@ -6,17 +6,12 @@
 - Source type: Substack engineering leadership digest
 - Language: English source, Korean translation added
 
-## Files
+## Published files
 
-- `original.en.md`
-- `translation.ko.md`
-- `summary.en.md`
-- `summary.ko.md`
-- `opinion.en.md`
-- `opinion.ko.md`
-- `summary-opinion.ko.md`
-- `personal-note.ko.md`
-- `article_index.md`
+- [original.en.md](./original.en)
+- [summary.en.md](./summary.en)
+- [summary.ko.md](./summary.ko)
+- [translation.ko.md](./translation.ko)
 
 ## Work log
 

@@ -14,12 +14,15 @@ The post positions Mesh as a simpler private-networking experience built on Clou
 ## Core workflows highlighted in the post
 
 ### 1. Personal agent access from remote devices
+
 The article uses an example of running OpenClaw on a home Mac mini and needing to reach it from a phone, coffee-shop laptop, or work machine without exposing the system to the public Internet.
 
 ### 2. Coding agent access to private staging environments
+
 The article highlights coding tools like Claude Code, Cursor, and Codex needing access to private databases, object stores, and internal APIs in staging environments.
 
 ### 3. Deployed agents connecting to private services
+
 The article describes agents built with the Agents SDK on Workers that need scoped access to internal APIs, databases, and MCP servers without leaking credentials or opening public endpoints.
 
 ## Mesh positioning in the article

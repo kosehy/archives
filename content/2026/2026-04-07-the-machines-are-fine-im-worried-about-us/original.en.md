@@ -20,6 +20,7 @@ Both publish solid papers.
 From the outside, their year looks identical.
 
 But one of them, Bob, secretly relied on an AI agent for:
+
 - summarizing papers
 - explaining new methods
 - debugging code
@@ -31,6 +32,7 @@ The institution sees equivalent output.
 The essay argues that the actual outcome is profoundly different.
 
 Alice ends the year with durable internal capability:
+
 - she can read new papers with effort and follow them
 - she can write methods from scratch
 - she can detect when a result looks wrong
@@ -53,6 +55,7 @@ Because astrophysics has little direct practical output compared with fields lik
 The essay discusses Matthew Schwartz’s experiment supervising Claude through a real theoretical physics calculation.
 
 The article’s interpretation is subtle:
+
 - the experiment shows AI can help produce publishable work
 - but it also shows that expert supervision is what actually makes the result scientific
 
@@ -63,6 +66,7 @@ So the essay argues that stronger models do not eliminate the need for human exp
 ## The real danger: slow erosion of understanding
 
 The author rejects both simplistic poles in the debate:
+
 - full embrace, where humans mainly curate machine output
 - full prohibition, where AI use is treated as if it can simply be banned away
 
@@ -71,11 +75,13 @@ Instead, the essay claims the real danger is quieter.
 It is the gradual normalization of producing acceptable-looking work without understanding what one is doing.
 
 That means a generation of researchers who can:
+
 - generate results
 - pass peer review
 - use tools effectively
 
 but cannot:
+
 - derive the method from first principles
 - explain why the method works
 - detect deep errors independently
@@ -90,6 +96,7 @@ The boring parts are not separable from the important parts in advance.
 Debugging, failed derivations, confusion, re-reading, and incorrect attempts are not incidental overhead. They are how tacit understanding gets built.
 
 The essay insists that:
+
 - failures are the curriculum
 - error messages are the syllabus
 - time spent confused is often what builds the infrastructure of thought needed later for original work
@@ -101,6 +108,7 @@ In this view, removing friction too early does not just make work faster. It rem
 The essay does not argue against AI use in general.
 
 It explicitly allows for tool-like use cases:
+
 - syntax help
 - phrasing assistance
 - formatting help
@@ -115,6 +123,7 @@ That line is described as the most important distinction in the entire debate.
 The essay is careful not to portray students like Bob as irrational.
 
 From within academia’s incentives, outsourcing thinking may be perfectly rational:
+
 - publication volume matters
 - hiring is brutally competitive
 - short-term output is rewarded

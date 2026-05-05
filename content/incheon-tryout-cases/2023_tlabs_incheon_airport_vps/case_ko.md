@@ -3,6 +3,7 @@
 # 티랩스 | 인천국제공항 제1~2여객터미널 공간 및 시설물 대상 VPS 기술 실증
 
 ## 기본 정보
+
 - 실증기업: 티랩스
 - 실증년도: 2023
 - 지원금액: 30,000,000원
@@ -13,25 +14,31 @@
   - 용도: 인천국제공항 공간 및 시설물의 디지털 전환
 
 ## 실증 개요
+
 - 사례명: 인천국제공항 이용자가 스마트폰을 이용하여 인천국제공항 제1, 2터미널에서 수십 cm 내외로 정확한 위치를 추정할 수 있도록 하는 상용 서비스 수준의 VPS 기술 실증
 - 분야: 실내외 정밀측위, VPS, 디지털 전환, 공항 공간 서비스
 - 목적: 공항 이용자가 스마트폰 기반으로 제1, 2터미널 내에서 정밀 위치를 추정할 수 있는 상용 수준의 기술을 검증하는 것
 
 ## 실증내용
+
 - 인천국제공항 이용자가 스마트폰을 이용하여 인천국제공항 제1,2터미널에서 (수십 cm 내외로) 정확한 위치를 추정하되 상용 서비스가 가능한 수준의 기술 실증
 
 ## 실증목표
+
 - 필요 영상 정보량 : 5sec
 - 초기위치 적확도 : 90%
 
 ## 실증방법
+
 - 인천국제공항 제2터미널 3층에서 Lidar 기반의 스캐너를 이용하여 데이터 취득 및 VPS 알고리즘 성능 확인 실증
 
 ## 실증결과
+
 - 필요 영상 정보량 : 3.9sec (달성)
 - 초기위치 적확도 : 90% (달성)
 
 ## 담당자
+
 - 강바람
 - 010-5138-5858
 - zakkdime@itp.or.kr
@@ -39,23 +46,30 @@
 ## 관련 이미지
 
 ### 이미지 1
+
 ![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-01.jpg)
 
 ### 이미지 2
+
 ![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-02.jpg)
 
 ### 이미지 3
+
 ![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-03.jpg)
 
 ### 이미지 4
+
 ![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-04.jpg)
 
 ### 이미지 5
+
 ![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-05.jpg)
 
 ### 이미지 6
+
 ![](/incheon-tryout-cases/2023_tlabs_incheon_airport_vps/raw/image-06.jpg)
 
 ## 비고
+
 - 관련 이미지 및 근거자료는 `raw/` 폴더 참고
 - 현재 내용은 공유된 화면 캡처 및 사용자 제공 텍스트 기준 정리본

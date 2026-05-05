@@ -1,4 +1,4 @@
-# Article Index
+# AI를 만든 사람들은 왜 구글에 있었을까요
 
 - Title: AI를 만든 사람들은 왜 구글에 있었을까요
 - Date archived: 2026-04-17
@@ -6,16 +6,12 @@
 - Source type: LinkedIn post
 - Language: Korean source, English translation added
 
-## Files
+## Published files
 
-- `original.ko.md`
-- `translation.en.md`
-- `summary.en.md`
-- `summary.ko.md`
-- `opinion.en.md`
-- `opinion.ko.md`
-- `summary-opinion.ko.md`
-- `personal-note.ko.md`
+- [original.ko.md](./original.ko)
+- [summary.en.md](./summary.en)
+- [summary.ko.md](./summary.ko)
+- [translation.en.md](./translation.en)
 
 ## Work log
 

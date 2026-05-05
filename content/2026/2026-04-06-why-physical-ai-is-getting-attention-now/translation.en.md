@@ -16,6 +16,7 @@ Past robotics cycles often ended in disappointment, but the article sees this mo
 The article points to a series of recent events that together signal momentum in the Physical AI sector.
 
 Examples include:
+
 - robot demos at NVIDIA GTC
 - Bessemer Robotics Day
 - news around a Unitree IPO
@@ -30,6 +31,7 @@ The article treats these not as isolated news items, but as reinforcing signals 
 The article’s main differentiator is that the catalysts in this cycle are not arriving one after another. They are compounding in parallel.
 
 In other words, instead of one breakthrough waiting for another, several forces are now moving at once:
+
 - model progress
 - improved data collection
 - inference maturity
@@ -52,6 +54,7 @@ For years, robotics was limited less by intelligence than by data.
 The internet contains large amounts of text and image data, but robot learning requires action, manipulation, force, and tactile data that is much harder to gather.
 
 The article argues that this bottleneck is being eased through:
+
 - scalable teleoperation
 - simulation-first approaches
 - egocentric video

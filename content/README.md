@@ -7,6 +7,7 @@ This folder contains article files approved for public publishing.
 Only include files that are safe for public release.
 
 Typical public files:
+
 - `article_index.md`
 - `original.<lang>.md`
 - `translation.<lang>.md`
@@ -14,6 +15,7 @@ Typical public files:
 - `summary.ko.md`
 
 Do not publish by default:
+
 - `opinion.*.md`
 - `personal-note.*.md`
 - other private working notes unless explicitly approved

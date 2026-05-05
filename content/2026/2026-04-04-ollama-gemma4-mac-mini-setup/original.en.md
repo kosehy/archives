@@ -184,14 +184,14 @@ curl http://localhost:11434/v1/chat/completions \
 
 ## Useful commands
 
-| Command | Description |
-|---|---|
-| `ollama list` | List downloaded models |
-| `ollama ps` | Show running models and memory usage |
-| `ollama run gemma4:latest` | Interactive chat |
-| `ollama stop gemma4:latest` | Unload model from memory |
-| `ollama pull gemma4:latest` | Update model to latest version |
-| `ollama rm gemma4:latest` | Delete model |
+| Command                     | Description                          |
+| --------------------------- | ------------------------------------ |
+| `ollama list`               | List downloaded models               |
+| `ollama ps`                 | Show running models and memory usage |
+| `ollama run gemma4:latest`  | Interactive chat                     |
+| `ollama stop gemma4:latest` | Unload model from memory             |
+| `ollama pull gemma4:latest` | Update model to latest version       |
+| `ollama rm gemma4:latest`   | Delete model                         |
 
 ## Cleanup
 

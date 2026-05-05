@@ -1,4 +1,4 @@
-# Article Index
+# OpenClaw: The complete guide to building, training, and living with your personal AI agent
 
 - Title: OpenClaw: The complete guide to building, training, and living with your personal AI agent
 - Date archived: 2026-04-18
@@ -6,16 +6,12 @@
 - Source type: Lenny’s Newsletter guide
 - Language: English source, Korean translation added
 
-## Files
+## Published files
 
-- `original.en.md`
-- `translation.ko.md`
-- `summary.en.md`
-- `summary.ko.md`
-- `opinion.en.md`
-- `opinion.ko.md`
-- `summary-opinion.ko.md`
-- `personal-note.ko.md`
+- [original.en.md](./original.en)
+- [summary.en.md](./summary.en)
+- [summary.ko.md](./summary.ko)
+- [translation.ko.md](./translation.ko)
 
 ## Work log
 

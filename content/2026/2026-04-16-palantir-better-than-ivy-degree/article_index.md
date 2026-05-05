@@ -1,4 +1,4 @@
-# Article Index
+# Palantir CEO says working at his $316B software company is better than a degree from Harvard or Yale
 
 - Title: Palantir CEO says working at his $316B software company is better than a degree from Harvard or Yale
 - Date archived: 2026-04-16
@@ -6,16 +6,12 @@
 - Source type: Fortune article
 - Language: English source, Korean translation added
 
-## Files
+## Published files
 
-- `original.en.md`
-- `translation.ko.md`
-- `summary.en.md`
-- `summary.ko.md`
-- `opinion.en.md`
-- `opinion.ko.md`
-- `summary-opinion.ko.md`
-- `personal-note.ko.md`
+- [original.en.md](./original.en)
+- [summary.en.md](./summary.en)
+- [summary.ko.md](./summary.ko)
+- [translation.ko.md](./translation.ko)
 
 ## Work log
 

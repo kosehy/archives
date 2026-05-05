@@ -5,9 +5,11 @@ Based on: `archive/2026/2026-03-29-ai-judgment-comes-from-application-not-exposu
 Saved: 2026-03-29
 
 ## One-paragraph summary
+
 The article argues that AI FOMO is often misdiagnosed as an information problem when it is really a judgment problem. Sensing and clipping AI news may create the illusion of understanding, but genuine judgment only emerges through application: using tools in real work, confronting the gap between expected and actual outcomes, and refining one’s view through failure and adjustment. In both personal and organizational contexts, the author sees applied experience—not information volume—as the true source of discernment.
 
 ## Key points
+
 - AI news is now easy to sense; scarcity is no longer access to information but the ability to interpret it in context.
 - Most people stop at bookmarking and talking about tools, which produces confidence without operational understanding.
 - Leaders should test tools in their own context before turning hype into organizational mandates.
@@ -15,4 +17,5 @@ The article argues that AI FOMO is often misdiagnosed as an information problem 
 - The real advantage is clarity about what a technology is for, not merely familiarity with its existence.
 
 ## Memorable takeaway
+
 Judgment is not accumulated by exposure to AI news, but by surviving the gap between demo promises and real-world use.

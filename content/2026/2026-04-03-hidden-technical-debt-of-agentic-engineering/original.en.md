@@ -50,6 +50,7 @@ What also matters is what comes through those integrations. When three teams con
 Right now, MCP is how most teams connect agents to their tools. But let’s not confuse MCPs with integrations. MCP gives agents a standard way to call a tool. It doesn’t manage the credentials for that call, the scope of the data that comes back, or what happens when the API on the other end changes.
 
 Hidden tech debt in integrations looks like:
+
 - An integration auth token expires on a Friday night, and an incident agent silently stops working. Nobody notices until Monday.
 - Five teams each maintain their own GitLab connection with different permissions and scopes, unaware that the others exist.
 - When an integration updates its API, every team debugs its connection separately.
@@ -59,6 +60,7 @@ Hidden tech debt in integrations looks like:
 Agents are only as good as the context they can reference and use. They need two kinds of context.
 
 ### Runtime context
+
 How do you deliver accurate context to agents during their execution?
 
 The runtime context is the live data that agents need for a specific execution, such as information about services, who owns them, and what was deployed recently. It’s the same kind of data humans use when coding or resolving incidents, but more accessible to agents.
@@ -70,6 +72,7 @@ Some teams manage their runtime context in markdown files: agents.md, .cursorrul
 Markdown files are fine for static instructions, such as how to format commits or which linter to use. But the runtime context changes constantly. Service ownership shifts. Dependencies get added. Config values update. Deployments happen every hour. An agent running on a .md file that says “checkout-service is owned by Team Payments” doesn’t know that ownership transferred to Team Commerce last Tuesday. The file was accurate when it was written. By the time the agent reads it, it might not be.
 
 ### Decision traces
+
 How do you help agents learn from their own past work or the work of other agents?
 
 Decision traces are a history of what has been done before (by humans or agents), why it was decided, and what happened afterwards. Without that history to reference, every agent run starts from zero.
@@ -81,6 +84,7 @@ An agent that resolved 50 incidents has seen patterns a new agent hasn’t, like
 LLM providers are starting to address this with memory.md files that can be shared across teams. But the debt still shows up when you have dozens of agents operating. You need to find a way to reliably serve that memory (or just the right parts of it) to specific agents.
 
 Hidden tech debt in context lake looks like:
+
 - Stale, fragmented context that no one owns.
 - Agents running on agents.md when company standards live in a wiki.
 - Agents not learning how and why other agents solved a problem, or about the mistakes they made.
@@ -88,6 +92,7 @@ Hidden tech debt in context lake looks like:
 ## 3. Agent registry
 
 ### Gaining visibility into what agents exist
+
 The org chart is changing. Instead of just people, you now have 5–10 times that number of agents. They’re being created daily by all your human employees. They’re running without guardrails, they have access to critical infrastructure, and they’re making decisions. They’re also spread across tools like Claude Code, Cursor, n8n, Zapier, Notion, AWS, GCP, and more.
 
 The typical pattern goes like this: An engineer builds a triage agent, and their team starts using it to help with incidents. Another team builds its own version because it didn’t know the first one existed. A third team builds something similar but wired to different tools with different permissions.
@@ -95,11 +100,13 @@ The typical pattern goes like this: An engineer builds a triage agent, and their
 In a company with 20 or 30 engineering teams, you’ll quickly reach agents with overlapping responsibilities, conflicting behaviors, and invisible dependencies. Before agents can be shared between teams, you need to know they exist.
 
 ### Delivering instructions to agents
+
 Once you have visibility into your agents, they need the equivalent of an employee handbook: standards, skills, and instructions on how they’re expected to operate.
 
 Today, engineers create skill files for their agents independently. The issue is that when they are scattered across repos without a centralized view, teams end up creating duplicate or inaccurate skills. They often contradict the platform-distributed context. The platform team has far more insight into what to write in skill files than individual teams do.
 
 This information may require multiple levels:
+
 - company-wide standards that apply everywhere
 - repo-specific instructions
 - team-level rules for subsets of engineers
@@ -107,11 +114,13 @@ This information may require multiple levels:
 You’ll need to find a way to reliably deliver this information to thousands of agents, ensuring the right instructions reach the right agents.
 
 ### Agent creation
+
 Without a template, you get the same sprawl problem you just solved. An engineer spins up an agent with no owner, no lifecycle state, and no connection to the service it operates on. It works for them. Nobody else knows it exists. Six months later, someone finds it running in production with expired tokens and no way to contact whoever built it.
 
 A template doesn’t restrict what the agent does. It makes sure every agent is born with the basics: an owner, a description, the tools it uses, the services it touches, and a lifecycle state.
 
 Hidden tech debt in the agent registry looks like:
+
 - Invisible agents
 - Teams creating duplicate agents
 - Outdated context
@@ -128,6 +137,7 @@ Different stakeholders want different types of measurement.
 4. Feedback loops — whether humans accept or correct the agent’s output, and whether agents learn from that feedback.
 
 Hidden tech debt in measurement looks like:
+
 - Not knowing if agent performance is improving or declining over time.
 - Not being able to measure what happens when a prompt or model changes.
 - Leadership asking for ROI without a clear answer.
@@ -144,6 +154,7 @@ When you have one agent in a demo, you can hard-code the approval checkpoints. W
 And then there’s the orchestration of the approvals themselves: who gets notified, through what channel, what the timeout is, and what happens if nobody responds.
 
 Hidden tech debt in human-in-the-loop looks like:
+
 - Hard-coded approval code that can’t be changed from one place.
 - Some agents run without approvals, others have too many.
 - Multiple approval systems by email, Slack, and custom UI that don’t work with each other.
@@ -162,6 +173,7 @@ You also need auditability. Most agent setups don’t produce a real audit trail
 Another aspect of governance is cost governance. Agents tend to keep working despite the costs they are racking up. An agent stuck in a retry loop or reasoning in circles can keep burning tokens for hours.
 
 Hidden tech debt in governance looks like:
+
 - An agent that shouldn’t run in production, accessing production data.
 - An RCA agent publishing sensitive data to a shared channel.
 - An agent publishing PII in a public forum.
@@ -183,6 +195,7 @@ Traditional workflow orchestration is deterministic. Agent orchestration is not.
 Who owns the workflow itself becomes a real question. Even if each agent has an owner, the orchestration still needs an owner.
 
 Hidden tech debt in orchestration looks like:
+
 - An agent fails mid-workflow, and nobody finds out until the downstream effect surfaces.
 - No way to trace a decision across agents back to the original trigger.
 - A workflow spans three teams, but no team owns the outcome.

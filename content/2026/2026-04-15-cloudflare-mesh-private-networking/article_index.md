@@ -1,4 +1,4 @@
-# Article Index
+# Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh
 
 - Title: Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh
 - GeekNews title: Cloudflare Mesh 출시 - 사용자, 노드, 에이전트, Workers를 위한 안전한 프라이빗 네트워킹
@@ -8,17 +8,13 @@
 - Source type: Cloudflare blog post with separate GeekNews summary preservation
 - Language: English original, Korean summary/translation added
 
-## Files
+## Published files
 
-- `original.en.md`
-- `translation.ko.md`
-- `summary.en.md`
-- `summary.ko.md`
-- `opinion.en.md`
-- `opinion.ko.md`
-- `summary-opinion.ko.md`
-- `hada-summary.ko.md`
-- `personal-note.ko.md`
+- [hada-summary.ko.md](./hada-summary.ko)
+- [original.en.md](./original.en)
+- [summary.en.md](./summary.en)
+- [summary.ko.md](./summary.ko)
+- [translation.ko.md](./translation.ko)
 
 ## Work log
 

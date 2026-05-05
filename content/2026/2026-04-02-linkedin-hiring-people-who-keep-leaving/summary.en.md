@@ -5,9 +5,11 @@ Based on: `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/trans
 Saved: 2026-04-02
 
 ## One-paragraph summary
+
 This LinkedIn post argues that chronic regrettable attrition is not primarily an HR execution problem when the CEO does not recognize it as a problem. Through a conversation with a startup HR manager, the author makes the case that bringing in a CHRO will not solve the issue unless the CEO already has urgency and a willingness to change. The deeper message is that hiring carries moral weight: if an HR leader understands why strong candidates keep leaving, continuing to recruit people into the same environment without conviction becomes its own responsibility.
 
 ## Key points
+
 - High turnover is not always a problem, but repeated loss of valued people can be.
 - If the CEO does not see regrettable attrition as a problem, outside HR leadership is unlikely to fix it.
 - A CHRO is useful only when leadership already wants change and needs help executing it.
@@ -16,4 +18,5 @@ This LinkedIn post argues that chronic regrettable attrition is not primarily an
 - The author rejects the idea that interviews and hiring are a tactical deception game.
 
 ## Memorable takeaway
+
 If leadership feels no urgency about losing the very people it wanted most, hiring harder will not solve the problem.
