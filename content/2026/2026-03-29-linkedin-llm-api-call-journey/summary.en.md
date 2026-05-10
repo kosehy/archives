@@ -5,9 +5,11 @@ Based on: `archive/2026/2026-03-29-linkedin-llm-api-call-journey/original.en.md`
 Saved: 2026-03-29
 
 ## One-paragraph summary
+
 This LinkedIn post gives a simplified walkthrough of what happens between an LLM API request and its response. It frames the request path as a multi-layer system that includes gateway checks, load balancing, tokenization, model routing, GPU-based inference, post-processing, and billing. The post’s main teaching point is that most latency lives in inference, especially in token-by-token decoding, while the surrounding infrastructure layers determine routing, limits, safety, and cost.
 
 ## Key points
+
 - API requests pass through multiple infrastructure layers before reaching a model.
 - Gateway and load-balancing layers handle validation, limits, routing, and cluster selection.
 - Tokenization converts text into tokens and affects both context limits and cost.
@@ -18,4 +20,5 @@ This LinkedIn post gives a simplified walkthrough of what happens between an LLM
 - The post presents this as a general pattern across major LLM providers.
 
 ## Memorable takeaway
+
 An LLM response is not just “the model answering”—it is the output of a full inference stack wrapped in routing, safety, and billing systems.

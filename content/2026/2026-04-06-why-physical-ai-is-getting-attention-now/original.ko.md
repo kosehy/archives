@@ -16,6 +16,7 @@ Type: GeekNews summary / robotics / Physical AI trend analysis
 글은 최근 Physical AI 분야에서 모멘텀을 보여 주는 사건들이 이어지고 있다고 본다.
 
 예시로는:
+
 - NVIDIA GTC에서의 로봇 데모
 - Bessemer Robotics Day
 - Unitree IPO 관련 소식
@@ -30,13 +31,14 @@ Type: GeekNews summary / robotics / Physical AI trend analysis
 이 글이 가장 강조하는 차별점은 이번 사이클의 촉매들이 순차적으로 오는 것이 아니라 병렬적으로 복합 작용하고 있다는 점이다.
 
 즉 어떤 한 가지 기술 진보가 다른 하나를 기다리는 구조가 아니라,
+
 - 모델 진전
 - 데이터 수집 완화
 - 추론 인프라 성숙
 - 하드웨어 비용 하락
 - 자동화 수요 증가
 - 인재 유입
-이 함께 작동하면서 과거와 다른 수렴을 만들고 있다는 것이다.
+  이 함께 작동하면서 과거와 다른 수렴을 만들고 있다는 것이다.
 
 ## Physical AI용 파운데이션 모델
 

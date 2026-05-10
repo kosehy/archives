@@ -93,15 +93,18 @@
 ## 향후 로드맵
 
 ### 호스트네임 라우팅
+
 - 올여름 Cloudflare Tunnel의 호스트네임 라우팅을 Mesh로 확장 예정
 - `wiki.local`, `api.staging.internal` 같은 프라이빗 호스트네임 라우팅 지원 예정
 - 동적 IP, 오토 스케일링 그룹, 임시 컨테이너 환경에서의 라우팅 복잡성 완화
 
 ### Mesh DNS
+
 - 올해 후반 Mesh 참여 노드와 디바이스에 자동으로 라우팅 가능한 내부 호스트네임 부여 예정
 - DNS 설정이나 수동 레코드 없이 접근 가능하도록 하는 방향
 
 ### ID 인식 라우팅
+
 - 각 노드, 디바이스, 에이전트에 고유 ID를 부여하여 IP 범위가 아닌 접속 주체 기반 정책 작성 목표
 - 에이전트 ID 모델 구상:
   - Principal/Sponsor: 행위를 승인한 사람
@@ -109,6 +112,7 @@
   - Scope: 에이전트가 허용된 작업 범위
 
 ### Mesh 컨테이너 지원
+
 - 현재는 VM·베어메탈 Linux 서버 중심
 - Kubernetes 파드, Docker Compose, CI/CD 러너용 Mesh Docker 이미지 준비 중
 
@@ -121,14 +125,17 @@
 ## 댓글
 
 ### yoonhyuk
+
 원래 집 컴퓨터에 터널 세팅해두고 RDP만 썻는데... 에이전트도 한번 해봐야겠네요!
 
 ### yangeok
+
 가격만 무료고 보안만 좋으면 무조건 쓰죠 ㅎㅎ
 
 이런거 보면 devops도 어떤 방향으로 바뀔지 대략적 감이 오네요
 
 ### xguru
+
 메쉬라 그러길래 Tailscale 이랑 비슷한건가 싶었는데 살짝 다른거군요.
 테일스케일 같은 P2P 방식이 아니라, CF 에지 네트워크를 경유하는 구조라
 Gateway 정책이나 DLP 같은 보안 기능이 자동 적용되고,
@@ -136,7 +143,9 @@ Workers/Agents SDK에서 fetch() 한 줄로 프라이빗 서비스 호출이 되
 전 그냥 테일스케일 쓰는 거로..
 
 ### minhoryang
+
 저는 오히려 tailscale의 derp relay역할을 cloudflare edge가 해주니까 더 강력한 경쟁자가 등장한건 아닌가 싶었습니다. Tailscale도 P2P가 안되면 derp relay를 통해 통신을 보내니까요. “릴레이 인프라의 PoP(Point of Presence)가 제한적이면 상당 부분의 트래픽이 릴레이를 거쳐 지연과 신뢰성 저하 발생” 이부분이 특히 tailscale을 말하는 것 같더라구요. 저는 둘 다 섞어쓸 것 같습니다. 바로 실험갑니다
 
 #### minhoryang 대댓글
+
 cloudflare edge도 100.96.0.0 100. 으로 시작하는 대역을 사용하네요. tailscale과 같이 쓰려고 했는데, 설치부터 사용까지 애로사항이 조금씩 있습니다. 저처럼 동시에 쓰려는 분들은 참고바랍니다.

@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Quartz build artifacts
+public/
+quartz/.quartz-cache/
+tsconfig.tsbuildinfo
+
+# OS/editor noise
+.DS_Store
+*.swp
+*.swo

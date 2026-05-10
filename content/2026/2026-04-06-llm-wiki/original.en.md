@@ -18,6 +18,7 @@ The important distinction is that knowledge is not re-derived from scratch for e
 The document contrasts this idea with the standard retrieval pattern most people experience today.
 
 Typical RAG systems:
+
 - store raw documents
 - retrieve relevant chunks at query time
 - synthesize an answer on demand
@@ -25,6 +26,7 @@ Typical RAG systems:
 That works, but every subtle question forces the LLM to rediscover and recombine knowledge again.
 
 The proposed wiki approach is different:
+
 - the LLM incrementally integrates each source into the wiki
 - entity pages, concept pages, and summaries are updated over time
 - contradictions can be flagged in advance
@@ -37,10 +39,12 @@ This makes the wiki a compounding knowledge artifact rather than a temporary ans
 The document is explicit that humans should rarely write the wiki directly.
 
 Instead:
+
 - the human curates sources, explores, and asks questions
 - the LLM handles summarizing, filing, cross-referencing, and maintenance
 
 The author describes the practical setup as having the LLM agent open on one side and Obsidian on the other. In that setup:
+
 - Obsidian is the IDE
 - the LLM is the programmer
 - the wiki is the codebase
@@ -64,6 +68,7 @@ The proposal defines three core layers.
 ### 1. Raw sources
 
 These are the immutable source materials:
+
 - articles
 - papers
 - images
@@ -77,6 +82,7 @@ The LLM can read them but never modifies them.
 This is a directory of LLM-generated markdown files.
 
 Possible page types include:
+
 - summaries
 - entity pages
 - concept pages
@@ -93,6 +99,7 @@ This is the configuration document that teaches the LLM how the wiki should be s
 Examples mentioned include files like `CLAUDE.md` or `AGENTS.md`.
 
 The schema defines:
+
 - structure
 - conventions
 - ingestion workflow
@@ -110,6 +117,7 @@ The document highlights three primary workflows.
 A new source is dropped into the raw collection.
 
 The LLM then:
+
 - reads it
 - discusses it with the user
 - writes a summary page
@@ -132,6 +140,7 @@ Crucially, good answers should themselves be filed back into the wiki as new pag
 The LLM periodically performs health checks on the wiki.
 
 It looks for:
+
 - contradictions
 - stale claims
 - orphan pages
@@ -174,6 +183,7 @@ The broader idea is that the wiki remains just a markdown repository, which keep
 ## Why this matters
 
 The document argues that the hardest part of knowledge base maintenance is not reading or thinking, but bookkeeping:
+
 - updating cross-references
 - keeping summaries current
 - tracking contradictions

@@ -4,34 +4,15 @@ Source: https://www.linkedin.com/posts/divercity_%EC%96%B4%EB%A0%B5%EA%B2%8C-%EC
 Date: 2026-04-02
 Folder: `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/`
 
-## Files
-- Original post (Korean)
-  - `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/original.ko.md`
-- English translation
-  - `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/translation.en.md`
-- English summary
-  - `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/summary.en.md`
-- Korean summary
-  - `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/summary.ko.md`
-- English opinion
-  - `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/opinion.en.md`
-- Korean opinion
-  - `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/opinion.ko.md`
-- Korean summary + opinion
-  - `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/summary-opinion.ko.md`
-- Personal note
-  - `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/personal-note.ko.md`
-- Article index
-  - `archive/2026/2026-04-02-linkedin-hiring-people-who-keep-leaving/article_index.md`
+## Published files
 
-## Recommended reading order
-1. `summary.ko.md`
-2. `opinion.ko.md`
-3. `summary-opinion.ko.md`
-4. `translation.en.md`
-5. `original.ko.md`
+- [original.ko.md](./original.ko)
+- [summary.en.md](./summary.en)
+- [summary.ko.md](./summary.ko)
+- [translation.en.md](./translation.en)
 
 ## Notes
+
 - `original.ko.md` is the preserved source text.
 - This archive is based on a LinkedIn post rather than a conventional article.
 - Public web extraction succeeded.

@@ -43,6 +43,7 @@ Anthropic groups interactions into two broad categories: automation and augmenta
 The API platform continued gaining a higher share of Computer and Mathematical tasks. Since August 2025, tasks in that category increased by 14% in the API and decreased by 18% in Claude.ai. Anthropic interprets this migration from Claude.ai to the API as a sign of more imminent work transformation in those jobs.
 
 Two API workflows appeared far more frequently in February than three months earlier:
+
 - business sales and outreach automation
 - automated trading and market operations
 
@@ -81,11 +82,13 @@ Data from this report is available here: https://huggingface.co/datasets/Anthrop
 ## Authors
 
 First author block:
+
 - Maxim Massenkoff
 - Eva Lyubich
 - Peter McCrory
 
 Second author block:
+
 - Ruth Appel
 - Ryan Heller
 

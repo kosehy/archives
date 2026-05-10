@@ -1,4 +1,4 @@
-# Article Index
+# Introducing Claude Opus 4.7
 
 - Title: Introducing Claude Opus 4.7
 - Date archived: 2026-04-17
@@ -6,16 +6,12 @@
 - Source type: Anthropic announcement
 - Language: English source, Korean translation added
 
-## Files
+## Published files
 
-- `original.en.md`
-- `translation.ko.md`
-- `summary.en.md`
-- `summary.ko.md`
-- `opinion.en.md`
-- `opinion.ko.md`
-- `summary-opinion.ko.md`
-- `personal-note.ko.md`
+- [original.en.md](./original.en)
+- [summary.en.md](./summary.en)
+- [summary.ko.md](./summary.ko)
+- [translation.ko.md](./translation.ko)
 
 ## Work log
 

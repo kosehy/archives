@@ -44,6 +44,7 @@ Anthropic은 상호작용을 크게 자동화와 보강으로 나눈다. Claude.
 API 플랫폼은 Computer and Mathematical 범주의 작업 비중을 계속 늘리고 있다. 2025년 8월 이후 해당 범주 작업은 API에서 14% 증가했고 Claude.ai에서는 18% 감소했다. Anthropic은 이런 이동이 관련 직무의 더 임박한 업무 변화를 시사할 수 있다고 본다.
 
 특히 최근 API에서 두드러지게 늘어난 워크플로우는 다음과 같다.
+
 - 영업 및 아웃리치 자동화
 - 자동화된 트레이딩 및 시장 운영
 
@@ -82,11 +83,13 @@ Anthropic의 결론은 Claude가 여전히 미국 경제 평균을 대표하는 
 ## 저자
 
 주요 저자:
+
 - Maxim Massenkoff
 - Eva Lyubich
 - Peter McCrory
 
 공동 저자:
+
 - Ruth Appel
 - Ryan Heller
 

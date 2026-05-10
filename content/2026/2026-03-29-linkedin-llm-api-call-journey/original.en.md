@@ -61,12 +61,14 @@ Every provider with multiple models has this layer.
 This is 95% of your wait time. Two phases:
 
 ### Prefill
+
 - All input tokens processed in parallel
 - Attention scores computed across Query and Key matrices
 - KV Cache generated and stored in GPU HBM memory
 - This is why long prompts have higher time-to-first-token
 
 ### Decode
+
 - One token generated per forward pass
 - KV Cache reused so past tokens aren't recomputed
 - Temperature and top_p sampling happens at this step
@@ -75,6 +77,7 @@ This is 95% of your wait time. Two phases:
 This is the fundamental reason streaming exists — tokens are generated one at a time.
 
 The hardware doing this:
+
 - A100 / H100 / H200 GPUs with 80GB+ HBM
 - Model weights split across multiple GPUs via tensor parallelism
 - Multiple user requests batched together for throughput

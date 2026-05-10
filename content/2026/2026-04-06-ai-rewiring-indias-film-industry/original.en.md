@@ -41,7 +41,7 @@ This difference may allow India to become a major center of AI-enabled filmmakin
 
 ## Example: rewriting older films
 
-One example in the article is the AI-modified re-release of the 2013 film *Raanjhanaa*, whose tragic ending was replaced with a happier one.
+One example in the article is the AI-modified re-release of the 2013 film _Raanjhanaa_, whose tragic ending was replaced with a happier one.
 
 The move triggered criticism from the lead actor, who said the remake stripped the film of its soul and set a troubling precedent for art and artists. Even so, the re-release still attracted audience demand, and the studio said it is reviewing its large back catalog for more AI-assisted adaptation opportunities.
 
@@ -51,7 +51,7 @@ This captures the economic tension at the center of the article: commercial viab
 
 The article also highlights large-scale AI work in mythology-based content, a commercially important category in India.
 
-Studios are planning multiple AI-generated titles around deities and epic material, and JioStar has already aired an AI-generated adaptation of *Mahabharat*. The series appears to have reached meaningful view counts, but audience reception has been rough, with criticism around lip sync, styling, and authenticity.
+Studios are planning multiple AI-generated titles around deities and epic material, and JioStar has already aired an AI-generated adaptation of _Mahabharat_. The series appears to have reached meaningful view counts, but audience reception has been rough, with criticism around lip sync, styling, and authenticity.
 
 This suggests that scale and cost efficiency are already possible, even if artistic acceptance remains unresolved.
 

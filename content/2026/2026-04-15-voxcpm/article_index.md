@@ -1,4 +1,4 @@
-# Article Index
+# VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 
 - Title: VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - Date archived: 2026-04-15
@@ -8,16 +8,12 @@
 - Language: English
 - License shown on repository page: Apache-2.0
 
-## Files
+## Published files
 
-- `original.en.md`
-- `translation.ko.md`
-- `summary.en.md`
-- `summary.ko.md`
-- `opinion.en.md`
-- `opinion.ko.md`
-- `summary-opinion.ko.md`
-- `personal-note.ko.md`
+- [original.en.md](./original.en)
+- [summary.en.md](./summary.en)
+- [summary.ko.md](./summary.ko)
+- [translation.ko.md](./translation.ko)
 
 ## Work log
 

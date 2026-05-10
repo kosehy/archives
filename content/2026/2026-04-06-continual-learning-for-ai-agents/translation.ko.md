@@ -66,11 +66,13 @@
 글은 두 가지 구체적 매핑도 제시한다.
 
 Claude Code의 경우:
+
 - model = claude-sonnet 등 모델
 - harness = Claude Code 자체
 - user context = `CLAUDE.md`, `/skills`, `mcp.json`
 
 OpenClaw의 경우:
+
 - model = 다양한 모델
 - harness = Pi와 그 주변 스캐폴딩
 - agent context = `SOUL.md`, ClawHub의 skills

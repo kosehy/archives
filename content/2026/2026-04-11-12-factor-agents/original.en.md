@@ -39,7 +39,7 @@ Even if LLMs continue to get exponentially more powerful, there will be core eng
 
 ## A brief framing
 
-For a deeper dive on the author’s agent journey and what led to this guide, the project points readers to *A Brief History of Software*.
+For a deeper dive on the author’s agent journey and what led to this guide, the project points readers to _A Brief History of Software_.
 
 The guide frames software as a directed graph, then explains why agent builders were excited by the idea of replacing hand-coded DAG paths with LLM-selected transitions. The author argues that the naive promise of “give the model a goal and tools and let it figure out the path” does not work as well as many hoped.
 

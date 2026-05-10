@@ -4,34 +4,14 @@ Source: https://www.linkedin.com/posts/kiwoong-yeom_%ED%95%98%EB%84%A4%EC%8A%A4%
 Date: 2026-04-10
 Folder: `archive/2026/2026-04-10-harness-hype-vs-measured-reality/`
 
-## Files
-- Original post (Korean)
-  - `archive/2026/2026-04-10-harness-hype-vs-measured-reality/original.ko.md`
-- English translation
-  - `archive/2026/2026-04-10-harness-hype-vs-measured-reality/translation.en.md`
-- English summary
-  - `archive/2026/2026-04-10-harness-hype-vs-measured-reality/summary.en.md`
-- Korean summary
-  - `archive/2026/2026-04-10-harness-hype-vs-measured-reality/summary.ko.md`
-- English opinion
-  - `archive/2026/2026-04-10-harness-hype-vs-measured-reality/opinion.en.md`
-- Korean opinion
-  - `archive/2026/2026-04-10-harness-hype-vs-measured-reality/opinion.ko.md`
-- Korean summary + opinion
-  - `archive/2026/2026-04-10-harness-hype-vs-measured-reality/summary-opinion.ko.md`
-- Personal note
-  - `archive/2026/2026-04-10-harness-hype-vs-measured-reality/personal-note.ko.md`
-- Article index
-  - `archive/2026/2026-04-10-harness-hype-vs-measured-reality/article_index.md`
+## Published files
 
-## Recommended reading order
-1. `summary.ko.md`
-2. `opinion.ko.md`
-3. `summary-opinion.ko.md`
-4. `translation.en.md`
-5. `original.ko.md`
+- [original.ko.md](./original.ko)
+- [summary.en.md](./summary.en)
+- [summary.ko.md](./summary.ko)
+- [translation.en.md](./translation.en)
 
 ## Notes
+
 - This archive preserves the text-accessible LinkedIn post via public fetch.
 - The post is Korean-source, so the archive uses `original.ko.md` and `translation.en.md`.
-- Personal note is intentionally left as a template for later reflection.

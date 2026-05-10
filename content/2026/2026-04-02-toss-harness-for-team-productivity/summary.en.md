@@ -5,9 +5,11 @@ Based on: `archive/2026/2026-04-02-toss-harness-for-team-productivity/translatio
 Saved: 2026-04-03
 
 ## One-paragraph summary
+
 This article argues that LLM usage should move from being an individual skill to becoming an organizational system. Using Claude Code’s plugin and marketplace ecosystem as the central example, it proposes that teams can raise the floor of productivity by packaging workflows, domain context, and operating norms into reusable, executable harnesses. The broader claim is that Software 3.0 will not be defined only by better models, but by systems that let teams distribute LLM literacy, operational discipline, and knowledge as living, executable assets.
 
 ## Key points
+
 - Most teams still use LLMs in an ad hoc, individual way.
 - Output differences often come from context design, not raw coding ability.
 - Claude Code’s terminal-native workflow reduces friction and helps adoption.
@@ -19,4 +21,5 @@ This article argues that LLM usage should move from being an individual skill to
 - Over time, the system may generate a useful data flywheel for fine-tuning and evaluation.
 
 ## Memorable takeaway
+
 The real leverage of Software 3.0 may come less from individual prompting skill and more from a team’s ability to package and distribute its best workflows.
