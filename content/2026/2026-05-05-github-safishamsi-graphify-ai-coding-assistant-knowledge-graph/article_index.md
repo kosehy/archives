@@ -1,9 +1,9 @@
-# GitHub - Q00/ouroboros: Agent OS: Stop prompting. Start specifying.
+# GitHub - safishamsi/graphify: AI coding assistant skill for queryable knowledge graphs
 
 ## Source
 
-- Source URL: https://github.com/Q00/ouroboros
-- Archived date: 2026-05-02
+- Source URL: https://github.com/safishamsi/graphify
+- Archived date: 2026-05-05
 - Source language: en
 - Quality status: good
 

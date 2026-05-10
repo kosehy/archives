@@ -1,24 +1,22 @@
-# GitHub - Q00/ouroboros: Agent OS: Stop prompting. Start specifying.
+# GitHub - aaif-goose/goose: an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 
 ## Source
 
-- Source URL: https://github.com/Q00/ouroboros
-- Archived date: 2026-05-02
+- Source URL: https://github.com/aaif-goose/goose
+- Archived date: 2026-05-09
 - Source language: en
 - Quality status: good
 
 ## Public files
 
 - `article_index.md` - public reading index
-- `original.ko.md` - preserved source text
 - `original.en.md` - preserved source text
 - `summary.ko.md` - public summary
 
 ## Reading order
 
-1. `original.ko.md`
-2. `original.en.md`
-3. `summary.ko.md`
+1. `original.en.md`
+2. `summary.ko.md`
 
 ## Public copy notes
 
