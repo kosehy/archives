@@ -22,7 +22,7 @@ Saved: 2026-05-15
 - Source media URL: https://media.licdn.com/dms/image/v2/D5622AQEtvubLMxj9nQ/feedshare-image-high-res/B56Z3mBKwJGgAU-/0/1777680559348?[REDACTED_QUERY]
 - Note: downloaded before query-token redaction; query tokens are not preserved in durable user-facing metadata.
 
-![Feedshare image](figures/figure-01.jpg)
+![Feedshare image](./figures/figure-01.jpg)
 
 ## Post body, verbatim
 

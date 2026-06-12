@@ -13,7 +13,7 @@ Published: 2026-04-27T18:38:22+09:00
 
 
 
-![(사진=구글)](figures/figure-01.png)
+![(사진=구글)](./figures/figure-01.png)
 
 *(사진=구글)*
 

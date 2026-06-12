@@ -19,8 +19,8 @@ Is the traditional firm becoming obsolete? Discover how the Coasean Singularity 
 
 ## Figures preserved from the official Inc reader extraction
 
-- figure-01: [figures/figure-01-inc-org-chart-ai-cover.webp](figures/figure-01-inc-org-chart-ai-cover.webp) - source: https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_1920,q_auto/vip/2026/04/org-chart-ai-inc.jpg - Photo: Getty Images. Inc header image for the article.
-- figure-02: [figures/figure-02-ronald-coase-lse-1930s.jpeg](figures/figure-02-ronald-coase-lse-1930s.jpeg) - source: https://substackcdn.com/image/fetch/$s_!yalx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8648a9c-5001-4a1e-9bbb-19b5b165cf20_966x506.jpeg - Ronald Coase at the London School of Economics, c. 1930s. From Hayek: A Commemorative Album (London: Adam Smith Institute, 1998). Courtesy of Bettina Greaves (1917-2018).
+- figure-01: [figures/figure-01-inc-org-chart-ai-cover.webp](./figures/figure-01-inc-org-chart-ai-cover.webp) - source: https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_1920,q_auto/vip/2026/04/org-chart-ai-inc.jpg - Photo: Getty Images. Inc header image for the article.
+- figure-02: [figures/figure-02-ronald-coase-lse-1930s.jpeg](./figures/figure-02-ronald-coase-lse-1930s.jpeg) - source: https://substackcdn.com/image/fetch/$s_!yalx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8648a9c-5001-4a1e-9bbb-19b5b165cf20_966x506.jpeg - Ronald Coase at the London School of Economics, c. 1930s. From Hayek: A Commemorative Album (London: Adam Smith Institute, 1998). Courtesy of Bettina Greaves (1917-2018).
 
 ## Article body
 

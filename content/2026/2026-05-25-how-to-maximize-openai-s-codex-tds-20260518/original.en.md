@@ -13,7 +13,7 @@ In my opinion, Codex is equally good on a lot of tasks and has the advantage tha
 
 In this article, I’ll be discussing my experience using OpenAI’s Codex for advanced coding tasks and other application areas, as well as some techniques that I use to enhance Codex’s performance.
 
-![OpenAI's Powerful Coding Agent](figures/figure-01.png)
+![OpenAI's Powerful Coding Agent](./figures/figure-01.png)
 
 *Caption: This infographic highlights the main contents of this article. I’ll discuss OpenAI’s Codex coding model: why you should use it, my current setup with the techniques that I use to get the most out of the model, and I’ll do a comparison of OpenAI’s Codex model versus Anthropic’s Claude Code model.*
 

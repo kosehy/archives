@@ -8,7 +8,7 @@ Description: Over the last few months, I’ve been having versions of the same c
 GeekNews topic: https://news.hada.io/topic?id=29176
 Shared URL: https://share.google/saXVwRRTKSF2Dz6F0
 
-![Substack cover image](figures/figure-01-substack-cover.png)
+![Substack cover image](./figures/figure-01-substack-cover.png)
 
 Over the last few months, I’ve been having versions of the same conversation with a bunch of seed and early-stage investors. The specifics differ, but the shape is always similar: the world we underwrite against has changed, and the founders who are building in it look different from the ones we backed in the past.
 

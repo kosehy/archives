@@ -15,7 +15,7 @@ Agentic data creation provides a way to **convert increased inference compute in
 
 Overall, this direction has the potential to change how we build AI data.
 
-![main2.png](figures/figure-01-main2.png)
+![main2.png](./figures/figure-01-main2.png)
 
 *Figure: Autodata pipeline. The framework employs an autonomous agent that emulates the role of a data scientist, iteratively generating data, conducting qualitative inspection and quantitative performance evaluation, synthesizing insights, and updating the data-generation recipe. The agent itself can be trained to be better at the data scientist task using the same criteria used in the inner loop. This cyclical process aims to progressively enhance data quality; the diagram depicts the general workflow underlying possible instantiations.*
 
@@ -77,7 +77,7 @@ Here, the main agent LLM has access to four LLM subagents:
 
 The main agent LLM proceeds to create an example (an input + response pair), by sending its initial prompt including grounding data to the Challenger LLM. It then checks the quality of the Challenger LLM’s work by sending the input to the weak and strong solvers, and assigning a reward based on the verifier’s judgments.
 
-![asi2.png](figures/figure-02-asi2.png)
+![asi2.png](./figures/figure-02-asi2.png)
 
 *Figure: Weak-vs-strong Agentic Self-Instruct method. The main LLM agent directs four subagents: a Challenger LLM generates examples; Weak and Strong solvers attempt it; a Judge evaluates their outputs. The system aims to generate training data where the Strong solver succeeds while the Weak solver fails. The main LLM analyzes data and updates the Challenger prompt using the judge’s feedback and repeats the cycle, yielding challenging examples for training the weak solver.*
 
@@ -276,13 +276,13 @@ The accepted questions after the agentic loop test qualitatively different reaso
 **Data quality.**
 We compare the accepted Agentic Self-Instruct data against CoT Self-Instruct (standard single-shot prompted generation). Under CoT Self-Instruct, the two solvers (weak and strong) score nearly identically—weak at 71.4% and strong at 73.3%, a gap of only 1.9 percentage points—showing that single-shot questions fail to find challenging enough tasks for either model. Agentic Self-Instruct drives the weak score down to 43.7% while lifting the strong score to 77.8%, widening the gap to 34 points. The agentic data creation loop produces questions that specifically reward stronger model capabilities, rather than questions both models can answer.
 
-![cs1.png](figures/figure-03-cs1.png)
+![cs1.png](./figures/figure-03-cs1.png)
 
 *Figure: Quality statistics for CS research QA pairs as measured by solution quality of the weak and strong solvers. CoT Self-Instruct is standard single-shot prompted generation; Agentic Self-Instruct is after the agentic autodata loop.*
 
 **Example execution.** Below we show an example trajectory of the agentic self-instruct process, illustrating how the agent iteratively drafts questions and evaluates weak vs. strong solver separation across multiple rounds.
 
-![agent_trajectory_round6.jpg](figures/figure-04-agent_trajectory_round6.jpg)
+![agent_trajectory_round6.jpg](./figures/figure-04-agent_trajectory_round6.jpg)
 
 *Figure: Example agent trajectory on a CS research paper, showing the final accepted round (round 6) after 5 failed attempts. The Main Agent reflects on prior failures and prompts the Challenger Agent to generate a new question. The example is evaluated by Weak (4B) and Strong (397B) solvers, scored by a Verifier/Judge across 12 rubric criteria. Round 6 achieves a 45% gap (weak 48% vs. strong 93%) and is accepted. Learnings from rounds 1–5 feed back into the Main Agent’s refinement strategy.*
 
@@ -290,7 +290,7 @@ We compare the accepted Agentic Self-Instruct data against CoT Self-Instruct (st
 
 We compare the performance of Qwen-3.5-4B trained on the examples from CoT Self-Instruct versus Agentic Self-Instruct data, using Kimi-K2.6 as the reward model to score responses against the generated rubrics. From each dataset, we hold out 100 examples as a test set and train Qwen-3.5-4B with GRPO for roughly one epoch (batch size 32, learning rate 1e-6). We evaluate each trained model on both test sets (100 examples each) to measure in-distribution and out-of-distribution performance. We find the model trained on Agentic Self-Instruct CS data demonstrates a clear advantage, suggesting that the challenging training data produced by the agentic pipeline translates to stronger reasoning performance.
 
-![cs3.png](figures/figure-05-cs3.png)
+![cs3.png](./figures/figure-05-cs3.png)
 
 *Figure: RL training results on CS research tasks. The autodata Agentic Self-Instruct method outperforms creating data with standard CoT Self-Instruct.*
 
@@ -298,7 +298,7 @@ We compare the performance of Qwen-3.5-4B trained on the examples from CoT Self-
 
 We further apply meta-optimization to the data scientist agent itself, using the same evaluation criteria from the inner loop to guide optimization of the outer loop — the agent’s harness. Concretely, we use an evolution-based optimization framework that treats the agent’s scaffold as code to be iteratively improved.
 
-![meta1.png](figures/figure-06-meta1.png)
+![meta1.png](./figures/figure-06-meta1.png)
 
 *Figure: Meta-optimization of the data scientist agent. An outer optimization loop evaluates the agent’s harness on training papers, analyzes failure trajectories to identify systematic weaknesses (e.g., context leakage), implements harness modifications via a code-editing agent, and re-evaluates on held-out validation papers. Changes are accepted only if they improve the weak-strong separation rate. This process improved validation pass rate from 12.8% to 42.4% over 126 accepted iterations out of 233 total.*
 
@@ -323,7 +323,7 @@ The meta-optimizer identified several systematic failure modes through trajector
 - **Positive-only rubric with weight capping**: The optimizer *eliminated* negative-weight rubric criteria, finding that they historically misfired and destroyed strong model scores without improving discrimination. Instead, all criteria use positive integer weights capped at 7, preventing any single criterion from dominating the score. This was a counter-intuitive discovery—penalizing errors seemed helpful in theory but hurt in practice.
 - **Structured rubric format**: The optimizer enforced a strict JSON format for rubric criteria with integer weights, eliminating parsing errors (e.g., string weights like “+8” instead of the integer 8) that had caused evaluation failures in earlier iterations.
 
-![meta3.png](figures/figure-07-meta3.png)
+![meta3.png](./figures/figure-07-meta3.png)
 
 *Figure: Meta-optimization of the data scientist agent on the CS research paper task. The optimizer iteratively improves the agent’s harness, with each accepted iteration building on the previous best. Validation pass rate (re-evaluated) measures the fraction of generated QA pairs that successfully separate weak and strong solvers, averaged over multiple re-evaluations to reduce noise.*
 

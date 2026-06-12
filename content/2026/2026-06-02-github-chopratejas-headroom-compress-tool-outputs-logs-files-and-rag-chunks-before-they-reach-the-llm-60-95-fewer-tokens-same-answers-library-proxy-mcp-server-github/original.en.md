@@ -62,7 +62,7 @@ Topics: agent, ai, anthropic, claude-code, compression, context-engineering, con
 > Headroom compresses everything your AI agent reads — tool outputs, logs, RAG chunks, files, and conversation history — before it reaches the LLM. Same answers, fraction of the tokens.
 
 <p align="center">
-  <img src="figures/HeadroomDemo-Fast.gif" alt="Headroom in action" width="820">
+  <img src="./figures/HeadroomDemo-Fast.gif" alt="Headroom in action" width="820">
   <br/><sub>Live: 10,144 → 1,260 tokens — same FATAL found.</sub>
 </p>
 
@@ -147,7 +147,7 @@ Reproduce: `python -m headroom.evals suite --tier 1` · [Full benchmarks & metho
 
 <p align="center">
   <a href="https://headroomlabs.ai/dashboard">
-    <img src="figures/headroom-savings.png" alt="60B+ tokens saved — community leaderboard" width="820">
+    <img src="./figures/headroom-savings.png" alt="60B+ tokens saved — community leaderboard" width="820">
   </a>
   <br/><b><a href="https://headroomlabs.ai/dashboard">60B+ tokens saved by the community — live leaderboard →</a></b>
 </p>
@@ -252,7 +252,7 @@ pipx install --python python3.13 "headroom-ai[all]"
 ## headroom learn
 
 <p align="center">
-  <img src="figures/headroom_learn.gif" alt="headroom learn in action" width="720">
+  <img src="./figures/headroom_learn.gif" alt="headroom learn in action" width="720">
 </p>
 
 `headroom learn` — mines failed sessions, writes corrections to `CLAUDE.md` / `AGENTS.md` / `GEMINI.md`.

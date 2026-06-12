@@ -18,7 +18,7 @@ Description: 구글이 화면을 없앤 초경량 웨어러블 ‘핏빗 에어(
 
 ## Article Body
 
-![(사진=구글)](figures/figure-01.png)
+![(사진=구글)](./figures/figure-01.png)
 
 *(사진=구글)*
 

@@ -40,7 +40,7 @@ Everything you need to understand and customize Hermes Agent. Self-evolving skil
 
 Hermes Agent crossed 90,000 GitHub stars in two months. Developers are quietly building personal AI agents that learn their workflow, remember their context, and run 24/7.
 
-![Star history tracker](figures/figure-02.jpg)
+![Star history tracker](./figures/figure-02.jpg)
 
 Every AI agent you've used has the same problem: it forgets everything the moment your session ends.
 
@@ -64,7 +64,7 @@ By the end, you'll have three fully isolated agents running on your machine: a p
 
 Check this out:
 
-![The three agents in Telegram ](figures/figure-03.jpg)
+![The three agents in Telegram ](./figures/figure-03.jpg)
 
 The whole setup takes minutes and everything here is reproducible on your own hardware.
 
@@ -110,7 +110,7 @@ The closest comparison in the open ecosystem is OpenClaw. Both are persistent, m
 
 A clean framing from the Kilo blog captures it: "Hermes packages a gateway around a learning agent. OpenClaw packages an agent around a messaging gateway."
 
-![OpenClaw vs. Hermes](figures/figure-04.jpg)
+![OpenClaw vs. Hermes](./figures/figure-04.jpg)
 
 ## How It's Built
 
@@ -120,7 +120,7 @@ Everything flows through a single AIAgent class in a run_agent.py script. CLI, m
 
 This is what makes the platform-agnostic story actually work.
 
-![How Hermes agent is structured](figures/figure-05.jpg)
+![How Hermes agent is structured](./figures/figure-05.jpg)
 
 The core loop is ReAct-style and synchronous. Build the system prompt, check if compression is needed, make an interruptible API call, execute any tool calls, loop again.
 
@@ -161,7 +161,7 @@ SOUL.md is the fixed frame. Memory and skills are the moving parts inside it.
 
 Hermes doesn't have a single "memory." It has three layers, each designed for a different purpose.
 
-![Article media](figures/figure-06.jpg)
+![Article media](./figures/figure-06.jpg)
 
 ### Tier 1: Two tiny Markdown files.
 
@@ -191,7 +191,7 @@ For deeper persistent memory, Hermes ships with [8 pluggable providers](https://
 
 When any external provider is active, Hermes automatically prefetches relevant memories before each turn, syncs conversation turns after each response, and extracts memories on session end.
 
-![External providers comparison.](figures/figure-07.jpg)
+![External providers comparison.](./figures/figure-07.jpg)
 
 ## Self-Evolving Skills: The Agent Writes Its Own Playbooks
 
@@ -226,7 +226,7 @@ platforms: [linux, macos]
 
 To keep token costs low, skills use progressive disclosure:
 
-![Progressive disclosure in Skills](figures/figure-08.jpg)
+![Progressive disclosure in Skills](./figures/figure-08.jpg)
 
 - Level 0: The agent sees names + descriptions only (~3k tokens for the full catalog)
 
@@ -250,7 +250,7 @@ So the loop works like this: the agent encounters a problem → solves it throug
 
 The tool supports six actions: create, patch (targeted fix, preferred because it's token-efficient), edit (full rewrite), delete, write_file, and remove_file.
 
-![Article media](figures/figure-09.jpg)
+![Article media](./figures/figure-09.jpg)
 
 ### The Curator: garbage collection for skills.
 
@@ -274,7 +274,7 @@ Before every Curator pass, Hermes takes a tar.gz snapshot of the entire skills d
 
 You can also pin critical skills with hermes curator pin <skill> to protect them from archival and deletion. Patches and edits still go through, so the agent can improve a pinned skill without requiring you to unpin it first.
 
-![Article media](figures/figure-10.jpg)
+![Article media](./figures/figure-10.jpg)
 
 ## GEPA: Evolving Skills Offline with Execution Traces
 
@@ -312,13 +312,13 @@ This is something that can be skipped initially, but is highly effective when yo
 
 [More details in this repo →](https://github.com/NousResearch/hermes-agent-self-evolution)
 
-![Article media](figures/figure-11.jpg)
+![Article media](./figures/figure-11.jpg)
 
 I recently wrote an article on GEPA.
 
 It’s a great alternative to try before moving to full fine-tuning or RL-based fine-tuning.
 
-![GRPO vs GEPA](figures/figure-12.jpg)
+![GRPO vs GEPA](./figures/figure-12.jpg)
 
 Ok, to summarise:
 
@@ -428,7 +428,7 @@ Hermes maintains its own official [Skills Hub](https://hermes-agent.nousresearch
 
 - 505 from LobeHub (broader community contributions)
 
-![Article media](figures/figure-14.jpg)
+![Article media](./figures/figure-14.jpg)
 
 You can also add any GitHub repo as a custom tap:
 
@@ -498,7 +498,7 @@ illustration would hurt more than help.
 
 Check out these examples:
 
-![Examples of illustrations created by Pixel: The designer](figures/figure-16.jpg)
+![Examples of illustrations created by Pixel: The designer](./figures/figure-16.jpg)
 
 Programmer at ~/.hermes/profiles/programmer/SOUL.md:
 
@@ -597,7 +597,7 @@ The researcher's SOUL.md says it's responsible for a daily Telegram digest. That
 
 Hermes ships with a built-in scheduler. The gateway daemon ticks every 60 seconds, runs any due jobs in isolated agent sessions, and delivers output to whichever messaging platform you specify. Jobs survive restarts. They live in ~/.hermes/cron/jobs.json and output goes to ~/.hermes/cron/output/.
 
-![Article media](figures/figure-17.jpg)
+![Article media](./figures/figure-17.jpg)
 
 The interesting part: you don't write cron expressions. You describe what you want in English and Hermes converts it.
 

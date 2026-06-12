@@ -3,7 +3,7 @@
 Source: https://pakodas.substack.com/p/how-to-be-a-30x-ai-engineer-with-a-taste
 Saved: 2026-06-10
 
-![Cover image](images/cover.jpg)
+![Cover image](./images/cover.jpg)
 
 A different kind of engineer is becoming disproportionately valuable. And almost nobody can precisely explain why.
 

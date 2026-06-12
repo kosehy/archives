@@ -56,12 +56,12 @@ If you've watched a Barcelona game over the past two years, then you know how it
 
 Just take a look at this heatmap for all of Barcelona's touches in LaLiga so far this season:
 
-![Figure 01: Barcelona LaLiga touch heatmap](figures/figure-01-barcelona-touch-heatmap.png)
+![Figure 01: Barcelona LaLiga touch heatmap](./figures/figure-01-barcelona-touch-heatmap.png)
 You'll see way more yellow and orange on the right side, and then you'll see that cluster of touches inside the attacking box that don't exist over on the left. Yamal gets on the ball deep, and he gets on the ball inside the box.
 
 He leads all players in LaLiga, by a wide margin, for passes completed into the penalty area, but then he's also second, between [Real Madrid](http://www.espn.com/soccer/team?id=86)'s [Vinícius Júnior](http://espn.com/soccer/player/_/id/252107/vinicius-junior) and [Kylian Mbappé](http://espn.com/soccer/player/_/id/231388/kylian-mbappe), for the number of touches he's taken inside the box.
 
-![Figure 02: LaLiga penalty-area passes and box touches comparison](figures/figure-02-penalty-area-passes-box-touches.png)
+![Figure 02: LaLiga penalty-area passes and box touches comparison](./figures/figure-02-penalty-area-passes-box-touches.png)
 This is the kind of player who has dominated modern soccer: the high-usage winger. They're able to get on the ball way more often than center forwards because they're deeper on the field. And they're able to find space more easily than attacking midfielders because they're out wide.
 
 But the best ones still manage to score as often as the best strikers and create as many chances as the best No. 10s. So, you have players that decide games in the most dangerous area of the field but who are also the ones who get the ball into those areas in the first place.
@@ -72,7 +72,7 @@ One way we can think of what's asked of a given player on the attacking end is b
 
 Here's a list of the 10 individual seasons from the past 10 years across Europe's top five leagues with the highest individual "usage rates," or share of possessions where you were the last player:
 
-![Figure 03: highest top-five-league attacking usage-rate seasons](figures/figure-03-top-usage-rate-seasons.png)
+![Figure 03: highest top-five-league attacking usage-rate seasons](./figures/figure-03-top-usage-rate-seasons.png)
 The two Messi seasons are 2019-20 and 2020-21, while the one Neymar season with Barcelona was 2016-17. Oh, and the Yamal season is _this current year_.
 
 The main difference: the youngest either Messi or Neymar were in any of those seasons was 24, Neymar's final year with Barcelona. Yamal has another six years before he's the same age.
@@ -87,7 +87,7 @@ The minutes are high intensity, and man: there are just so many minutes.
 
 Take a look at this chart, which shows the minutes leaders among 18-and-under outfield players across the Stats Perform database. The games go back to around 2009, and this includes all competitive minutes, for both club and country:
 
-![Figure 04: 18-and-under competitive minutes leaders](figures/figure-04-teenage-minutes-leaders.png)
+![Figure 04: 18-and-under competitive minutes leaders](./figures/figure-04-teenage-minutes-leaders.png)
 
 If we only look at domestic minutes in Europe's Big Five top leagues, then everything bunches together a bit more, but it allows us to look at a longer stretch of time since [FBref's database](https://www.sports-reference.com/stathead/fbref/player-season-finder.cgi?request=1&match=player_season_combined&order_by=minutes&comp_gender=m&comp_type=b5&age_max=18) goes back to the early 1990s. Here's what that top 10 looks like:
 

@@ -34,7 +34,7 @@ Why should a data scientist care about the physical networking? Because if you�
 
 To prevent bottlenecks, MareNostrum V uses an *InfiniBand NDR200* fabric arranged in a **fat-tree topology**. In a standard office network, as multiple computers try to talk across the same main switch, bandwidth gets congested. A fat-tree topology solves this by increasing the bandwidth of the links as you move up the network hierarchy, literally making the “branches” thicker near the “trunk.” This guarantees non-blocking bandwidth: any of the 8,000 nodes can talk to any other node at exactly the same minimal latency.
 
-![File:Fat tree.jpg](figures/figure-02-fat-tree-architecture-by-horizzon-commonswiki-vi.jpg)
+![File:Fat tree.jpg](./figures/figure-02-fat-tree-architecture-by-horizzon-commonswiki-vi.jpg)
 *Figure caption: Fat-Tree architecture, by HoriZZon~commonswiki via Wikimedia Commons (CC BY-SA 4.0)*
 
 The machine itself represents a joint investment from the EuroHPC Joint Undertaking, Spain, Portugal, and Turkey, split into two main computational partitions:
@@ -49,7 +49,7 @@ This one is more specialized, designed with AI training, molecular dynamics and 
 
 There are also a special type of nodes called the **Login Nodes**. These act as the front door to the supercomputer. When you SSH into Mare Nostrum, this is where you land. Login nodes are strictly for lightweight tasks: moving files, compiling code, and submitting job scripts to the scheduler. They are not for computing.
 
-![Photo by Planet Volumes on Unsplash](figures/figure-03-photo-by-planet-volumes-on-unsplash.jpg)
+![Photo by Planet Volumes on Unsplash](./figures/figure-03-photo-by-planet-volumes-on-unsplash.jpg)
 *Figure caption: Photo by Planet Volumes on Unsplash*
 
 **Quantum Infrastructure:** Classical nodes are no longer the only hardware inside the glass box. As of recently, Mare Nostrum 5 has been physically and logically integrated with Spain’s first quantum computers. This includes a digital gate-based quantum system and the newly acquired *MareNostrum-Ona*, a state-of-the-art quantum annealer based on superconducting qubits. Rather than replacing the classical supercomputer, these quantum processing units (QPUs) act as highly specialized accelerators.
@@ -60,7 +60,7 @@ When the supercomputer encounters fiercely complex optimization problems or quan
 
 Understanding the hardware is only half the battle. The operational rules of a supercomputer are entirely different from a commercial cloud provider. Mare Nostrum V is a shared public resource, which means the environment is heavily restricted to ensure security and fair play.
 
-![The airgap on MN-V, by author using Inkscape](figures/figure-04-the-airgap-on-mn-v-by-author-using-inkscape.png)
+![The airgap on MN-V, by author using Inkscape](./figures/figure-04-the-airgap-on-mn-v-by-author-using-inkscape.png)
 *Figure caption: The airgap on MN-V, by author using Inkscape*
 
 **The Airgap:** One of the biggest shocks for data scientists transitioning to HPC is the network restriction. You can access the supercomputer from the outside world via SSH, but the compute nodes absolutely cannot access the outside world. There is no outbound internet connection. You cannot `pip install` a missing library, `wget` a dataset, or connect to an external HuggingFace repository as you see fit. Everything your script needs must be pre-downloaded, compiled, and sitting in your storage directory before you submit your job.
@@ -81,12 +81,12 @@ When you finally get your research allocation approved and log into MareNostrum 
 
 After months of writing proposals for access to a 200M€ machine, it is, frankly, a bit underwhelming. There are no flashing lights, no holographic progress bars, nothing to signal just how powerful the engine behind the wheel is.
 
-![Initial terminal view after login, by author](figures/figure-05-initial-terminal-view-after-login-by-author.png)
+![Initial terminal view after login, by author](./figures/figure-05-initial-terminal-view-after-login-by-author.png)
 *Figure caption: Initial terminal view after login, by author*
 
 Because thousands of researchers are using the machine simultaneously, you cannot just execute a heavy python or C++ script directly in the terminal. If you do, it will run on the “login node,” quickly grinding it to a halt for everyone else and earning you an incredibly polite but rather firm and angry email from the system administrators.
 
-![Slurm Schema on MN-V, by author using inkscape](figures/figure-06-slurm-schema-on-mn-v-by-author-using-inkscape.svg)
+![Slurm Schema on MN-V, by author using inkscape](./figures/figure-06-slurm-schema-on-mn-v-by-author-using-inkscape.svg)
 *Figure caption: Slurm Schema on MN-V, by author using inkscape*
 
 Instead, HPC relies on a workload manager called **SLURM**. You write a bash script detailing exactly what hardware you need, what software environments to load, and what code to execute. SLURM puts your job in a queue, finds the hardware when it becomes available, executes your code, and releases the nodes.

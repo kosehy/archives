@@ -51,7 +51,7 @@ The 33% pay cut was tough to swallow. But I was pretty bored (read: miserable) a
 
 Day 1 was a shock. Of the 20 people hired, 18 had technical degrees, of which 10 were PhDs. The remaining two had a Psychology degree (me) and an economics degree. I was the **most non-technical** in the group.
 
-![Image](figures/figure-01-not-trained.webp)
+![Image](./figures/figure-01-not-trained.webp)
 
 *Caption: How I felt on the first day (from: https://www.nathanwpyle.art/)*
 
@@ -103,7 +103,7 @@ I was hesitant to leave a venerable, branded company like IBM (in hindsight, thi
 
 Joining Lazada was one of my best decisions ever.
 
-![Image](figures/figure-02-rocket.webp)
+![Image](./figures/figure-02-rocket.webp)
 
 *Caption: If you're offered a seat on a rocket, don't ask what seat. Just get on*
 
@@ -141,7 +141,7 @@ After a couple of months, it was ready for AB testing. I started the AB test, ca
 
 ## How I lost millions on my first AB test
 
-![Image](figures/figure-03-throwing-money.webp)
+![Image](./figures/figure-03-throwing-money.webp)
 
 *Caption: Nope, I wasn't as happy as this guy looks*
 
@@ -163,7 +163,7 @@ This helped **improve the data science team’s standing within the organization
 
 After a few projects, things were getting less scary and more comfortable. Easy even. *This meant my growth was slowing.*
 
-![Image](figures/figure-04-plateau.webp)
+![Image](./figures/figure-04-plateau.webp)
 
 *Caption: Progress is not linear, but a series of spikes and plateaus*
 
@@ -191,7 +191,7 @@ The first—to senior data scientist—was probably some time after the product 
 
 Then, I moved up to VP of Data Science, leading the team of 12+ data scientists.
 
-![Image](figures/figure-05-level-up.gif)
+![Image](./figures/figure-05-level-up.gif)
 
 *Caption: It takes a while, but eventually you'll level up*
 

@@ -18,7 +18,7 @@
 
 ## Preview figure
 
-![How to Work and Compound with AI preview diagram](figures/figure-00-og-preview.jpg)
+![How to Work and Compound with AI preview diagram](./figures/figure-00-og-preview.jpg)
 
 ## Original article body
 

@@ -16,7 +16,7 @@ However, a common case when running coding agents on your computer is:
 
 In this article, I’ll cover how I run my coding agents safely on my computer, why running with YOLO mode is completely fine for most people, and why manually approving all permissions can actually be quite dangerous in itself because of false confidence.
 
-![Safe coding agents](figures/figure-01.png)
+![Safe coding agents](./figures/figure-01.png)
 Caption: This infographic highlights the main contents of this article. I’ll discuss how to run coding agents in a safe manner, why you don’t need to perform human review on all code, how to avoid running unsafe actions, how many permissions to give your coding agents, and how to run them safely. Image by ChatGPT.
 
 ## Why run coding agents

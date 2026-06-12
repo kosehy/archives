@@ -15,7 +15,7 @@
 
 ## Article
 
-![김상만 변호사 인터뷰 사진](figures/figure-01-kim-sangman-hwawoo-main.jpeg)
+![김상만 변호사 인터뷰 사진](./figures/figure-01-kim-sangman-hwawoo-main.jpeg)
 *그림 1. 김상만 변호사(제공=법무법인 화우). 원문 이미지 URL: https://dtd31o1ybbmk8.cloudfront.net/photos/28b971fb1deb74cd6ce47851095cd2ad/thumb.jpeg*
 
 > 김상만 M&A 변호사 "법적 위험 낮다면 과감히 양보…자문은 주장과 갈등의 해결"
@@ -48,7 +48,7 @@
 
 ## 하나의 화우, 빅딜 시너지
 
-![김상만 변호사 추가 인터뷰 사진](figures/figure-02-kim-sangman-hwawoo-inline.jpeg)
+![김상만 변호사 추가 인터뷰 사진](./figures/figure-02-kim-sangman-hwawoo-inline.jpeg)
 *그림 2. 김상만 변호사(제공=법무법인 화우). 원문 이미지 URL: https://dtd31o1ybbmk8.cloudfront.net/photos/b070d8c3c66c32ae7bb486d0ef33267a/thumb.jpeg*
 
 화우는 이른바 원펌 중심의 협업 문화가 정착돼 있다. 딜이 들어오면 사안에 따라 노동(인력 승계), 공정거래(기업결합심사), 조세(세무 구조) 등 각 분야 전문가들이 즉각 통합 TF를 구성한다. 여러 법적 쟁점이 복잡하게 얽힌 거래에선 유기적인 대응을 해야 고객에 최적화된 솔루션을 빠르게 제공할 수 있다. 김상만 변호사는 "경영권 분쟁과 금융 규제 대응 노하우가 경쟁력"이라며 "인허가 당국에 대한 미묘한 판단이 요구되는 M&A 거래에서 화우만의 실무 대응력이 있다"고 말했다.

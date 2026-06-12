@@ -16,7 +16,7 @@ quality_status: good
 - Description: What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.
 ## Source Preservation Note
 This Markdown preserves the accessible public HTML article body. Figures were downloaded locally where possible and rewritten to `figures/` paths. GeekNews Korean summary/comments are preserved separately in `hada-summary.ko.md`.
-![Hero image of a MacBook Air with an eGPU](figures/figure-01.jpg)
+![Hero image of a MacBook Air with an eGPU](./figures/figure-01.jpg)
 *Figure caption: Strap a 600W GPU to your 22W CPU*
 
 What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.
@@ -27,7 +27,7 @@ Fortunately, borderline-impractical is kind of my thing.
 ## What’s a Thunderbolt eGPU?
 Ok, so the plan is to plug a big PC gaming GPU, an NVIDIA RTX 5090, into my M4 MacBook Air. To do that, we plug it into a Thunderbolt dock which adapts PCIe to Thunderbolt, and we plug that into a USB-C port.
 Thunderbolt tunnels PCIe over a USB-C cable, so from the computer’s perspective a Thunderbolt device really is a PCIe device, not a USB one. You get 4 PCIe lanes at up to 40Gbps on Thunderbolt 4, with a small performance penalty for the tunneling. USB4 includes the same PCIe tunneling as an optional feature, so some non-Thunderbolt USB4 ports can do this too. You can use this to plug a GPU into a laptop with a compatible port.
-![Thunderbolt from the laptop plugs into the GPU dock. The GPU plugs into the monitor via DisplayPort. Shortly after this was taken, I broke this dock.](figures/figure-03.jpg)
+![Thunderbolt from the laptop plugs into the GPU dock. The GPU plugs into the monitor via DisplayPort. Shortly after this was taken, I broke this dock.](./figures/figure-03.jpg)
 *Figure caption: Thunderbolt from the laptop plugs into the GPU dock . The GPU plugs into the monitor via DisplayPort. Shortly after this was taken, I broke this dock.*
 From the computer’s perspective, the device looks more or less like a slightly slower PCIe device, so you can usually use the same drivers you’d normally use for those devices. eGPUs work pretty much out of the box on Linux and Windows. [It’s even possible to use one on a Raspberry Pi](https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/) (albeit with [Oculink](https://en.wikipedia.org/wiki/PCI_Express#PCI_Express_OCuLink), not Thunderbolt).
 The first hurdle is that macOS does not ship with drivers for NVIDIA or AMD GPUs on Apple Silicon.

@@ -29,7 +29,7 @@ AI 에이전트와 LLM은 `llms.txt` 또는 라이브 문서 인덱스/전체 �
 > Headroom은 AI 에이전트가 읽는 도구 출력, 로그, RAG 청크, 파일, 대화 이력 등을 LLM에 도달하기 전에 압축한다. 목표는 같은 답을 유지하면서 토큰을 훨씬 적게 쓰는 것이다.
 
 <p align="center">
-  <img src="figures/HeadroomDemo-Fast.gif" alt="Headroom in action" width="820">
+  <img src="./figures/HeadroomDemo-Fast.gif" alt="Headroom in action" width="820">
   <br/><sub>라이브 예시: 10,144 토큰 → 1,260 토큰, 같은 FATAL 발견.</sub>
 </p>
 
@@ -107,7 +107,7 @@ README는 실제 에이전트 워크로드에서 다음과 같은 절감 사례�
 재현 명령은 `python -m headroom.evals suite --tier 1`이며, README는 전체 벤치마크와 방법론 문서를 연결한다.
 
 <p align="center">
-  <img src="figures/headroom-savings.png" alt="60B+ tokens saved — community leaderboard" width="820">
+  <img src="./figures/headroom-savings.png" alt="60B+ tokens saved — community leaderboard" width="820">
   <br/><b>커뮤니티 전체 60B+ 토큰 절감 라이브 리더보드</b>
 </p>
 
@@ -182,7 +182,7 @@ pipx install --python python3.13 "headroom-ai[all]"
 ## headroom learn
 
 <p align="center">
-  <img src="figures/headroom_learn.gif" alt="headroom learn in action" width="720">
+  <img src="./figures/headroom_learn.gif" alt="headroom learn in action" width="720">
 </p>
 
 `headroom learn`은 실패한 세션을 채굴해 `CLAUDE.md`, `AGENTS.md`, `GEMINI.md`에 correction을 기록하는 기능이다.

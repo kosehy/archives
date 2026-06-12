@@ -28,7 +28,7 @@ Published as part of the [ECB Economic Bulletin, Issue 3/2026](https://www.ecb.
 
 ### Chart A
 
-![Chart A](figures/figure-01.png)
+![Chart A](./figures/figure-01.png)
 
 Caption/source/notes: Chart A - China’s shares of euro area imports in terms of technological content and use. Left-hand scale: percentages; right-hand scale: average annual growth rates in the respective time period. Sources: Trade Data Monitor and ECB staff calculations. Notes: Import market shares are expressed in value terms for goods only. Trade Data Monitor data are used to calculate sector weights. The latest observations are for November 2025.
 
@@ -36,7 +36,7 @@ Caption/source/notes: Chart A - China’s shares of euro area imports in terms o
 
 ### Chart B
 
-![Chart B](figures/figure-02.png)
+![Chart B](./figures/figure-02.png)
 
 Caption/source/notes: Chart B - Sectoral exposures to China. Percentages. Sources: Trade Data Monitor and ECB staff calculations. Note: Exposures are expressed as yearly average changes in China’s import shares in each sector of the euro area economy in the period 2001-22.
 
@@ -44,7 +44,7 @@ Caption/source/notes: Chart B - Sectoral exposures to China. Percentages. Source
 
 ### Chart C
 
-![Chart C](figures/figure-03.png)
+![Chart C](./figures/figure-03.png)
 
 Caption/source/notes: Chart C - The impact of exposure to Chinese imports on EU sectoral industrial production growth. Percentage point change. Sources: Trade Data Monitor, TiVA (2025 release) and ECB staff calculations. Note: The chart shows production growth in response to the average annual increase in China’s import share in 2000-22.
 
@@ -52,9 +52,9 @@ Caption/source/notes: Chart C - The impact of exposure to Chinese imports on EU 
 
 ### Chart D
 
-![Chart D](figures/figure-04a.png)
+![Chart D](./figures/figure-04a.png)
 
-![Chart D](figures/figure-04b.png)
+![Chart D](./figures/figure-04b.png)
 
 Caption/source/notes: Chart D - Simulated effects of a persistent increase in Chinese productivity on EU sectoral production. Panel a: composition of EU imports from China, steady-state percentages. Panel b: EU sectoral production, percentage deviations from steady state. Source: ECB staff calculations using a multi-country DSGE model that includes global production networks and trade linkages, based on Gnocato et al. (2025). Notes: In panel a, bars show calibrated steady-state shares. In panel b, shocks are scaled to cause the same increase in imports of Chinese traditional and advanced manufacturing products by year two, an increase of 10 percentage points relative to total imports from China in the steady state.
 
@@ -62,9 +62,9 @@ Caption/source/notes: Chart D - Simulated effects of a persistent increase in Ch
 
 ### Chart E
 
-![Chart E](figures/figure-05a.png)
+![Chart E](./figures/figure-05a.png)
 
-![Chart E](figures/figure-05b.png)
+![Chart E](./figures/figure-05b.png)
 
 Caption/source/notes: Chart E - Simulated effects of a persistent increase in Chinese productivity on EU GDP and inflation. Panel a: EU GDP, year-on-year percentage changes. Panel b: EU inflation, year-on-year percentage point changes. Source: ECB staff calculations using a multi-country DSGE model that includes global production networks and trade linkages, based on Gnocato et al. (2025). Note: Shocks are scaled to cause the same increase in imports of Chinese traditional manufacturing products and advanced manufacturing products by year two, an increase of 10 percentage points relative to total imports from China in the steady state.
 

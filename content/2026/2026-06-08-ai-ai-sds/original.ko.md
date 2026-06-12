@@ -10,7 +10,7 @@
 - Archived: 2026-06-08
 - Source language: ko
 
-![대표 이미지: 문서 위에 붉고 푸른 디지털 글리치와 데이터 흐름이 겹쳐진 추상 이미지](figures/lead-thumb.png)
+![대표 이미지: 문서 위에 붉고 푸른 디지털 글리치와 데이터 흐름이 겹쳐진 추상 이미지](./figures/lead-thumb.png)
 
 이 글은 IDG의 아티클을 전재하여 제공합니다.
 

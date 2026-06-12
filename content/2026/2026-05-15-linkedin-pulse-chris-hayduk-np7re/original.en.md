@@ -27,7 +27,7 @@ In this article, I'll lay out some tips I've picked up from using goal mode both
 
 ## Specify A Clear, Quantitative Goal
 
-![figure-02](figures/figure-02-linkedin-pulse-inline.png)
+![figure-02](./figures/figure-02-linkedin-pulse-inline.png)
 
 Models have gotten so good over the past ~6 months that many of us have gotten lazy as prompters in our everyday workflows. We can vaguely gesture at what we want GPT-5.5 to build, and it's pretty good at figuring out what it should be doing and how to get there.
 
@@ -45,7 +45,7 @@ The agent now has a clear and quantitative goal (20% runtime reduction on code i
 
 Note that the model itself can sometimes do scoring if it is still clear and quantitative! For example, I set up goal mode to convert a NeurIPS paper preprint to an ICML workshop paper. ICML has a huge list of formatting constraints saved in a LaTeX file, making them not very accessible to grade against. To resolve this, I had Codex extract these rules into a markdown file that includes a checklist of over 200 formatting and stylistic rules. Here's an excerpt of what this checklist looked like.
 
-![figure-03](figures/figure-03-linkedin-pulse-inline.png)
+![figure-03](./figures/figure-03-linkedin-pulse-inline.png)
 
 Codex's goal was then to "change the NeurIPS paper to ICML format based on the provided checklist.md without changing any of the technical content of the paper."
 
@@ -55,7 +55,7 @@ I also provided the instruction to check off items in the checklist as they were
 
 ## Make Sure the Feedback Loop Is Tight
 
-![figure-04](figures/figure-04-linkedin-pulse-inline.png)
+![figure-04](./figures/figure-04-linkedin-pulse-inline.png)
 
 In order for your agent to evaluate its actions against your goal, it will need some mechanism by which to test its changes.
 
@@ -69,7 +69,7 @@ In my case of searching for improved protein structure model architectures, I us
 
 ## Give Your Agent Markdown Files for Tracking
 
-![figure-05](figures/figure-05-linkedin-pulse-inline.png)
+![figure-05](./figures/figure-05-linkedin-pulse-inline.png)
 
 With goal mode, you can get GPT-5.5 to run continuously for multiple days at a time. Even with the great compaction capabilities built into Codex, it is really hard for the model to maintain a coherent thread over such a long timescale.
 
@@ -83,7 +83,7 @@ I generally give my agent access to three markdown files within goal mode:
 
 I tend to think EXPERIMENTS.md is the most important of the three, as it lets both you and the agent review its previous attempts at achieving the goal and why they did/didn't work. Here's an excerpt from my agent's EXPERIMENTS.md to get an idea of what this looks like in practice:
 
-![figure-06](figures/figure-06-linkedin-pulse-inline.png)
+![figure-06](./figures/figure-06-linkedin-pulse-inline.png)
 
 And that's it! That's the whole playbook.
 

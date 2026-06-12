@@ -27,7 +27,7 @@ This is not a product launch story. What happened over the past two weeks was th
 
 Personal computing has always had reference hardware for new categories. The IBM PC defined the office. The Raspberry Pi defined the hobbyist server. Each became infrastructure not because a vendor declared it, but because a software ecosystem standardized on it. Mac mini is the latest entry in that lineage, and the catalyst is the persistent agent.
 
-![Article image](figures/figure-02.gif)
+![Article image](./figures/figure-02.gif)
 
 A persistent agent is different from a chat session. It runs when you are not at the keyboard. It receives messages on Telegram while you sleep, drafts code at 3 a.m., monitors your inbox, and executes scheduled tasks against your calendar. It needs a host machine that stays on, runs quietly, integrates with the operating system the user already lives in, and costs less than a cloud VM over the course of a year. A Mac mini with 16 GB of unified memory and a quiet, low-power thermal design hits all four. Apple lists the 2024 M4 Mac mini at 4 watts at idle, roughly the cost of a nightlight. None of this was Apple’s design intent. Apple built the Mac mini for the small office and the home theater. The agent ecosystem repurposed it.
 

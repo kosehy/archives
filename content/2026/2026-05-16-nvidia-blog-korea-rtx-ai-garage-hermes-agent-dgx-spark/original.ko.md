@@ -18,7 +18,7 @@
 
 ## Lead image
 
-![RTX AI Garage Hermes Agent lead image](figures/figure-01.jpeg)
+![RTX AI Garage Hermes Agent lead image](./figures/figure-01.jpeg)
 
 Remote original: https://blogs.nvidia.co.kr/wp-content/uploads/sites/16/2026/05/rtx-ai-garage-hermes.jpeg
 

@@ -20,7 +20,7 @@
 
 ## Original article body
 
-![토큰 중첩(Token Superposition)과 유사 기법과의 비교 (사진=arXiv)](figures/figure-01.png)
+![토큰 중첩(Token Superposition)과 유사 기법과의 비교 (사진=arXiv)](./figures/figure-01.png)
 
 > figure-01. 토큰 중첩(Token Superposition)과 유사 기법과의 비교 (사진=arXiv)
 
@@ -38,7 +38,7 @@ TST는 2단계로 학습이 진행된다. 먼저 ‘중첩 단계(superposition 
 
 이를 위해 ‘멀티핫 크로스엔트로피(MCE)’라는 학습 방식을 적용했는데, 기존 AI 학습 시스템을 그대로 활용할 수 있어 별도의 모델 구조 변경이나 특수 하드웨어가 필요 없다는 점도 특징이다.
 
-![동일한 연산량(FLOPs) 조건에서 진행된 두 개의 큐원3 기반 10B-A1B MoE 모델의 사전학습 손실(loss) 곡선 (사진=arXiv)](figures/figure-02.png)
+![동일한 연산량(FLOPs) 조건에서 진행된 두 개의 큐원3 기반 10B-A1B MoE 모델의 사전학습 손실(loss) 곡선 (사진=arXiv)](./figures/figure-02.png)
 
 > figure-02. 동일한 연산량(FLOPs) 조건에서 진행된 두 개의 큐원3 기반 10B-A1B MoE 모델의 사전학습 손실(loss) 곡선 (사진=arXiv)
 
@@ -46,7 +46,7 @@ TST는 2단계로 학습이 진행된다. 먼저 ‘중첩 단계(superposition 
 
 특히 10B-A1B 모델 실험에서는 기존 대비 약 2.5배 빠른 사전학습 속도를 기록했다.
 
-![표준 학습 방식(베이스라인)과 비교했을 때, 다양한 설정 환경에서 나타난 TST의 성능 및 효율 개선 효과 (사진=arXiv)](figures/figure-03.png)
+![표준 학습 방식(베이스라인)과 비교했을 때, 다양한 설정 환경에서 나타난 TST의 성능 및 효율 개선 효과 (사진=arXiv)](./figures/figure-03.png)
 
 > figure-03. 표준 학습 방식(베이스라인)과 비교했을 때, 다양한 설정 환경에서 나타난 TST의 성능 및 효율 개선 효과 (사진=arXiv)
 

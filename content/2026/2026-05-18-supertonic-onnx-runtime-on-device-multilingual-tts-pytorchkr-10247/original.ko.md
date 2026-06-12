@@ -27,7 +27,7 @@
 
 ## Original post
 
-![Supertonic 3, ONNX 런타임 기반의 초경량 온디바이스 다국어 TTS 시스템](figures/figure-01-hero.jpeg)Supertonic 3, ONNX 런타임 기반의 초경량 온디바이스 다국어 TTS 시스템1671×941 227 KB
+![Supertonic 3, ONNX 런타임 기반의 초경량 온디바이스 다국어 TTS 시스템](./figures/figure-01-hero.jpeg)Supertonic 3, ONNX 런타임 기반의 초경량 온디바이스 다국어 TTS 시스템1671×941 227 KB
 
 ## Supertonic 소개
 
@@ -49,15 +49,15 @@
 
 Supertonic 3는 측정된 다국어 환경에서 자신보다 훨씬 큰 오픈 TTS 시스템(예: VoxCPM2)과 비교했을 때 WER/CER 범위 내에서 충분히 경쟁력 있는 위치를 차지합니다. 즉, 단순히 "가벼우니까 빠르다"는 수준이 아니라, 가벼우면서도 읽기 정확도가 일정 수준 이상으로 유지된다는 점이 Supertonic이 강조하는 가치입니다. 별표(*)가 표시된 언어는 CER로, 나머지는 WER로 측정되었습니다.
 
-![Supertonic 3와 VoxCPM2의 다국어 WER/CER 비교 차트](figures/figure-02-wer-cer-comparison.png)Supertonic 3와 VoxCPM2의 다국어 WER/CER 비교 차트4400×2188 193 KB
+![Supertonic 3와 VoxCPM2의 다국어 WER/CER 비교 차트](./figures/figure-02-wer-cer-comparison.png)Supertonic 3와 VoxCPM2의 다국어 WER/CER 비교 차트4400×2188 193 KB
 
 또한 모델 크기 측면에서 Supertonic 3는 0.7B~2B 클래스 오픈 TTS와 비교하면 약 99M 파라미터 규모로 상당히 작은 편에 속합니다. 작은 모델은 다운로드 시간, 콜드 스타트 지연, 디바이스 메모리 사용량 모두에서 유리하며, 특히 브라우저(WebGPU/WASM)나 임베디드 환경에서 실용성에 큰 차이를 만듭니다.
 
-![다양한 오픈 TTS 모델과 Supertonic 3의 파라미터 규모 비교](figures/figure-03-parameter-comparison.png)다양한 오픈 TTS 모델과 Supertonic 3의 파라미터 규모 비교4400×1478 92.3 KB
+![다양한 오픈 TTS 모델과 Supertonic 3의 파라미터 규모 비교](./figures/figure-03-parameter-comparison.png)다양한 오픈 TTS 모델과 Supertonic 3의 파라미터 규모 비교4400×1478 92.3 KB
 
 CPU에서의 런타임 풋프린트(Footprint) 역시 흥미롭습니다. 동일 조건에서 A100 GPU 위에서 측정된 더 큰 베이스라인과 비교했을 때, Supertonic 3는 CPU 만으로도 충분히 빠른 합성 성능을 유지하면서 메모리 사용량은 훨씬 적게 가져갑니다. 공개된 고정 화자(Open-Weight Fixed-Voice) 설정에서는 GPU 가속이 필수가 아니기 때문에, 로컬·브라우저·엣지 환경 어디에 두더라도 배포 비용 부담이 적습니다.
 
-![Supertonic의 CPU 런타임 및 메모리 풋프린트와 GPU 베이스라인 비교](figures/figure-04-cpu-runtime-memory.png)Supertonic의 CPU 런타임 및 메모리 풋프린트와 GPU 베이스라인 비교3600×2728 256 KB
+![Supertonic의 CPU 런타임 및 메모리 풋프린트와 GPU 베이스라인 비교](./figures/figure-04-cpu-runtime-memory.png)Supertonic의 CPU 런타임 및 메모리 풋프린트와 GPU 베이스라인 비교3600×2728 256 KB
 
 ## Supertonic의 핵심 기능과 자연 텍스트 처리
 

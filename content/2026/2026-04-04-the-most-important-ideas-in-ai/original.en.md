@@ -6,7 +6,7 @@ Published: 2026-03-28
 Archived: 2026-04-04
 Language: English
 
-![Header image for the article](figures/figure-01.webp)
+![Header image for the article](./figures/figure-01.webp)
 
 Self-improvement and transparency change everything in unexpected ways.
 
@@ -20,7 +20,7 @@ After thinking about this for about a week, and attending the RSA conference dur
 
 ## 1. Autonomous Component Optimization
 
-![Autonomous component optimization illustration](figures/figure-02.webp)
+![Autonomous component optimization illustration](./figures/figure-02.webp)
 
 This one connects to the current-to-ideal-state concept, the Algorithm, general verifiability, and similar ideas.
 
@@ -63,7 +63,7 @@ This is the lifecycle for running anything. Map your goals. Execute with agents.
 
 ## 2. The transition to intent-based engineering
 
-![Intent-based engineering illustration](figures/figure-03.webp)
+![Intent-based engineering illustration](./figures/figure-03.webp)
 
 The real power of AI is moving from current state to ideal state. Define where you are, define where you want to be, and let AI close the gap. Simple concept, but there's a step before any of that works: you have to be able to articulate what you actually want.
 
@@ -79,7 +79,7 @@ But the whole thing starts with being able to say what you want. That's the new 
 
 ## 3. The move from opacity to transparency
 
-![Opacity to transparency illustration](figures/figure-04.webp)
+![Opacity to transparency illustration](./figures/figure-04.webp)
 
 Companies have never really been able to see what's happening inside their own walls. How much does this process actually cost? How long does it really take? What's the quality of the output? Who's doing the work versus who's doing the scaffolding around the work?
 
@@ -91,7 +91,7 @@ And one of the first things transparency reveals is how much of the work was nev
 
 ## 4. Most work is scaffolding
 
-![Scaffolding ratio illustration](figures/figure-05.webp)
+![Scaffolding ratio illustration](./figures/figure-05.webp)
 
 AI is revealing that 75-99% of knowledge work is scaffolding overhead. In security testing, development, consulting—most of the time goes to maintaining tooling, workflows, templates, and knowledge bases.
 
@@ -101,11 +101,11 @@ AI absolutely crushes the scaffolding part. Agent Skills have shown that you can
 
 The work wasn't hard—maintaining the scaffolding was.
 
-![Diamond quarry illustration](figures/figure-06.webp)
+![Diamond quarry illustration](./figures/figure-06.webp)
 
 ## 5. Expertise gets diffused into public knowledge
 
-![Knowledge ratchet illustration](figures/figure-07.webp)
+![Knowledge ratchet illustration](./figures/figure-07.webp)
 
 There's an articulation gap between what experts know and what's written down. Most expertise lives in people's heads. The person who knows how everything works but never documented any of it. When that person retires, that knowledge dies with them.
 
@@ -121,7 +121,7 @@ The gap between human expertise accumulation and AI expertise accumulation is wi
 
 ### Autonomous improvement changes the speed of everything
 
-![Slack in the rope illustration](figures/figure-08.webp)
+![Slack in the rope illustration](./figures/figure-08.webp)
 
 The speed of improvement in many fields is about to accelerate beyond anything we've seen. When you can define what good looks like, measure against it, and iterate automatically—things that used to take months of manual tuning happen overnight.
 
@@ -149,7 +149,7 @@ If you don't have it, you lose to someone who does.
 
 ### Scaffolding gets commoditized
 
-![Skill compression illustration](figures/figure-09.webp)
+![Skill compression illustration](./figures/figure-09.webp)
 
 The wizardry around certain fields and professions will be revealed as scaffolding that was simply not understood by most people.
 
@@ -163,7 +163,7 @@ People's advantage from 50 years of experience in a field will not remain an adv
 
 ## Summary and takeaway
 
-![Chain reaction illustration](figures/figure-10.webp)
+![Chain reaction illustration](./figures/figure-10.webp)
 
 The craziest thing about this is that all of these ideas reinforce each other.
 

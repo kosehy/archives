@@ -10,7 +10,7 @@ Extraction mirror: https://scribe.rawbit.ninja/@NMitchem/if-ai-writes-your-code-
 Shared URL: https://share.google/z2QaJ1boF7ARWjaob
 GeekNews topic: https://news.hada.io/topic?id=29426
 
-![The modern python stack.](figures/figure-01-modern-python-stack.png)
+![The modern python stack.](./figures/figure-01-modern-python-stack.png)
 
 *Figure: The modern python stack.*
 

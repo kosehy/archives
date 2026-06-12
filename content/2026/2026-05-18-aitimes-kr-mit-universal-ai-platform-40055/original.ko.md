@@ -23,7 +23,7 @@
 
 ## Original article body
 
-![샐리 콘블루스 총장은 “MIT는 오랫동안 MIT 오픈러닝을 통해 지식을 전 세계와 공유해왔다”며 “유니버설 AI를 글로벌 학습자들에게 제공하는 것은 MIT의 자연스러운 사명”이라고...(사진:MIT)](figures/figure-01.jpg)
+![샐리 콘블루스 총장은 “MIT는 오랫동안 MIT 오픈러닝을 통해 지식을 전 세계와 공유해왔다”며 “유니버설 AI를 글로벌 학습자들에게 제공하는 것은 MIT의 자연스러운 사명”이라고...(사진:MIT)](./figures/figure-01.jpg)
 
 > figure-01. 샐리 콘블루스 총장은 “MIT는 오랫동안 MIT 오픈러닝을 통해 지식을 전 세계와 공유해왔다”며 “유니버설 AI를 글로벌 학습자들에게 제공하는 것은 MIT의 자연스러운 사명”이라고...(사진:MIT)
 
@@ -41,7 +41,7 @@ MIT 오픈러닝 부총장 디미트리스 베르치마스(Dimitris Bertsimas)�
 
 프로그램 핵심 커리큘럼은 총 5개 과정으로 구성된다. 여기에는 프로그래밍, 머신러닝, 딥러닝, 대형언어모델(LLM), 의사결정 시스템, 설명가능 AI(XAI), AI 윤리 등이 포함된다. 특히, 첫 번째 과정인 ‘프로그래밍 및 머신러닝 기초(Fundamentals of Programming and Machine Learning)’는 전 세계 학습자에게 무료로 공개된다.
 
-![사진:MIT](figures/figure-02.jpg)
+![사진:MIT](./figures/figure-02.jpg)
 
 > figure-02. 사진:MIT
 

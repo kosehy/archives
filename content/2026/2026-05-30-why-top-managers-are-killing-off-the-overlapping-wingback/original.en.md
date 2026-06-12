@@ -21,7 +21,7 @@ The [inverted fullback](https://www.360player.com/blog/what-are-inverted-fullbac
 
 ## Where It Started
 
-![Why Top Managers Are Killing Off the Overlapping Wingback](figures/figure-01.jpg)
+![Why Top Managers Are Killing Off the Overlapping Wingback](./figures/figure-01.jpg)
 
 The honest answer is that Pep Guardiola did not invent the inverted fullback. Johan Cruyff had already used versions of the concept years before at Barcelona.
 

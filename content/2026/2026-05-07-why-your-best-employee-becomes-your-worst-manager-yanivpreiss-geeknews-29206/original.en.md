@@ -35,7 +35,7 @@ A [2018 study](https://www.forbes.com/sites/roddwagner/2018/04/10/new-evidence-t
 
 The fundamental error is viewing management as a “promotion” for a job well done. It isn’t. **Management is a new profession.** Transitioning a brilliant engineer to a team lead is not a step up, but a career change.
 
-![worst manager](figures/figure-01.jpg)
+![worst manager](./figures/figure-01.jpg)
 
 ## 4 Major Transition Errors
 

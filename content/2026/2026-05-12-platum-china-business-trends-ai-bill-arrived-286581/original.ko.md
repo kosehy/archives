@@ -14,7 +14,7 @@
 
 ## Article
 
-![더우바오(Doubao) AI 기능 홍보 화면](figures/figure-01-doubao.png)
+![더우바오(Doubao) AI 기능 홍보 화면](./figures/figure-01-doubao.png)
 *그림 1. 더우바오(Doubao) AI 기능 홍보 화면. 원문 이미지 URL: https://cdn.platum.kr/wp-content/uploads/2026/05/doubao-1024x601.png*
 
 ## 3억 5천만의 짐
@@ -35,7 +35,7 @@
 
 3억 5천만 명의 사용자는 한때 자산이었다. 일일 120조 개의 토큰을 소모하는 지금, 그 숫자는 막대한 부채에 가깝다. 이번 유료화는 바이트댄스의 자신감이자 절박함의 교차점이다. 3억 5천만 명 중 과연 얼마나 많은 이들이 연간 5,088위안(약 110만원)의 청구서를 기꺼이 받아들일지가, 중국 AI 소비자 시장의 지속 가능성을 가늠할 첫 번째 시험대가 될 것이다.
 
-![궈취엔(锅圈) 중식/간편식 매장 전경](figures/figure-02-guoquan.jpg)
+![궈취엔(锅圈) 중식/간편식 매장 전경](./figures/figure-02-guoquan.jpg)
 *그림 2. 궈취엔(锅圈) 중식/간편식 매장 전경. 원문 이미지 URL: https://cdn.platum.kr/wp-content/uploads/2026/05/guoquan-1024x577.jpg*
 
 ## 웍을 든 로봇
@@ -52,7 +52,7 @@
 
 강력한 식자재 공급망을 가진 궈취엔이 이 시장에 뛰어들었다는 것은, 이제 소비자가 집에서 요리하는 비용보다 밖에서 ‘로봇이 볶아준 요리’를 사 먹는 비용이 더 저렴해지는 시대가 머지않았음을 의미한다. 미래의 중국 외식업은 ‘손맛’을 파는 장인형 식당과 ‘효율’을 파는 AI 시스템 식당으로 선명하게 갈릴 것이다.
 
-![DeepWay 대형 트럭 홍보 이미지](figures/figure-03-deepway.png)
+![DeepWay 대형 트럭 홍보 이미지](./figures/figure-03-deepway.png)
 *그림 3. DeepWay 대형 트럭 홍보 이미지. 원문 이미지 URL: https://cdn.platum.kr/wp-content/uploads/2026/05/deepway-1024x606.png*
 
 ## 느리게, 그러나 멀리
