@@ -1,21 +1,29 @@
-# 아빠의 뇌: 아버지됨이 남성의 마음을 어떻게 재구성하는가
+# Article Index
 
-- Title: 아빠의 뇌: 아버지됨이 남성의 마음을 어떻게 재구성하는가
-- Date archived: 2026-04-20
+## Source
+
+- Archived date: 2026-04-20
 - Shared URL: https://news.hada.io/topic?id=28698
-- Source type: GeekNews topic with inaccessible original source in current session
-- Language: English source reconstruction from accessible GeekNews preservation, Korean translation added
+- Archive source: `archive/2026/04/w3/2026-04-20-fathers-brain-how-fatherhood-reshapes-mens-minds/`
 
-## Published files
+## Public files
 
-- [hada-summary.ko.md](./hada-summary.ko)
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+- `article_index.md` - public reading index
+- `hada-summary.ko.md` - GeekNews/Hada discussion summary
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-## Work log
+## Reading order
 
-- Preserved the accessible GeekNews body as `hada-summary.ko.md`.
-- Could not directly recover the original linked article in this session, so the main archive text was kept explicitly partial and source-limited.
-- Recorded the retrieval limitation transparently instead of pretending full source preservation.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+5. `hada-summary.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

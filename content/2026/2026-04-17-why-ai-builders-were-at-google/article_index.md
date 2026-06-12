@@ -1,20 +1,27 @@
-# AI를 만든 사람들은 왜 구글에 있었을까요
+# Article Index
 
-- Title: AI를 만든 사람들은 왜 구글에 있었을까요
-- Date archived: 2026-04-17
+## Source
+
+- Archived date: 2026-04-17
 - Source URL: https://www.linkedin.com/posts/leekh929_ai%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%99%9C-%EA%B5%AC%EA%B8%80%EC%97%90-%EC%9E%88%EC%97%88%EC%9D%84%EA%B9%8C%EC%9A%94-demis-hassabis-share-7449008523440701441-D21U
-- Source type: LinkedIn post
-- Language: Korean source, English translation added
+- Archive source: `archive/2026/04/w3/2026-04-17-why-ai-builders-were-at-google/`
 
-## Published files
+## Public files
 
-- [original.ko.md](./original.ko)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.en.md](./translation.en)
+- `article_index.md` - public reading index
+- `original.ko.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.en.md` - translation
 
-## Work log
+## Reading order
 
-- Preserved the accessible LinkedIn post text through the available public fetch path.
-- Kept the archive centered on the author’s argument about product-scale problems as the real attractor of top AI talent.
-- Treated this as a text-only LinkedIn archive.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.ko.md`
+4. `translation.en.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

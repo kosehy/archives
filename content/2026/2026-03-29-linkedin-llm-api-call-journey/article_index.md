@@ -1,19 +1,26 @@
-# You hit "Send" on an LLM API call. — Article Index
+# You hit "Send" on an LLM API call.
 
-Source: https://www.linkedin.com/posts/brijpandeyji_you-hit-send-on-an-llm-api-call-400-share-7443133741075521536-cdjK
-Date: 2026-03-29
-Folder: `archive/2026/03/w5/2026-03-29-linkedin-llm-api-call-journey/`
+## Source
 
-## Published files
+- Archived date: 2026-03-29
+- Archive source: `archive/2026/03/w5/2026-03-29-linkedin-llm-api-call-journey/`
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- `original.en.md` is the preserved source text.
-- This archive is based on a LinkedIn post rather than a conventional article.
-- Public web extraction succeeded.
-- Platform UI text such as comment prompts and related-content sections was omitted from the preserved text.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

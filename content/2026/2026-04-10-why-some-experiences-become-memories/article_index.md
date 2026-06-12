@@ -1,18 +1,26 @@
-# 왜 어떤 경험은 추억이 되고, 어떤 것은 망각될까? — Article Index
+# 왜 어떤 경험은 추억이 되고, 어떤 것은 망각될까?
 
-Source: https://www.sciencetimes.co.kr/nscvrg/view/menu/251?searchCategory=223&nscvrgSn=261568
-Shared link: https://share.google/4kufXlVoWC8VoeH0S
-Date: 2026-04-10
-Folder: `archive/2026/04/w2/2026-04-10-why-some-experiences-become-memories/`
+## Source
 
-## Published files
+- Archived date: 2026-04-10
+- Archive source: `archive/2026/04/w2/2026-04-10-why-some-experiences-become-memories/`
 
-- [original.ko.md](./original.ko)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.en.md](./translation.en)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.ko.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.en.md` - translation
 
-- The source article is written in Korean, so the archive preserves it as `original.ko.md` and provides `translation.en.md`.
-- The article is a science explainer on memory formation, neural inhibition, and forgetting.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.ko.md`
+4. `translation.en.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

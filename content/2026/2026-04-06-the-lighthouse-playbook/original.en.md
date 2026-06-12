@@ -33,12 +33,10 @@ The article claims that this is inefficient and increasingly mismatched with mod
 A key distinction in the piece is between scarcity environments and abundance environments.
 
 In scarcity:
-
 - signal comes from what you have
 - marketing often emphasizes possession, reach, or paid amplification
 
 In abundance:
-
 - signal comes from what you give away
 - trust is built by helping others become more visible, credible, and useful
 
@@ -69,7 +67,6 @@ A recurring point is that your own employees should often be your best lighthous
 The operational advice is simple: help your lighthouses build their own brands.
 
 Examples include:
-
 - getting them onto podcasts
 - connecting them with conference organizers
 - promoting their writing or talks

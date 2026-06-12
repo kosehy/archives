@@ -367,7 +367,6 @@ curl -fsSL https://github.com/aaif-goose/goose/releases/download/stable/download
 ```
 
 # Quick links
-
 - [Quickstart](https://goose-docs.ai/docs/quickstart)
 - [Installation](https://goose-docs.ai/docs/getting-started/installation)
 - [Tutorials](https://goose-docs.ai/docs/category/tutorials)
@@ -376,7 +375,6 @@ curl -fsSL https://github.com/aaif-goose/goose/releases/download/stable/download
 - [Custom Distributions](https://github.com/aaif-goose/goose/blob/main/CUSTOM_DISTROS.md) — build your own goose distro with preconfigured providers, extensions, and branding
 
 ## Need help?
-
 - [Diagnostics & Reporting](https://goose-docs.ai/docs/troubleshooting/diagnostics-and-reporting)
 - [Known Issues](https://goose-docs.ai/docs/troubleshooting/known-issues)
 
@@ -387,7 +385,6 @@ curl -fsSL https://github.com/aaif-goose/goose/releases/download/stable/download
 > Because it always helps them "migrate" their code to production! 🚀
 
 # goose around with us
-
 - [Discord](https://discord.gg/goose-oss)
 - [YouTube](https://www.youtube.com/@goose-oss)
 - [LinkedIn](https://www.linkedin.com/company/goose-oss)

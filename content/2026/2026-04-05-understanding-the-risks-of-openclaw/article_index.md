@@ -1,17 +1,26 @@
-# Understanding the risks of OpenClaw — Article Index
+# Understanding the risks of OpenClaw
 
-Source: https://www.infoworld.com/article/4153975/understanding-the-risks-of-openclaw.html
-Date: 2026-04-05
-Folder: `archive/2026/04/w1/2026-04-05-understanding-the-risks-of-openclaw/`
+## Source
 
-## Published files
+- Archived date: 2026-04-05
+- Archive source: `archive/2026/04/w1/2026-04-05-understanding-the-risks-of-openclaw/`
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- This article is a critical risk-oriented analysis of OpenClaw, arguing that the bigger issue is not whether it is “cloud” in name, but whether it introduces distributed dependencies, delegated authority, and governance failures.
-- The argument is framed from an enterprise architecture and risk-control perspective rather than a product how-to perspective.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

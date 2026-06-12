@@ -1,20 +1,26 @@
-# Employers are using your personal data to figure out the lowest salary you'll accept — Article Index
+# Employers are using your personal data to figure out the lowest salary you'll accept
 
-Source: https://www.marketwatch.com/story/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept-c2b968fb
-Shared link: https://share.google/Tc6rvmeEELwGPnxmI
-Accessible preserved text source: https://www.morningstar.com/news/marketwatch/20260401139/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept
-Date: 2026-04-09
-Folder: `archive/2026/04/w2/2026-04-09-surveillance-wages-lowest-salary-youll-accept/`
+## Source
 
-## Published files
+- Archived date: 2026-04-09
+- Archive source: `archive/2026/04/w2/2026-04-09-surveillance-wages-lowest-salary-youll-accept/`
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- Direct MarketWatch extraction was access-limited during archiving.
-- The preserved source text was captured from an accessible Morningstar-hosted syndication of the same MarketWatch / Dow Jones article.
-- The accessible version ends with `(MORE TO FOLLOW)`, so the archive may preserve only the publicly accessible portion rather than the complete original publication.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

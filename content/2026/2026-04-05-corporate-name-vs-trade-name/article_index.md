@@ -1,18 +1,26 @@
-# 법인명상호명차이 정확히 알아야 사업이 안전합니다 — Article Index
+# 법인명상호명차이 정확히 알아야 사업이 안전합니다
 
-Source: https://lawpang.co.kr/%EB%B2%95%EC%9D%B8%EB%AA%85%EC%83%81%ED%98%B8%EB%AA%85%EC%B0%A8%EC%9D%B4393/?utm_source=perplexity
-Date: 2026-04-05
-Folder: `archive/2026/04/w1/2026-04-05-corporate-name-vs-trade-name/`
+## Source
 
-## Published files
+- Archived date: 2026-04-05
+- Archive source: `archive/2026/04/w1/2026-04-05-corporate-name-vs-trade-name/`
 
-- [original.ko.md](./original.ko)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.en.md](./translation.en)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.ko.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.en.md` - translation
 
-- This archive was created as a text-only archive by request; image extraction was intentionally skipped.
-- The source language is Korean, so the preserved original is stored as `original.ko.md` and the English version is a translation.
-- The article focuses on the practical and legal distinction between a corporate legal name and a trade name in Korea.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.ko.md`
+4. `translation.en.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

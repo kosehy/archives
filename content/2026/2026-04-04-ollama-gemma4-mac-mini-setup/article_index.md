@@ -1,18 +1,26 @@
-# April 2026 TLDR setup for Ollama + Gemma 4 12B on a Mac mini (Apple Silicon) — auto-start, preload, and keep-alive — Article Index
+# April 2026 TLDR setup for Ollama + Gemma 4 12B on a Mac mini (Apple Silicon) — auto-start, preload, and keep-alive
 
-Source: https://share.google/BPBBQOCf3HOaoSuJO
-Final source: https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5
-Date: 2026-04-04
-Folder: `archive/2026/04/w1/2026-04-04-ollama-gemma4-mac-mini-setup/`
+## Source
 
-## Published files
+- Archived date: 2026-04-04
+- Archive source: `archive/2026/04/w1/2026-04-04-ollama-gemma4-mac-mini-setup/`
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- This archive preserves a GitHub Gist-style practical setup note.
-- The title mentions Gemma 4 12B, but the body repeatedly explains that the final recommended setup uses the default `gemma4:latest` (8B) rather than the 26B model, due to memory pressure.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

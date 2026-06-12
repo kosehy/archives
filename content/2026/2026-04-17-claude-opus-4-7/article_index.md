@@ -1,20 +1,27 @@
-# Introducing Claude Opus 4.7
+# Article Index
 
-- Title: Introducing Claude Opus 4.7
-- Date archived: 2026-04-17
+## Source
+
+- Archived date: 2026-04-17
 - Source URL: https://www.anthropic.com/news/claude-opus-4-7
-- Source type: Anthropic announcement
-- Language: English source, Korean translation added
+- Archive source: `archive/2026/04/w3/2026-04-17-claude-opus-4-7/`
 
-## Published files
+## Public files
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-## Work log
+## Reading order
 
-- Preserved the accessible Anthropic release announcement text through the current fetch path.
-- Recorded the release framing around coding improvement, stronger vision, and cyber safeguards.
-- Kept the archive at the announcement level rather than reproducing all benchmark tables and graphics.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

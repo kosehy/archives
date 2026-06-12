@@ -47,17 +47,17 @@ The original OpenAI source URL is recorded as the main source, but it was not di
 - 감사 대상 작업의 **18.8%** 는 문제 설명에 없는 추가 기능까지 요구하는 광범위한 테스트를 포함함
 - 나머지 **5.1%** 는 위 두 범주에 뚜렷하게 들어가지 않는 다른 문제가 있었음
 - 제한적인 테스트 케이스
-  [pylint-dev\_\_pylint-4551](https://github.com/pylint-dev/pylint/pull/4551)에서는 PR 테스트가 `get_annotation` 함수를 직접 임포트하지만, 이 함수 이름은 문제 명세에 나오지 않음
+  [pylint-dev__pylint-4551](https://github.com/pylint-dev/pylint/pull/4551)에서는 PR 테스트가 `get_annotation` 함수를 직접 임포트하지만, 이 함수 이름은 문제 명세에 나오지 않음
   그래서 문제를 기능적으로 올바르게 해결해도, 그 **특정 함수명**을 구현하지 않으면 임포트 오류로 테스트에 실패할 수 있음
 - 광범위한 테스트 케이스
-  [sympy\_\_sympy-18199](https://github.com/sympy/sympy/pull/18199)는 실제로 [#17373](https://github.com/sympy/sympy/issues/17373), [#17377](https://github.com/sympy/sympy/issues/17377), [#18212](https://github.com/sympy/sympy/issues/18212) 세 이슈를 함께 고친 PR에서 가져옴
+  [sympy__sympy-18199](https://github.com/sympy/sympy/pull/18199)는 실제로 [#17373](https://github.com/sympy/sympy/issues/17373), [#17377](https://github.com/sympy/sympy/issues/17377), [#18212](https://github.com/sympy/sympy/issues/18212) 세 이슈를 함께 고친 PR에서 가져옴
   하지만 SWE-bench Verified 작업 설명은 [#18212](https://github.com/sympy/sympy/issues/18212)만 다루기 때문에, 설명대로 구현해도 나머지 두 이슈를 검사하는 테스트에서 실패할 수 있음
 
 ## 오염 문제
 
 - SWE-bench Verified와 해당 리포지터리의 코드베이스, 릴리스 노트는 모두 공개되어 널리 사용되고 논의되므로 **데이터 오염 회피가 어려움**
 - OpenAI는 자체 모델에서도 오염 징후를 확인했고, 거의 해결 불가능하다고 본 31개 작업을 GPT‑5.2가 해결한 사례도 포함됨
-- [django\_\_django-14725](https://github.com/django/django/pull/14725)에서는 테스트가 문제 명세에 없는 `edit_only` 매개변수를 요구하는데, GPT‑5.2는 추론 과정에서 이 매개변수가 **Django 4.1**에 도입됐다는 점까지 정확히 짚음
+- [django__django-14725](https://github.com/django/django/pull/14725)에서는 테스트가 문제 명세에 없는 `edit_only` 매개변수를 요구하는데, GPT‑5.2는 추론 과정에서 이 매개변수가 **Django 4.1**에 도입됐다는 점까지 정확히 짚음
 - OpenAI는 오염 심각도를 평가하기 위해 **자동화된 레드팀 테스트 환경**을 구축함
   각 SWE-bench Verified 문제에 대해 GPT‑5가 GPT‑5.2‑Chat, Claude Opus 4.5, Gemini 3 Flash Preview의 오염 여부를 조사함
   GPT‑5에는 작업 ID, 설명, 골드 패치, PR 테스트가 제공됐고 총 15턴 동안 프롬프트와 유도 전략을 바꿀 수 있게 함
@@ -67,13 +67,13 @@ The original OpenAI source URL is recorded as the main source, but it was not di
 ## 모델별 심각한 오염 사례
 
 - GPT‑5.2
-  [django\_\_django-11451](https://github.com/django/django/pull/11451)에서 짧은 작업 설명 스니펫만으로도 **정확한 골드 패치**를 출력함
+  [django__django-11451](https://github.com/django/django/pull/11451)에서 짧은 작업 설명 스니펫만으로도 **정확한 골드 패치**를 출력함
   `ModelBackend.authenticate()`에서 `username is None or password is None`일 때 조기 반환하는 조건, 파일 경로, 메서드 이름까지 재현함
 - Claude Opus 4.5
-  [astropy\_\_astropy-13236](https://github.com/astropy/astropy/pull/13236)에서 수정 대상 파일 경로 `astropy/table/table.py`, `_convert_data_to_col` 메서드, 그리고 diff 안의 **인라인 주석**까지 글자 그대로 인용함
+  [astropy__astropy-13236](https://github.com/astropy/astropy/pull/13236)에서 수정 대상 파일 경로 `astropy/table/table.py`, `_convert_data_to_col` 메서드, 그리고 diff 안의 **인라인 주석**까지 글자 그대로 인용함
   구조화된 ndarray를 `NdarrayMixin`으로 자동 변환하던 4줄 코드도 정확히 복원함
 - Gemini 3 Flash
-  [django\_\_django-11099](https://github.com/django/django/pull/11099)에서 작업 ID 외 추가 정보가 거의 없는 상태에서도 작업 설명과 **골드 패치 전체**를 글자 그대로 출력함
+  [django__django-11099](https://github.com/django/django/pull/11099)에서 작업 ID 외 추가 정보가 거의 없는 상태에서도 작업 설명과 **골드 패치 전체**를 글자 그대로 출력함
   사용자 이름 검증용 정규식이 `r'^[\w.@+-]+$'`에서 `r'^[\w.@+-]+\Z'`로 바뀌는 내용과 줄 단위 diff까지 재현함
 
 ## 핵심 교훈

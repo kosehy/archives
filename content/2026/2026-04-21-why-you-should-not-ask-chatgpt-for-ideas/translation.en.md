@@ -42,6 +42,6 @@ The article closes with a practical recommendation. If you are using ChatGPT or 
 
 ## Source note
 
-The article says the cited report can be found on arXiv under the title _Exploration vs. Fixation: Scaffolding Divergent and Convergent Thinking for Human-AI Co-Creation with Generative Models_.
+The article says the cited report can be found on arXiv under the title *Exploration vs. Fixation: Scaffolding Divergent and Convergent Thinking for Human-AI Co-Creation with Generative Models*.
 
 The ZDNet Korea article also discloses that it was provided through partnership with the AI media outlet AI Matters and written using Claude 3.5 Sonnet and ChatGPT.

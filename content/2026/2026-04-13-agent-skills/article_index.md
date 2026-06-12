@@ -1,18 +1,26 @@
-# agent-skills — Article Index
+# agent-skills
 
-Source: https://github.com/addyosmani/agent-skills
-Date: 2026-04-13
-Folder: `archive/2026/04/w2/2026-04-13-agent-skills/`
+## Source
 
-## Published files
+- Archived date: 2026-04-13
+- Archive source: `archive/2026/04/w2/2026-04-13-agent-skills/`
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- Preserved from the accessible GitHub repository landing page.
-- The repository packages engineering process as reusable skills, personas, and references for AI coding agents.
-- It is notable for emphasizing verification, anti-rationalization, and lifecycle-wide workflow discipline rather than generic prompting.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

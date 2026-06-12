@@ -1,21 +1,27 @@
-# 외국인 유학생 불법취업 - 출국명령 취소 사례
+# Article Index
 
-- Title: 외국인 유학생 불법취업 - 출국명령 취소 사례
-- Date archived: 2026-04-16
+## Source
+
+- Archived date: 2026-04-16
 - Source URL: https://brunch.co.kr/@bsw1313/233
-- Source type: Brunch article
-- Language: Korean source, English translation added
-- Privacy: private archive only, not for public publishing
+- Archive source: `archive/2026/04/w3/2026-04-16-foreign-student-illegal-employment-departure-order-cancelled/`
 
-## Published files
+## Public files
 
-- [original.ko.md](./original.ko)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.en.md](./translation.en)
+- `article_index.md` - public reading index
+- `original.ko.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.en.md` - translation
 
-## Work log
+## Reading order
 
-- Preserved the article as a private archive only.
-- Extracted the accessible article text from the public Brunch page.
-- Kept this archive out of any public publishing flow.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.ko.md`
+4. `translation.en.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

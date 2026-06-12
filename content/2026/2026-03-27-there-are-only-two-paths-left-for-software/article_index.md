@@ -1,17 +1,26 @@
-# There are only two paths left for software — Article Index
+# There are only two paths left for software
 
-Source: https://www.a16z.news/p/there-are-only-two-paths-left-for
-Date: 2026-03-27
-Folder: `archive/2026/03/w4/2026-03-27-there-are-only-two-paths-left-for-software/`
+## Source
 
-## Published files
+- Archived date: 2026-03-27
+- Archive source: `archive/2026/03/w4/2026-03-27-there-are-only-two-paths-left-for-software/`
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- `original.en.md` is the preserved source text.
-- `article_index.md` is used as both a file index and a short work log.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

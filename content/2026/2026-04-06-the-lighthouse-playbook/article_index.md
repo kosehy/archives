@@ -1,19 +1,26 @@
-# The Lighthouse Playbook — Article Index
+# The Lighthouse Playbook
 
-Source: https://www.a16z.news/p/the-lighthouse-playbook
-Shared link: https://share.google/8dJB5McWROmKyzmVp
-Date: 2026-04-06
-Folder: `archive/2026/04/w1/2026-04-06-the-lighthouse-playbook/`
+## Source
 
-## Published files
+- Archived date: 2026-04-06
+- Archive source: `archive/2026/04/w1/2026-04-06-the-lighthouse-playbook/`
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- The article proposes a startup growth playbook built around trust transfer and “preferential attachment.”
-- Its core move is to help already-aligned people build their own signal, instead of using direct or transactional influencer marketing.
-- The piece is especially relevant to founder branding, recruiting, community-building, and early-stage market trust.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

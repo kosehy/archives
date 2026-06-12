@@ -109,8 +109,8 @@ Saved: 2026-05-05
 - RELEASE_v0.8.0.md (36083 bytes)
 - RELEASE_v0.9.0.md (32472 bytes)
 - SECURITY.md (7167 bytes)
-- acp_adapter/**init**.py (67 bytes)
-- acp_adapter/**main**.py (99 bytes)
+- acp_adapter/__init__.py (67 bytes)
+- acp_adapter/__main__.py (99 bytes)
 - acp_adapter/auth.py (831 bytes)
 - acp_adapter/entry.py (4814 bytes)
 - acp_adapter/events.py (6483 bytes)
@@ -120,7 +120,7 @@ Saved: 2026-05-05
 - acp_adapter/tools.py (49158 bytes)
 - acp_registry/agent.json (309 bytes)
 - acp_registry/icon.svg (1402 bytes)
-- agent/**init**.py (276 bytes)
+- agent/__init__.py (276 bytes)
 - agent/account_usage.py (11721 bytes)
 - agent/anthropic_adapter.py (83931 bytes)
 - agent/auxiliary_client.py (170737 bytes)
@@ -168,7 +168,7 @@ Saved: 2026-05-05
 - agent/title_generator.py (6128 bytes)
 - agent/tool_guardrails.py (16854 bytes)
 - agent/trajectory.py (2028 bytes)
-- agent/transports/**init**.py (1842 bytes)
+- agent/transports/__init__.py (1842 bytes)
 - agent/transports/anthropic.py (6701 bytes)
 - agent/transports/base.py (3024 bytes)
 - agent/transports/bedrock.py (5459 bytes)
@@ -181,7 +181,7 @@ Saved: 2026-05-05
 - cli-config.yaml.example (53859 bytes)
 - cli.py (554857 bytes)
 - constraints-termux.txt (407 bytes)
-- cron/**init**.py (1063 bytes)
+- cron/__init__.py (1063 bytes)
 - cron/jobs.py (39636 bytes)
 - cron/scheduler.py (66941 bytes)
 - datagen-config-examples/example_browser_tasks.jsonl (1015 bytes)
@@ -194,35 +194,35 @@ Saved: 2026-05-05
 - docs/hermes-kanban-v1-spec.pdf (213669 bytes)
 - docs/plans/2026-05-02-telegram-dm-user-managed-multisession-topics.md (15106 bytes)
 - environments/README.md (14600 bytes)
-- environments/**init**.py (1290 bytes)
+- environments/__init__.py (1290 bytes)
 - environments/agent_loop.py (24222 bytes)
 - environments/agentic_opd_env.py (51106 bytes)
-- environments/benchmarks/**init**.py (0 bytes)
+- environments/benchmarks/__init__.py (0 bytes)
 - environments/benchmarks/tblite/README.md (3699 bytes)
-- environments/benchmarks/tblite/**init**.py (0 bytes)
+- environments/benchmarks/tblite/__init__.py (0 bytes)
 - environments/benchmarks/tblite/default.yaml (1501 bytes)
 - environments/benchmarks/tblite/local.yaml (1284 bytes)
 - environments/benchmarks/tblite/local_vllm.yaml (1576 bytes)
 - environments/benchmarks/tblite/run_eval.sh (1113 bytes)
 - environments/benchmarks/tblite/tblite_env.py (3691 bytes)
-- environments/benchmarks/terminalbench_2/**init**.py (0 bytes)
+- environments/benchmarks/terminalbench_2/__init__.py (0 bytes)
 - environments/benchmarks/terminalbench_2/default.yaml (1729 bytes)
 - environments/benchmarks/terminalbench_2/run_eval.sh (1147 bytes)
 - environments/benchmarks/terminalbench_2/terminalbench2_env.py (42236 bytes)
 - environments/benchmarks/yc_bench/README.md (4442 bytes)
-- environments/benchmarks/yc_bench/**init**.py (0 bytes)
+- environments/benchmarks/yc_bench/__init__.py (0 bytes)
 - environments/benchmarks/yc_bench/default.yaml (1585 bytes)
 - environments/benchmarks/yc_bench/run_eval.sh (850 bytes)
 - environments/benchmarks/yc_bench/yc_bench_env.py (32638 bytes)
 - environments/hermes_base_env.py (29223 bytes)
-- environments/hermes_swe_env/**init**.py (0 bytes)
+- environments/hermes_swe_env/__init__.py (0 bytes)
 - environments/hermes_swe_env/default.yaml (1089 bytes)
 - environments/hermes_swe_env/hermes_swe_env.py (8191 bytes)
 - environments/patches.py (1097 bytes)
-- environments/terminal_test_env/**init**.py (0 bytes)
+- environments/terminal_test_env/__init__.py (0 bytes)
 - environments/terminal_test_env/default.yaml (1123 bytes)
 - environments/terminal_test_env/terminal_test_env.py (10424 bytes)
-- environments/tool_call_parsers/**init**.py (4284 bytes)
+- environments/tool_call_parsers/__init__.py (4284 bytes)
 - environments/tool_call_parsers/deepseek_v3_1_parser.py (2257 bytes)
 - environments/tool_call_parsers/deepseek_v3_parser.py (2963 bytes)
 - environments/tool_call_parsers/glm45_parser.py (3364 bytes)
@@ -238,9 +238,9 @@ Saved: 2026-05-05
 - environments/web_research_env.py (29010 bytes)
 - flake.lock (5199 bytes)
 - flake.nix (1106 bytes)
-- gateway/**init**.py (1020 bytes)
+- gateway/__init__.py (1020 bytes)
 - gateway/assets/telegram-botfather-threads-settings.jpg (118213 bytes)
-- gateway/builtin_hooks/**init**.py (57 bytes)
+- gateway/builtin_hooks/__init__.py (57 bytes)
 - gateway/channel_directory.py (13058 bytes)
 - gateway/config.py (75871 bytes)
 - gateway/delivery.py (8765 bytes)
@@ -320,17 +320,17 @@ hermes doctor       # Diagnose any issues
 
 Hermes has two entry points: start the terminal UI with `hermes`, or run the gateway and talk to it from Telegram, Discord, Slack, WhatsApp, Signal, or Email. Once you're in a conversation, many slash commands are shared across both interfaces.
 
-| Action                         | CLI                                           | Messaging platforms                                                              |
-| ------------------------------ | --------------------------------------------- | -------------------------------------------------------------------------------- |
-| Start chatting                 | `hermes`                                      | Run `hermes gateway setup` + `hermes gateway start`, then send the bot a message |
-| Start fresh conversation       | `/new` or `/reset`                            | `/new` or `/reset`                                                               |
-| Change model                   | `/model [provider:model]`                     | `/model [provider:model]`                                                        |
-| Set a personality              | `/personality [name]`                         | `/personality [name]`                                                            |
-| Retry or undo the last turn    | `/retry`, `/undo`                             | `/retry`, `/undo`                                                                |
-| Compress context / check usage | `/compress`, `/usage`, `/insights [--days N]` | `/compress`, `/usage`, `/insights [days]`                                        |
-| Browse skills                  | `/skills` or `/<skill-name>`                  | `/<skill-name>`                                                                  |
-| Interrupt current work         | `Ctrl+C` or send a new message                | `/stop` or send a new message                                                    |
-| Platform-specific status       | `/platforms`                                  | `/status`, `/sethome`                                                            |
+| Action | CLI | Messaging platforms |
+|---------|-----|---------------------|
+| Start chatting | `hermes` | Run `hermes gateway setup` + `hermes gateway start`, then send the bot a message |
+| Start fresh conversation | `/new` or `/reset` | `/new` or `/reset` |
+| Change model | `/model [provider:model]` | `/model [provider:model]` |
+| Set a personality | `/personality [name]` | `/personality [name]` |
+| Retry or undo the last turn | `/retry`, `/undo` | `/retry`, `/undo` |
+| Compress context / check usage | `/compress`, `/usage`, `/insights [--days N]` | `/compress`, `/usage`, `/insights [days]` |
+| Browse skills | `/skills` or `/<skill-name>` | `/<skill-name>` |
+| Interrupt current work | `Ctrl+C` or send a new message | `/stop` or send a new message |
+| Platform-specific status | `/platforms` | `/status`, `/sethome` |
 
 For the full command lists, see the [CLI guide](https://hermes-agent.nousresearch.com/docs/user-guide/cli) and the [Messaging Gateway guide](https://hermes-agent.nousresearch.com/docs/user-guide/messaging).
 
@@ -340,23 +340,23 @@ For the full command lists, see the [CLI guide](https://hermes-agent.nousresearc
 
 All documentation lives at **[hermes-agent.nousresearch.com/docs](https://hermes-agent.nousresearch.com/docs/)**:
 
-| Section                                                                                             | What's Covered                                             |
-| --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [Quickstart](https://hermes-agent.nousresearch.com/docs/getting-started/quickstart)                 | Install → setup → first conversation in 2 minutes          |
-| [CLI Usage](https://hermes-agent.nousresearch.com/docs/user-guide/cli)                              | Commands, keybindings, personalities, sessions             |
-| [Configuration](https://hermes-agent.nousresearch.com/docs/user-guide/configuration)                | Config file, providers, models, all options                |
-| [Messaging Gateway](https://hermes-agent.nousresearch.com/docs/user-guide/messaging)                | Telegram, Discord, Slack, WhatsApp, Signal, Home Assistant |
-| [Security](https://hermes-agent.nousresearch.com/docs/user-guide/security)                          | Command approval, DM pairing, container isolation          |
-| [Tools & Toolsets](https://hermes-agent.nousresearch.com/docs/user-guide/features/tools)            | 40+ tools, toolset system, terminal backends               |
-| [Skills System](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills)              | Procedural memory, Skills Hub, creating skills             |
-| [Memory](https://hermes-agent.nousresearch.com/docs/user-guide/features/memory)                     | Persistent memory, user profiles, best practices           |
-| [MCP Integration](https://hermes-agent.nousresearch.com/docs/user-guide/features/mcp)               | Connect any MCP server for extended capabilities           |
-| [Cron Scheduling](https://hermes-agent.nousresearch.com/docs/user-guide/features/cron)              | Scheduled tasks with platform delivery                     |
-| [Context Files](https://hermes-agent.nousresearch.com/docs/user-guide/features/context-files)       | Project context that shapes every conversation             |
-| [Architecture](https://hermes-agent.nousresearch.com/docs/developer-guide/architecture)             | Project structure, agent loop, key classes                 |
-| [Contributing](https://hermes-agent.nousresearch.com/docs/developer-guide/contributing)             | Development setup, PR process, code style                  |
-| [CLI Reference](https://hermes-agent.nousresearch.com/docs/reference/cli-commands)                  | All commands and flags                                     |
-| [Environment Variables](https://hermes-agent.nousresearch.com/docs/reference/environment-variables) | Complete env var reference                                 |
+| Section | What's Covered |
+|---------|---------------|
+| [Quickstart](https://hermes-agent.nousresearch.com/docs/getting-started/quickstart) | Install → setup → first conversation in 2 minutes |
+| [CLI Usage](https://hermes-agent.nousresearch.com/docs/user-guide/cli) | Commands, keybindings, personalities, sessions |
+| [Configuration](https://hermes-agent.nousresearch.com/docs/user-guide/configuration) | Config file, providers, models, all options |
+| [Messaging Gateway](https://hermes-agent.nousresearch.com/docs/user-guide/messaging) | Telegram, Discord, Slack, WhatsApp, Signal, Home Assistant |
+| [Security](https://hermes-agent.nousresearch.com/docs/user-guide/security) | Command approval, DM pairing, container isolation |
+| [Tools & Toolsets](https://hermes-agent.nousresearch.com/docs/user-guide/features/tools) | 40+ tools, toolset system, terminal backends |
+| [Skills System](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills) | Procedural memory, Skills Hub, creating skills |
+| [Memory](https://hermes-agent.nousresearch.com/docs/user-guide/features/memory) | Persistent memory, user profiles, best practices |
+| [MCP Integration](https://hermes-agent.nousresearch.com/docs/user-guide/features/mcp) | Connect any MCP server for extended capabilities |
+| [Cron Scheduling](https://hermes-agent.nousresearch.com/docs/user-guide/features/cron) | Scheduled tasks with platform delivery |
+| [Context Files](https://hermes-agent.nousresearch.com/docs/user-guide/features/context-files) | Project context that shapes every conversation |
+| [Architecture](https://hermes-agent.nousresearch.com/docs/developer-guide/architecture) | Project structure, agent loop, key classes |
+| [Contributing](https://hermes-agent.nousresearch.com/docs/developer-guide/contributing) | Development setup, PR process, code style |
+| [CLI Reference](https://hermes-agent.nousresearch.com/docs/reference/cli-commands) | All commands and flags |
+| [Environment Variables](https://hermes-agent.nousresearch.com/docs/reference/environment-variables) | Complete env var reference |
 
 ---
 
@@ -376,7 +376,6 @@ hermes claw migrate --overwrite  # Overwrite existing conflicts
 ```
 
 What gets imported:
-
 - **SOUL.md** — persona file
 - **Memories** — MEMORY.md and USER.md entries
 - **Skills** — user-created skills → `~/.hermes/skills/openclaw-imports/`
@@ -431,6 +430,7 @@ scripts/run_tests.sh
 MIT — see [LICENSE](LICENSE).
 
 Built by [Nous Research](https://nousresearch.com).
+
 
 ---
 

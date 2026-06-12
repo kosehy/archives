@@ -43,17 +43,17 @@
 - 감사 대상 작업의 **18.8%** 는 문제 설명에 없는 추가 기능까지 요구하는 광범위한 테스트를 포함함
 - 나머지 **5.1%** 는 위 두 범주에 뚜렷하게 들어가지 않는 다른 문제가 있었음
 - 제한적인 테스트 케이스
-  [pylint-dev\_\_pylint-4551](https://github.com/pylint-dev/pylint/pull/4551)에서는 PR 테스트가 `get_annotation` 함수를 직접 임포트하지만, 이 함수 이름은 문제 명세에 나오지 않음
+  [pylint-dev__pylint-4551](https://github.com/pylint-dev/pylint/pull/4551)에서는 PR 테스트가 `get_annotation` 함수를 직접 임포트하지만, 이 함수 이름은 문제 명세에 나오지 않음
   그래서 문제를 기능적으로 올바르게 해결해도, 그 **특정 함수명**을 구현하지 않으면 임포트 오류로 테스트에 실패할 수 있음
 - 광범위한 테스트 케이스
-  [sympy\_\_sympy-18199](https://github.com/sympy/sympy/pull/18199)는 실제로 [#17373](https://github.com/sympy/sympy/issues/17373), [#17377](https://github.com/sympy/sympy/issues/17377), [#18212](https://github.com/sympy/sympy/issues/18212) 세 이슈를 함께 고친 PR에서 가져옴
+  [sympy__sympy-18199](https://github.com/sympy/sympy/pull/18199)는 실제로 [#17373](https://github.com/sympy/sympy/issues/17373), [#17377](https://github.com/sympy/sympy/issues/17377), [#18212](https://github.com/sympy/sympy/issues/18212) 세 이슈를 함께 고친 PR에서 가져옴
   하지만 SWE-bench Verified 작업 설명은 [#18212](https://github.com/sympy/sympy/issues/18212)만 다루기 때문에, 설명대로 구현해도 나머지 두 이슈를 검사하는 테스트에서 실패할 수 있음
 
 ## 오염 문제
 
 - SWE-bench Verified와 해당 리포지터리의 코드베이스, 릴리스 노트는 모두 공개되어 널리 사용되고 논의되므로 **데이터 오염 회피가 어려움**
 - OpenAI는 자체 모델에서도 오염 징후를 확인했고, 거의 해결 불가능하다고 본 31개 작업을 GPT‑5.2가 해결한 사례도 포함됨
-- [django\_\_django-14725](https://github.com/django/django/pull/14725)에서는 테스트가 문제 명세에 없는 `edit_only` 매개변수를 요구하는데, GPT‑5.2는 추론 과정에서 이 매개변수가 **Django 4.1**에 도입됐다는 점까지 정확히 짚음
+- [django__django-14725](https://github.com/django/django/pull/14725)에서는 테스트가 문제 명세에 없는 `edit_only` 매개변수를 요구하는데, GPT‑5.2는 추론 과정에서 이 매개변수가 **Django 4.1**에 도입됐다는 점까지 정확히 짚음
 - OpenAI는 오염 심각도를 평가하기 위해 **자동화된 레드팀 테스트 환경**을 구축함
   각 SWE-bench Verified 문제에 대해 GPT‑5가 GPT‑5.2‑Chat, Claude Opus 4.5, Gemini 3 Flash Preview의 오염 여부를 조사함
   GPT‑5에는 작업 ID, 설명, 골드 패치, PR 테스트가 제공됐고 총 15턴 동안 프롬프트와 유도 전략을 바꿀 수 있게 함
@@ -63,13 +63,13 @@
 ## 모델별 심각한 오염 사례
 
 - GPT‑5.2
-  [django\_\_django-11451](https://github.com/django/django/pull/11451)에서 짧은 작업 설명 스니펫만으로도 **정확한 골드 패치**를 출력함
+  [django__django-11451](https://github.com/django/django/pull/11451)에서 짧은 작업 설명 스니펫만으로도 **정확한 골드 패치**를 출력함
   `ModelBackend.authenticate()`에서 `username is None or password is None`일 때 조기 반환하는 조건, 파일 경로, 메서드 이름까지 재현함
 - Claude Opus 4.5
-  [astropy\_\_astropy-13236](https://github.com/astropy/astropy/pull/13236)에서 수정 대상 파일 경로 `astropy/table/table.py`, `_convert_data_to_col` 메서드, 그리고 diff 안의 **인라인 주석**까지 글자 그대로 인용함
+  [astropy__astropy-13236](https://github.com/astropy/astropy/pull/13236)에서 수정 대상 파일 경로 `astropy/table/table.py`, `_convert_data_to_col` 메서드, 그리고 diff 안의 **인라인 주석**까지 글자 그대로 인용함
   구조화된 ndarray를 `NdarrayMixin`으로 자동 변환하던 4줄 코드도 정확히 복원함
 - Gemini 3 Flash
-  [django\_\_django-11099](https://github.com/django/django/pull/11099)에서 작업 ID 외 추가 정보가 거의 없는 상태에서도 작업 설명과 **골드 패치 전체**를 글자 그대로 출력함
+  [django__django-11099](https://github.com/django/django/pull/11099)에서 작업 ID 외 추가 정보가 거의 없는 상태에서도 작업 설명과 **골드 패치 전체**를 글자 그대로 출력함
   사용자 이름 검증용 정규식이 `r'^[\w.@+-]+$'`에서 `r'^[\w.@+-]+\Z'`로 바뀌는 내용과 줄 단위 diff까지 재현함
 
 ## 핵심 교훈
@@ -127,7 +127,7 @@
   다음 세대 벤치마크가 이런 점을 해결하지 않으면, 포화 여부와 무관하게 같은 문제가 계속 남게 됨
   기사 내용대로라면 **27.6% 하위집합**을 감사했고, 그중 **59.4%** 가 기능적으로 맞는 제출을 거부하는 결함 테스트를 가졌다고 했음
 
-  계산해 보면 0.191 \* 0.594 > 1 - 0.936이라서, 감사한 부분집합이 대표성이 없었던 건지 아니면 Anthropic이 좀 수상한 방식으로 높은 점수를 얻은 건지 궁금해짐
+  계산해 보면 0.191 * 0.594 > 1 - 0.936이라서, 감사한 부분집합이 대표성이 없었던 건지 아니면 Anthropic이 좀 수상한 방식으로 높은 점수를 얻은 건지 궁금해짐
   **SPECint**와 **SPECfp**도 정확히 같은 사이클을 겪었음
 
   벤치마크를 만들고, 포화되고, 폐기하고, 대체하고, 다시 반복했음
@@ -139,7 +139,6 @@
   **SWE-bench** 자체는 훌륭하다고 봄
 
   지금처럼 세게 검증받는 건 그만큼 널리 채택되고 성공했다는 반작용으로 보임
-
 - 새로 나오는 어떤 벤치마크든 금방 **학습 데이터**에 들어가고 곧바로 낡아버릴 게 너무 분명해 보임
 
   마케팅용으로라도 특정 벤치마크에 맞춰 최적화할 유인은 항상 있고, 학습 cutoff가 있다 해도 보통 공개 시점에서 3~6개월 차이밖에 안 남
@@ -190,7 +189,6 @@
   예를 들어 AI는 frontend나 널리 쓰이는 라이브러리 쪽에서 훨씬 잘할 수 있음
 
   결국 모델 평가는 직접 써보는 수밖에 없는데, 새 모델마다 이걸 반복하는 건 너무 지치고 그것만으로도 충분히 포괄적이지 않음
-
 - **벤치마크/eval**은 원래도 어렵고, 업계 규모로 게임할 유인이 엄청 커지면 더 어려워짐
 
   **ELT-Bench**도 최근 사례인데, 데이터 엔지니어링 워크로드용으로 1년쯤 전에 나온 첫 진지한 벤치마크였음
@@ -217,13 +215,11 @@
 
   코딩보단 논리성이 덜하고 지속 추론도 덜한 복잡 작업에서도 이런 일이 생기는데, 언젠가는 측정 대상과 독립된 보정된 벤치마크가 아예 사라질 수도 있음
   그럼 **매달 새 벤치마크**를 만드는 방식이 이 문제를 해결할 수 있는지 궁금함
-
 - 결국 우리는 대체로 **자업자득의 벤치마크**를 받고 있는 셈이라 봄
 
   SWE-bench를 통과한 PR 중 상당수는 실제로는 merge되지 못할 것 같음: [https://news.ycombinator.com/item?id=47341645](https://news.ycombinator.com/item?id=47341645)
 
   또 상위 모델의 SWE-bench 점수는 **git history 유출** 때문에 왜곡됐을 수도 있음: [https://news.ycombinator.com/item?id=45214670](https://news.ycombinator.com/item?id=45214670)
-
 - 차라리 최고급 모델에게 벤치마크를 직접 만들라고 하면 어떨까 싶음
 
   농담은 제쳐두고, 내가 기대하는 건 **ARC-AGI-3**이고 인간 시뮬레이션을 해보니 정말 추론 비중이 높게 느껴졌음
@@ -247,7 +243,6 @@
   AI가 심지어 **AI도 못 푸는 문제**를 쓸 수 있을까 싶기도 함
 
   생각하면 좀 웃기긴 함
-
 - 더 나은 벤치마크는 **객관적 채점**, **다학문적 폭**, **확장성**을 가져야 하고, 단일 정답만 있는 형태는 피해야 함
 
   [https://gertlabs.com](https://gertlabs.com)에서 우리가 설계한 것도 그런 방향이고, 코딩을 통한 문제 해결과는 대체로 관련되게 만들었음
@@ -274,7 +269,6 @@
   이 벤치마크를 보면 **Deepseek V4 pro**가 **Deepseek V4 flash**보다 더 못하는 것처럼 보이는데 꽤 흥미로운 결과임
 
   왜 그렇게 나왔는지 코멘트가 궁금함
-
 - 이런 일은 유기적으로든 비유기적으로든 결국 벌어질 수밖에 없었음
 
   **벤치마크 성적**만 잘 나오게 만들면 되고, 밖으로 일반화가 안 돼도 별 상관 없다는 식으로 흐르기 쉬움
@@ -282,7 +276,6 @@
   비슷한 사례로 **Graduate student descent**도 떠오름
 
   [https://sciencedryad.wordpress.com/2014/01/25/grad-student-d...](https://sciencedryad.wordpress.com/2014/01/25/grad-student-descent/)
-
 - 돌아보면 **SWE-bench**가 원래 그렇게 대단했던 것도 아닌 듯함
 
   2025년 내내 모델이 **좋은 코드**를 만드는 비율은 사실상 거의 개선되지 않았고, 자동 테스트를 통과하는 능력만 좋아졌다는 해석이 더 맞아 보임
@@ -304,7 +297,6 @@
 
   SWE-bench가 코딩 쪽에서 유용했던 이유는 소프트웨어 공학에 자동 테스트를 만들고 활용하는 전통과 인프라가 워낙 강하기 때문임
   어쩌면 그래서 요즘 회사들의 **가격제**가 더 제한적이고 비싸지는 걸지도 모르겠음
-
 - 기사에서 말한 내용은, 모델이 자주 못 푼 **27.6% 하위집합**을 감사해 보니 그중 최소 **59.4%** 에 기능적으로 맞는 제출도 거부하는 결함 테스트가 있었다는 뜻으로 읽힘
 
   이게 정말이라면 그동안 문제와 정답의 큰 덩어리가 틀렸던 셈 아닌가 싶고, 그렇다면 이게 어떻게 유효한 측정이었는지 의문이 큼

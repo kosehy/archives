@@ -11,7 +11,6 @@ Author/site: Jason Cohen / A Smart Bear
 Reading time: 10 min
 
 ## Deck
-
 If you don’t hire people better than you, the organization gets bigger, not better. But how do you hire for something you don’t understand?
 
 ![Cartoon about hiring a leader of the pack](./figures/figure-01.jpg)
@@ -123,7 +122,6 @@ Those clues were available to you during the interview. The culture fit was avai
 It’s not perfect, but that’s what you do.
 
 ## Preserved source references
-
 - source: https://andertoons.com/interview/cartoon/5940/thanks-for-coming-in-but-were-looking-for-less-of-sales-manager-and-more-of-leader-of-pack?utm_source=longform.asmartbear.com&utm_campaign=longform.asmartbear.com&utm_medium=post
 - infinitely better: https://longform.asmartbear.com/imbalanced-people/
 - why you must hire up: https://longform.asmartbear.com/delegation/

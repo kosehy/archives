@@ -1,19 +1,26 @@
-# The advisor strategy: Give agents an intelligence boost — Article Index
+# The advisor strategy: Give agents an intelligence boost
 
-Source: https://claude.com/blog/the-advisor-strategy
-Date: 2026-04-10
-Folder: `archive/2026/04/w2/2026-04-10-the-advisor-strategy-give-agents-an-intelligence-boost/`
+## Source
 
-## Published files
+- Archived date: 2026-04-10
+- Archive source: `archive/2026/04/w2/2026-04-10-the-advisor-strategy-give-agents-an-intelligence-boost/`
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- Shared link: `https://share.google/j3X5rZfJmxpxsZLw2`
-- Direct fetch of the shared link and a guessed Anthropic news URL returned 403.
-- Preserved source is the accessible official Claude blog page at `https://claude.com/blog/the-advisor-strategy`.
-- The shared title mentioned Sonnet and Opus explicitly, while the accessible official page title is broader. The preserved original follows the accessible official title and records the discrepancy in the preservation note.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

@@ -109,7 +109,7 @@ Notable claims include strong or competitive scores in:
 - AIME 2026
 - GPQA-Diamond
 - MMMU-Pro
-- MathVision and V\* with python
+- MathVision and V* with python
 
 The blog also provides methodological notes about reasoning settings, token limits, context handling, and benchmark reproduction.
 

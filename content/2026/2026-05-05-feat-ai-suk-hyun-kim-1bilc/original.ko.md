@@ -4,7 +4,6 @@ Source: https://www.linkedin.com/pulse/%EA%B0%9C%EB%B3%84%EC%A0%81-%EC%A3%BC%EC%
 Saved: 2026-05-05
 
 ## Source Metadata
-
 - Title: 개별적 주체가 아닌 가분체가 되어버린 인간 (Feat. AI 알고리즘)
 - Author: Suk Hyun K.
 - Published: 발행일: 2026년 5월 5일
@@ -14,7 +13,6 @@ Saved: 2026-05-05
 - LinkedIn pulse slug/source id: suk-hyun-kim-1bilc
 
 ## Extractor Notes
-
 - Extracted from LinkedIn SSR HTML using lxml, scoped to `data-test-id` containing `article-content` / `article-content-blocks` and main `<article>` metadata.
 - Excluded LinkedIn navigation, sign-in prompts, recommendation cards, sidebars, and unrelated article cards.
 - The full visible article body was accessible without login at extraction time.

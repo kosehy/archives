@@ -1,29 +1,29 @@
-# 프롬프트에서 하네스까지 — AI 에이전틱 패턴 4년의 기록 — Article Index
+# 프롬프트에서 하네스까지 — AI 에이전틱 패턴 4년의 기록
 
-Source: https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html
-Shared link: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fbits-bytes-nn%2Egithub%2Eio%2Finsights%2Fagentic-ai%2F2026%2F04%2F05%2Fevolution-of-ai-agentic-patterns%2Ehtml&urlhash=7ueu&mt=H2NLC8Xp_p43gapJmugIkIK9uyPbUOG5CIfUQF-0NUNecDo6wyWatBKX65CnLOnyddgOIwr7QIidjRv1jUz2AwCalsmLb1MW_8Uj-WY4vxxjA7QOIDK0tFlR&isSdui=true
-Date: 2026-04-06
-Folder: `archive/2026/04/w1/2026-04-06-evolution-of-ai-agentic-patterns/`
+## Source
 
-## Published files
+- Archived date: 2026-04-06
+- Archive source: `archive/2026/04/w1/2026-04-06-evolution-of-ai-agentic-patterns/`
 
-- [original.ko.md](./original.ko)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.en.md](./translation.en)
+## Public files
 
-## Archive status note
+- `article_index.md` - public reading index
+- `figure-notes.md` - notes for recovered figures
+- `original.ko.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.en.md` - translation
+- `figures/` - recovered public image assets
 
-- This archive was later revisited and upgraded from a summary-heavy first pass to a source-grounded version based directly on the original article.
-- The source article is written in Korean, so the canonical preserved source file is `original.ko.md`, with English translation in `translation.en.md`.
-- `original.ko.md` now serves as a preserved-original file with minimal markdown normalization rather than a rewritten summary-style retention.
-- `translation.en.md` was then realigned to match the corrected preserved original more closely.
+## Reading order
 
-## Notes
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.ko.md`
+4. `translation.en.md`
+5. `figure-notes.md`
 
-- The source article is written in Korean, so the archive preserves it as `original.ko.md` and provides `translation.en.md`.
-- The article is a long-form interpretive chronology of prompt engineering, context engineering, and harness engineering.
-- It mixes historical narrative, commentary, and many external references rather than functioning as a neutral survey.
-- Earlier first-pass files used the wrong language pairing (`original.en.md`, `translation.ko.md`) and were replaced during the source-grounded revision.
-- The archive was later upgraded to a figure-aware version with 12 recovered image assets from the source article and its embedded references.
-- After user review, `original.ko.md` was corrected again so it matches the source article much more closely as a preserved original, instead of a rewritten summary-like version.
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

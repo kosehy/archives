@@ -1,19 +1,26 @@
-# 어렵게 설득해서 채용한 사람들이 자꾸 나가요. — Article Index
+# 어렵게 설득해서 채용한 사람들이 자꾸 나가요.
 
-Source: https://www.linkedin.com/posts/divercity_%EC%96%B4%EB%A0%B5%EA%B2%8C-%EC%84%A4%EB%93%9D%ED%95%B4%EC%84%9C-%EC%B1%84%EC%9A%A9%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EC%9E%90%EA%BE%B8-%EB%82%98%EA%B0%80%EC%9A%94-%EC%98%88%EC%A0%84%EB%B6%80%ED%84%B0-%EC%95%8C%EA%B3%A0-%EC%A7%80%EB%82%B4%EB%8D%98-%ED%95%9C-share-7444897976369463296-4rqF
-Date: 2026-04-02
-Folder: `archive/2026/04/w1/2026-04-02-linkedin-hiring-people-who-keep-leaving/`
+## Source
 
-## Published files
+- Archived date: 2026-04-02
+- Archive source: `archive/2026/04/w1/2026-04-02-linkedin-hiring-people-who-keep-leaving/`
 
-- [original.ko.md](./original.ko)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.en.md](./translation.en)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.ko.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.en.md` - translation
 
-- `original.ko.md` is the preserved source text.
-- This archive is based on a LinkedIn post rather than a conventional article.
-- Public web extraction succeeded.
-- Platform UI text such as profile lines and comment prompts was omitted from the preserved text.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.ko.md`
+4. `translation.en.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

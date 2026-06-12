@@ -1,19 +1,26 @@
-# Continual learning for AI agents — Article Index
+# Continual learning for AI agents
 
-Source: https://blog.langchain.com/continual-learning-for-ai-agents/
-Shared link: https://share.google/wnhXjk7uQk2U0drLJ
-Date: 2026-04-06
-Folder: `archive/2026/04/w1/2026-04-06-continual-learning-for-ai-agents/`
+## Source
 
-## Published files
+- Archived date: 2026-04-06
+- Archive source: `archive/2026/04/w1/2026-04-06-continual-learning-for-ai-agents/`
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- The article argues that continual learning for agents should be understood across three layers: model, harness, and context.
-- It explicitly maps the framework to both Claude Code and OpenClaw.
-- The piece is conceptually useful because it separates weight updates from harness evolution and memory/context updates.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

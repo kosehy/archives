@@ -1,22 +1,30 @@
-# Kimi K2.6 Tech Blog: Advancing Open-Source Coding
+# Article Index
 
-- Title: Kimi K2.6 Tech Blog: Advancing Open-Source Coding
-- Date archived: 2026-04-22
+## Source
+
+- Archived date: 2026-04-22
 - Source URL: https://www.kimi.com/blog/kimi-k2-6
 - Shared URL: https://news.hada.io/topic?id=28736
-- Source type: Official Kimi technical blog with GeekNews preservation
-- Language: English source, Korean translation added
+- Archive source: `archive/2026/04/w4/2026-04-22-kimi-k2-6-advancing-open-source-coding/`
 
-## Published files
+## Public files
 
-- [hada-summary.ko.md](./hada-summary.ko)
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+- `article_index.md` - public reading index
+- `hada-summary.ko.md` - GeekNews/Hada discussion summary
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-## Work log
+## Reading order
 
-- Preserved the accessible main portion of the official Kimi technical blog.
-- Preserved the GeekNews body separately as `hada-summary.ko.md` per GeekNews handling rule.
-- Recorded truncation explicitly because the official blog fetch cut off near the footnotes.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+5. `hada-summary.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

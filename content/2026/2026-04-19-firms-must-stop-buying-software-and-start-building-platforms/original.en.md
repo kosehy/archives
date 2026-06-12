@@ -47,19 +47,15 @@ The author stresses that this internal platform is not imagined as starting from
 The essay identifies four layers firms should build around and own:
 
 ### 1. Proprietary Data (Memory)
-
 Project history, productivity records, installation sequences, supplier performance, schedule logic changes, and other operational memory.
 
 ### 2. Operational Workflows (Execution)
-
 Estimating methods, procurement playbooks, change management, risk escalation, RFI triage, and other delivery processes that often live as tacit knowledge inside experienced teams.
 
 ### 3. Integration Architecture (Coordination)
-
 The connective layer across drawings, specifications, schedules, cost codes, identifiers, metadata standards, permissions, versioning, and audit trails.
 
 ### 4. Decision Logic (Judgment)
-
 Risk scoring, non-compliance detection, forecasting rules, constructibility checks, exception thresholds, and similar rules that convert information into action.
 
 The essay argues these layers compound on each other. Better data sharpens decision logic, better logic improves workflows, and better workflows generate richer data. But that feedback loop only compounds for the firm if those layers are collocated inside infrastructure the firm governs.

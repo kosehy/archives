@@ -1,20 +1,27 @@
-# Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price.
+# Article Index
 
-- Title: Anthropic, OpenAI, Google, and Microsoft agree that the harness is the product. They disagree on the price.
-- Date archived: 2026-04-20
+## Source
+
+- Archived date: 2026-04-20
 - Source URL: https://thenewstack.io/ai-agent-harness-pricing-split/
-- Source type: The New Stack article
-- Language: English source, Korean translation added
+- Archive source: `archive/2026/04/w3/2026-04-20-anthropic-openai-google-and-microsoft-agree-that-the-harness-is-the-product/`
 
-## Published files
+## Public files
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-## Work log
+## Reading order
 
-- Direct fetch preserved only the article identity and headline.
-- Secondary accessible text mirror returned mainly cookie/subscription chrome instead of the article body.
-- Stored this item as a transparent partial archive rather than fabricating a source text.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

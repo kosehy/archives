@@ -1,18 +1,26 @@
-# Reallocating $100/Month Claude Code spend to Zed and OpenRouter — Article Index
+# Reallocating $100/Month Claude Code spend to Zed and OpenRouter
 
-Source: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
-Date: 2026-04-12
-Folder: `archive/2026/04/w2/2026-04-12-reallocating-100-month-claude-spend/`
+## Source
 
-## Published files
+- Archived date: 2026-04-12
+- Archive source: `archive/2026/04/w2/2026-04-12-reallocating-100-month-claude-spend/`
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- Preserved from the accessible Braw.dev blog article.
-- The article is primarily an operator note about AI-tool pricing structure, agent harness choice, and reallocating subscription spend toward rollover API credits.
-- The original includes explicit environment-variable examples for routing Claude Code through OpenRouter.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

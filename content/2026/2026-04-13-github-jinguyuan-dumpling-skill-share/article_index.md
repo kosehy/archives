@@ -1,18 +1,26 @@
-# 중국의 만두집이 에이전트 스킬을 배포했습니다 — Article Index
+# 중국의 만두집이 에이전트 스킬을 배포했습니다
 
-Source: https://www.linkedin.com/posts/woongjae-lee_github-jinguyuanjinguyuan-dumpling-skill-share-7449070408688906240-Bads?utm_source=share&utm_medium=member_android&rcm=ACoAAAXt8v0BjTAFa8U2A--Uyng7OCcG4aSv6gE
-Date: 2026-04-13
-Folder: `archive/2026/04/w2/2026-04-13-github-jinguyuan-dumpling-skill-share/`
+## Source
 
-## Published files
+- Archived date: 2026-04-13
+- Archive source: `archive/2026/04/w2/2026-04-13-github-jinguyuan-dumpling-skill-share/`
 
-- [original.ko.md](./original.ko)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.en.md](./translation.en)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.ko.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.en.md` - translation
 
-- Preserved from the accessible public LinkedIn post text.
-- The preserved original is the LinkedIn post itself, not the linked GitHub repository.
-- The post is notable for framing agent adoption as an interface shift, where AI may become a practical customer of products and services.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.ko.md`
+4. `translation.en.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

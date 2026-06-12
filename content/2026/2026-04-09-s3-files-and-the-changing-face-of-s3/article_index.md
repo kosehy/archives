@@ -1,18 +1,26 @@
-# S3 Files and the changing face of S3 — Article Index
+# S3 Files and the changing face of S3
 
-Source: https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html
-Shared link: https://share.google/ZP0RjCM0qwFmImooM
-Date: 2026-04-09
-Folder: `archive/2026/04/w2/2026-04-09-s3-files-and-the-changing-face-of-s3/`
+## Source
 
-## Published files
+- Archived date: 2026-04-09
+- Archive source: `archive/2026/04/w2/2026-04-09-s3-files-and-the-changing-face-of-s3/`
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- The source article is a long-form technical essay from All Things Distributed.
-- `original.en.md` preserves the source article in a lightly normalized markdown form.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

@@ -1,20 +1,27 @@
-# Add voice to your agent
+# Article Index
 
-- Title: Add voice to your agent
-- Date archived: 2026-04-20
+## Source
+
+- Archived date: 2026-04-20
 - Source URL: https://blog.cloudflare.com/voice-agents/
-- Source type: Cloudflare blog post
-- Language: English source, Korean translation added
+- Archive source: `archive/2026/04/w3/2026-04-20-add-voice-to-your-agent/`
 
-## Published files
+## Public files
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-## Work log
+## Reading order
 
-- Preserved the accessible main portion of the Cloudflare blog post through the current fetch path.
-- Captured the article’s key framing around voice as an extension of the same agent runtime.
-- Recorded truncation explicitly because the fetched article text did not include the full post.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

@@ -22,7 +22,6 @@ bunny.net은 슬로베니아에 기반을 둔 유럽 회사로, CDN 관련 기�
 글은 bunny.net CDN 설정을 단계별로 설명한다.
 
 ### 1. Pull Zone 생성
-
 - 의미 있는 이름을 정한다.
 - Origin type은 `Origin URL`로 둔다.
 - 오리진 서버 주소를 입력한다.
@@ -31,20 +30,17 @@ bunny.net은 슬로베니아에 기반을 둔 유럽 회사로, CDN 관련 기�
 - 필요에 따라 가격 구역을 조정한다.
 
 ### 2. Pull Zone 연결
-
 - Custom hostname에 실제 사이트 도메인을 넣는다.
 - 안내에 따라 DNS에 CNAME을 추가해 `*.b-cdn.net` 쪽으로 연결한다.
 - 전파 후 `Verify & Activate SSL`을 눌러 SSL을 활성화한다.
 
 ### 3. 캐싱 구성
-
 - 오리진이 적절한 cache-control 헤더를 반환하면 bunny.net이 이를 존중한다.
 - 직접 헤더를 제어하지 않으려면 Smart Cache를 켤 수 있다.
 - 작성자는 Phoenix 라우터에 `cache-control: public, s-maxage=86400, max-age=0`를 추가해 HTML까지 CDN에 캐싱되도록 구성했다.
 - 그 대가로 새 글 발행 시 pull zone purge가 필요하다.
 
 ### 4. 기본 옵션
-
 - Force SSL 활성화
 - Origin Shield 활성화
 - stale cache 옵션 활성화 고려

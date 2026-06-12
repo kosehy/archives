@@ -4,7 +4,6 @@ Source: https://thenewstack.io/openai-ory-identity-scale/
 Saved: 2026-05-05
 
 ## Source Metadata
-
 - Title: How OpenAI scaled to 900 million weekly users with Ory
 - Source: The New Stack
 - Author: Damon Tepe
@@ -18,7 +17,6 @@ Saved: 2026-05-05
 - Sponsor disclosure: Ory sponsored this post. Insight Partners is an investor in Ory and TNS.
 
 ## Extractor Notes
-
 - Resolved the Google shared URL to the canonical The New Stack URL with Python urllib redirects.
 - Extracted article body from `.content-column-post-body`, preserving headings, lists, blockquotes, and important inline links.
 - Excluded navigation, scripts, newsletter/signup/footer widgets, and unrelated site chrome.
@@ -53,7 +51,7 @@ Following the implementation of Ory, OpenAI successfully navigated what Benjamin
 
 The move to Ory also resolved the “SaaS paradox” of needing enterprise-grade security without the rigid constraints of a monolithic provider. OpenAI gained full control over its user interface and roadmap, allowing it to build a bespoke experience for both consumer and enterprise users. Ultimately, the partnership accelerated OpenAI’s [engineering velocity](https://thenewstack.io/accelerating-developer-velocity-with-effective-platform-teams/); instead of spending months building and maintaining a homegrown identity stack, the team leveraged Ory’s expertise and responsive support to focus on their core mission of AI innovation, ensuring that identity remained a secure, invisible foundation for their global user base.
 
-**_Key Results:_**
+***Key Results:***
 
 - **Massive Scalability:** Successfully managed the meteoric rise of users from 100 million to over 900 million weekly active users.
 - **Zero-Downtime Migration:** Replaced the [legacy login system](https://thenewstack.io/orchestration-the-key-to-integrating-ai-with-legacy-systems/) without any disruption to the weekly active user sessions.
@@ -72,10 +70,10 @@ As OpenAI approaches the 1 billion weekly user mark, the Ory-powered identity la
 
 > “Overall, working with your team has been very satisfying. You’ve been very responsive. You’ve done changes that we’ve asked for in a very timely manner. So it’s been overall great working with you all.” **– Benjamin Billings, Engineering Manager, OpenAI**
 
-_Read the_ [_original case study_](https://www.ory.com/case-studies/openai) _or_ [_watch the interview_](https://www.ory.com/resources/videos/openai-scales-to-800m-users-with-ory).
+*Read the* [*original case study*](https://www.ory.com/case-studies/openai) *or* [*watch the interview*](https://www.ory.com/resources/videos/openai-scales-to-800m-users-with-ory).
 
 ## Take the next step with Ory
 
-- _Agent IAM is the next big thing,_ [_hear Ory CEO’s thoughts_](https://www.ory.com/resources/videos/agentic-ai-identity-security-the-future-of-ciam-vmblog).
-- _Global survey on Agentic readiness._ [_See what peers think_](https://www.ory.com/resources/whitepapers/agentic-ai-identity-security-readiness).
-- _Modern identity strategies: AI Agents, passwordless, mobile UX._ [_Watch the video_](https://www.ory.com/resources/webinars/top-5-trends-in-customer-identity-and-access-management-ciam).
+- *Agent IAM is the next big thing,* [*hear Ory CEO’s thoughts*](https://www.ory.com/resources/videos/agentic-ai-identity-security-the-future-of-ciam-vmblog).
+- *Global survey on Agentic readiness.* [*See what peers think*](https://www.ory.com/resources/whitepapers/agentic-ai-identity-security-readiness).
+- *Modern identity strategies: AI Agents, passwordless, mobile UX.* [*Watch the video*](https://www.ory.com/resources/webinars/top-5-trends-in-customer-identity-and-access-management-ciam).

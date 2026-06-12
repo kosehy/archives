@@ -13,7 +13,7 @@ Saved: 2026-04-30
 - 공유 URL: https://share.google/dC7gpRnpEaUPm9DCL
 - 해석된 원문 URL: https://www.koreatimes.net/ArticleViewer/Article/176662
 
-2026~2027 회계연도 적자 653억 불  
+2026~2027 회계연도 적자 653억 불
 물가 부담 완화 새로운 지원책 안보여
 
 연방 자유당정부는 봄철 경제 업데이트에서 대규모 인프라 건설 계획을 뒷받침하기 위해 숙련 노동자 양성에 수십억 달러를 투입하는 방안을 제시했다.

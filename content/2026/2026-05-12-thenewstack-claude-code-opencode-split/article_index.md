@@ -2,16 +2,20 @@
 
 ## Source
 
-- Source URL: https://thenewstack.io/anthropic-claudecode-opencode-split/
 - Archived date: 2026-05-12
+- Source URL: https://thenewstack.io/anthropic-claudecode-opencode-split/
+- Canonical URL: https://thenewstack.io/anthropic-claudecode-opencode-split/
+- Author: Janakiram MSV
+- Published: 2026-05-10T16:36:15+00:00
 - Source language: en
 - Quality status: good
+- Archive source: `archive/2026/05/w2/2026-05-12-thenewstack-claude-code-opencode-split/`
 
 ## Public files
 
 - `article_index.md` - public reading index
 - `original.en.md` - preserved source text
-- `summary.ko.md` - Korean summary and reusable frame
+- `summary.ko.md` - Korean summary
 
 ## Reading order
 
@@ -21,5 +25,4 @@
 ## Public copy notes
 
 - This public copy includes only reviewed public-safe archive artifacts.
-- Newsletter tracking parameters were not preserved; the canonical article URL is used.
-- Additional local-only working artifacts, Graphify outputs, source traces, and API snapshots are not part of the public site.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

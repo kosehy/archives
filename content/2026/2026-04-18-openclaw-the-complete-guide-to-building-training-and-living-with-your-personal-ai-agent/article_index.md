@@ -1,20 +1,27 @@
-# OpenClaw: The complete guide to building, training, and living with your personal AI agent
+# Article Index
 
-- Title: OpenClaw: The complete guide to building, training, and living with your personal AI agent
-- Date archived: 2026-04-18
+## Source
+
+- Archived date: 2026-04-18
 - Source URL: https://www.lennysnewsletter.com/p/openclaw-the-complete-guide-to-building
-- Source type: Lenny’s Newsletter guide
-- Language: English source, Korean translation added
+- Archive source: `archive/2026/04/w3/2026-04-18-openclaw-the-complete-guide-to-building-training-and-living-with-your-personal-ai-agent/`
 
-## Published files
+## Public files
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-## Work log
+## Reading order
 
-- Preserved the accessible first portion of the guide through the current fetch path.
-- Captured the article’s main framing around setup, onboarding, identity files, and recurring-agent workflows.
-- Recorded truncation explicitly because the fetched article text did not include the full post.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

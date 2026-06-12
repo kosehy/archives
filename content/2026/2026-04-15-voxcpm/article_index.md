@@ -1,22 +1,28 @@
-# VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+# Article Index
 
-- Title: VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-- Date archived: 2026-04-15
-- Source type: GitHub repository overview
+## Source
+
+- Archived date: 2026-04-15
 - Source URL: https://github.com/OpenBMB/VoxCPM
-- Repository: OpenBMB/VoxCPM
-- Language: English
-- License shown on repository page: Apache-2.0
+- Archive source: `archive/2026/04/w3/2026-04-15-voxcpm/`
 
-## Published files
+## Public files
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+- `article_index.md` - public reading index
+- `README.source.txt` - public source note
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-## Work log
+## Reading order
 
-- Preserved the public repository overview and README-level claims from the GitHub page.
-- Recorded core features, model/version notes, links, and preservation limits.
-- Kept this archive at the repository-overview level rather than attempting full code or weight preservation.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

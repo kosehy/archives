@@ -1,19 +1,23 @@
 # AgriciDaniel Claude Ads GitHub Repository
 
-## Metadata
+## Source
 
 - Source URL: https://github.com/AgriciDaniel/claude-ads
 - Archived date: 2026-04-30
 - Source language: en
-- Extraction method: github_api_readme
 - Quality status: good
+- Archive source: `archive/2026/04/w5/2026-04-30-agricidaniel-claude-ads-github-repository/`
 
-## Published files
+## Public files
 
-- [original.en.md](./original.en)
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
 
-## Extraction Notes
+## Reading order
 
-- GitHub repository page archived from REST API metadata, README.md, top-level file listing, and language stats; source is a public GitHub repository rather than a traditional article.
-- README capture includes repository description, install commands, command list, feature claims, architecture notes, data/privacy notes, requirements, related project, and author links.
-- Repository metadata at capture time: Python primary language, MIT license, 3,788 stars, 614 forks, 18 open issues, default branch `main`.
+1. `original.en.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

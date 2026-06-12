@@ -1,23 +1,28 @@
-# Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh
+# Article Index
 
-- Title: Secure private networking for everyone: users, nodes, agents, Workers — introducing Cloudflare Mesh
-- GeekNews title: Cloudflare Mesh 출시 - 사용자, 노드, 에이전트, Workers를 위한 안전한 프라이빗 네트워킹
-- Date archived: 2026-04-15
-- Original source URL: https://blog.cloudflare.com/mesh/
-- GeekNews source URL: https://news.hada.io/topic?id=28537
-- Source type: Cloudflare blog post with separate GeekNews summary preservation
-- Language: English original, Korean summary/translation added
+## Source
 
-## Published files
+- Archived date: 2026-04-15
+- Archive source: `archive/2026/04/w3/2026-04-15-cloudflare-mesh-private-networking/`
 
-- [hada-summary.ko.md](./hada-summary.ko)
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+## Public files
 
-## Work log
+- `article_index.md` - public reading index
+- `hada-summary.ko.md` - GeekNews/Hada discussion summary
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-- Followed the new news.hada.io rule: archived the original article from the source URL, not the GeekNews page.
-- Preserved the GeekNews post separately as `hada-summary.ko.md`.
-- Kept the original archive focused on the Cloudflare blog article and its major claims.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+5. `hada-summary.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

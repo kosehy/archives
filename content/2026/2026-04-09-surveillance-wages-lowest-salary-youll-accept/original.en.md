@@ -8,7 +8,6 @@ Language: English
 Type: Preserved original article
 
 ## Preservation note
-
 - MarketWatch direct extraction was access-limited during archiving.
 - This preserved original uses an accessible Morningstar-hosted syndication of the same MarketWatch / Dow Jones article text.
 - The article text as captured ends with `(MORE TO FOLLOW)`, so the accessible preserved version may be truncated relative to the full original publication.

@@ -14,9 +14,9 @@ Tag: 오리지널 콘텐츠
 Description: AI 시대 신입-대학생은 가장 버려진 계층입니다.
 그런데 동시에 가장 희소한 자원이기도 합니다
 
-![AI 시대에 대학생으로 살아남는 법](./figures/figure-01.jpg)
+![AI 시대에 대학생으로 살아남는 법](figures/figure-01.jpg)
 
-_AI 시대 신입은 이미 다른 게임입니다._
+*AI 시대 신입은 이미 다른 게임입니다.*
 
 ## 신입이 사라진 게 아니라, 지워지고 있습니다
 
@@ -34,13 +34,13 @@ _AI 시대 신입은 이미 다른 게임입니다._
 
 Anthropic은 범용 인턴을 없앤 대신 Anthropic Fellows라는 소수정예 프로그램을 운영합니다. 2026년 1기의 40% 이상이 Anthropic 정규직으로 전환됐습니다. OpenAI는 6개월짜리 $220K Residency를 운영하고, 제안을 받은 100%가 수락했다고 공개합니다. 대표적인 AI스타트업 Sierra는 Bret Taylor가 Google APM 모델을 AI 시대에 맞게 번화시킨 18개월 APX 로테이션을 만들었습니다.
 
-![대학 졸업생을 채용하고자 별도 트랙을 운영하는 회사들](./figures/figure-02.png)
+[Image: 대학 졸업생을 채용하고자 별도 트랙을 운영하는 회사들](https://storage.ghost.io/c/69/5d/695d95ea-2555-47ab-ae2d-b9e3ca5d3bc6/content/images/2026/04/-------------------------------2026-04-24--------------12.04.18.png)
 
-![대학 졸업생을 채용하고자 별도 트랙을 운영하는 회사들](./figures/figure-03.png)
+[Image: 대학 졸업생을 채용하고자 별도 트랙을 운영하는 회사들](https://storage.ghost.io/c/69/5d/695d95ea-2555-47ab-ae2d-b9e3ca5d3bc6/content/images/2026/04/-------------------------------2026-04-24--------------12.02.24-1.png)
 
-![대학 졸업생을 채용하고자 별도 트랙을 운영하는 회사들](./figures/figure-04.png)
+[Image: 대학 졸업생을 채용하고자 별도 트랙을 운영하는 회사들](https://storage.ghost.io/c/69/5d/695d95ea-2555-47ab-ae2d-b9e3ca5d3bc6/content/images/2026/04/-------------------------------2026-04-27--------------1.30.00.png)
 
-_대학 졸업생을 채용하고자 별도 트랙을 운영하는 회사들_
+*대학 졸업생을 채용하고자 별도 트랙을 운영하는 회사들*
 
 이 프로그램들은 한 가지 공통점이 있습니다. 엔트리 레벨이 더 이상 **완전 신입을 뽑아 부서에 배치하는 방식**이 아니라는 겁니다. 회사가 풀고 싶은 문제에 맞춰 밀도 높은 "압축된 pre-FTE(정규직 직전 단계)"로 운영합니다.. 교육생이 아니라 즉시 전력입니다.
 
@@ -48,9 +48,9 @@ _대학 졸업생을 채용하고자 별도 트랙을 운영하는 회사들_
 
 회사 차원에서는 시행착오가 필요하면서 무슨 직무역량을 명확하게 필요로 하는지 모르겠는 영역에 신입들을 보내고 트레이닝 시키면서 회사-인재 win-win 플레이를 구성해나가는거죠.
 
-![뤼튼이 너무 높은 허들로 뽑아버리면서 이슈가 되었던 인턴 포지션](./figures/figure-05.png)
+[Image: 뤼튼이 너무 높은 허들로 뽑아버리면서 이슈가 되었던 인턴 포지션](https://storage.ghost.io/c/69/5d/695d95ea-2555-47ab-ae2d-b9e3ca5d3bc6/content/images/2026/04/image.png)
 
-_뤼튼이 너무 높은 허들로 뽑아버리면서 이슈가 되었던 인턴 포지션_
+*뤼튼이 너무 높은 허들로 뽑아버리면서 이슈가 되었던 인턴 포지션*
 
 [인턴 포지션](https://www.unicornfactory.co.kr/article/2026031908523711003?ref=re-builder.xyz)
 
@@ -66,9 +66,9 @@ _뤼튼이 너무 높은 허들로 뽑아버리면서 이슈가 되었던 인턴
 
 그럼 진짜 차이는 어디서 날까요. 힌트는 *미래 기업 구조*에 있습니다. 트위터의 창업자이자 현재 Block을 운영 중인 Jack Dorsey의 글에서 그 미래를 엿볼 수 있습니다.
 
-![회사의 직원을 40%로 줄이기 위한 명분을 쌓는, 솔직한 글입니다](./figures/figure-06.png)
+[Image: 회사의 직원을 40%로 줄이기 위한 명분을 쌓는, 솔직한 글입니다](https://storage.ghost.io/c/69/5d/695d95ea-2555-47ab-ae2d-b9e3ca5d3bc6/content/images/2026/04/-------------------------------2026-04-22--------------5.56.59.png)
 
-_회사의 직원을 40%로 줄이기 위한 명분을 쌓는, 솔직한 글입니다_
+*회사의 직원을 40%로 줄이기 위한 명분을 쌓는, 솔직한 글입니다*
 
 [https://block.xyz/inside/from-hierarchy-to-intelligence?ref=re-builder.xyz](https://block.xyz/inside/from-hierarchy-to-intelligence?ref=re-builder.xyz)
 
@@ -105,7 +105,7 @@ Anthropic은 채용 가이드에 이렇게 적습니다.
 Perplexity 리서치 레지던시는 "1페이지 statement"를 요구합니다.
 연구 질문 하나, 그게 왜 중요한지, 어떻게 접근할지를 1장에 담는 글.
 
-xAI는 이력서 옆에 _별도로_ "statement of exceptional work"를 받습니다.
+xAI는 이력서 옆에 *별도로* "statement of exceptional work"를 받습니다.
 지금까지 한 일 중 가장 뛰어났다고 생각하는 걸 자기 언어로 설명하는 문서.
 
 코드를 쓰는 회사들이 코드보다 *글*을 먼저 본다, 이게 첫 번째 패턴이었습니다.
@@ -116,8 +116,8 @@ xAI는 이력서 옆에 _별도로_ "statement of exceptional work"를 받습니
 GitHub 레포, 오픈소스 기여, 자기 도메인의 글, 출시한 사이드 프로젝트.
 
 Mistral은 "open-source contributions"를 직접 명시합니다.
-Notion은 "GitHub/portfolio preferred", Vercel은 "public shipping signal" — _공개적으로_ 무언가를 출시한 흔적이 있는가.
-Anthropic Fellows는 한 발 더 나갑니다. _블로그·OSS·연구를 이력서 맨 위에 두라._
+Notion은 "GitHub/portfolio preferred", Vercel은 "public shipping signal" — *공개적으로* 무언가를 출시한 흔적이 있는가.
+Anthropic Fellows는 한 발 더 나갑니다. *블로그·OSS·연구를 이력서 맨 위에 두라.*
 
 수치만 비교해도 격차가 보입니다. 미국 29개 중 11곳이 명시, 한국 20개 중 4곳.
 한국 신입에게 가장 손에 잡히는 액션 아이템이 여기 있습니다. GitHub에 무언가가 있는가, 블로그에 무언가가 있는가.

@@ -1,20 +1,27 @@
-# Palantir CEO says working at his $316B software company is better than a degree from Harvard or Yale
+# Article Index
 
-- Title: Palantir CEO says working at his $316B software company is better than a degree from Harvard or Yale
-- Date archived: 2026-04-16
+## Source
+
+- Archived date: 2026-04-16
 - Source URL: https://fortune.com/article/billionaire-palantir-ceo-alex-karp-working-at-his-tech-firm-better-than-harvard-yale-princeton-degree-does-not-matter-gen-z/
-- Source type: Fortune article
-- Language: English source, Korean translation added
+- Archive source: `archive/2026/04/w3/2026-04-16-palantir-better-than-ivy-degree/`
 
-## Published files
+## Public files
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-## Work log
+## Reading order
 
-- Preserved the accessible Fortune article text available through the current fetch path.
-- Recorded the article’s main argument, the Meritocracy Fellowship example, and the AI headcount-reduction tension.
-- Noted that the archive reflects the accessible article version rather than a full subscription-state preservation.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

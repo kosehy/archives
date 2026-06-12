@@ -6,7 +6,6 @@ Translation note: Natural English rendering of a Korean legal commentary article
 Privacy: private archive only, do not publish
 
 ## Subtitle
-
 At the boundary between a single violation and immigration status
 
 A case involved an international student who was caught working as a day laborer at a construction site for just one day. The person explained it as a matter of simple livelihood, but legally it clearly counted as an activity outside the permitted scope of status, in other words, illegal employment. Immigration authorities immediately imposed cancellation of status and a departure order.
@@ -58,4 +57,4 @@ In most cases, even a single violation changes the entire future immigration pla
 
 For that reason, any foreign national considering a change in immigration status needs to think very carefully about how a short-term choice may affect long-term immigration stability.
 
-_This case has been partially adapted for ease of understanding, and some specific facts were modified to protect personal information. For more detailed guidance, contact Law Office Earth._
+*This case has been partially adapted for ease of understanding, and some specific facts were modified to protect personal information. For more detailed guidance, contact Law Office Earth.*

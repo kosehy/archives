@@ -1,20 +1,27 @@
-# Codex for (almost) everything
+# Article Index
 
-- Title: Codex for (almost) everything
-- Date archived: 2026-04-17
+## Source
+
+- Archived date: 2026-04-17
 - Source URL: https://openai.com/index/codex-for-almost-everything/
-- Source type: OpenAI announcement
-- Language: English source, Korean translation added
+- Archive source: `archive/2026/04/w3/2026-04-17-codex-for-almost-everything/`
 
-## Published files
+## Public files
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-## Work log
+## Reading order
 
-- Preserved the accessible OpenAI announcement text through the current fetch path.
-- Recorded the main update areas: computer use, browser use, plugins, image generation, memory, automations, and proactive suggestions.
-- Kept the archive focused on the product announcement level rather than secondary commentary.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

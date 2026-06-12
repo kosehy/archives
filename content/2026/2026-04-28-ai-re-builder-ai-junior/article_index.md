@@ -1,17 +1,26 @@
 # AI 시대에 대학생으로 살아남는 법 - Re:Builder (ai-junior)
 
-## Metadata
+## Source
 
 - Source URL: https://www.re-builder.xyz/ai-junior/
 - Archived date: 2026-04-28
 - Source language: ko
-- Extraction method: web_extract
 - Quality status: good
+- Archive source: `archive/2026/04/w4/2026-04-28-ai-re-builder-ai-junior/`
 
-## Published files
+## Public files
 
-- [original.ko.md](./original.ko)
+- `article_index.md` - public reading index
+- `figure-notes.md` - notes for recovered figures
+- `original.ko.md` - preserved source text
+- `figures/` - recovered public image assets
 
-## Extraction Notes
+## Reading order
 
-- Imported from official Hermes web_extract JSON.
+1. `original.ko.md`
+2. `figure-notes.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

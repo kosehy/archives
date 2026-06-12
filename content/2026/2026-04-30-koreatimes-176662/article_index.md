@@ -1,17 +1,23 @@
 # 숙련 기술인력 최대 10만명 2031년까지 추가 확보
 
-## Metadata
+## Source
 
 - Source URL: https://www.koreatimes.net/ArticleViewer/Article/176662
 - Archived date: 2026-04-30
 - Source language: ko
-- Extraction method: browser_dom_manual
 - Quality status: good
+- Archive source: `archive/2026/04/w5/2026-04-30-koreatimes-176662/`
 
-## Published files
+## Public files
 
-- [original.ko.md](./original.ko)
+- `article_index.md` - public reading index
+- `original.ko.md` - preserved source text
 
-## Extraction Notes
+## Reading order
 
-- share.google URL resolved in browser from https://share.google/dC7gpRnpEaUPm9DCL to koreatimes.net Article 176662; article body extracted from browser DOM article paragraphs, excluding recommendations/comments/ads.
+1. `original.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

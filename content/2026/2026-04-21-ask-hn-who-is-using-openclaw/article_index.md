@@ -1,20 +1,27 @@
-# Ask HN: Who is using OpenClaw?
+# Article Index
 
-- Title: Ask HN: Who is using OpenClaw?
-- Date archived: 2026-04-21
+## Source
+
+- Archived date: 2026-04-21
 - Source URL: https://news.ycombinator.com/item?id=47783940
-- Source type: Hacker News discussion
-- Language: English source, Korean translation added
+- Archive source: `archive/2026/04/w3/2026-04-21-ask-hn-who-is-using-openclaw/`
 
-## Published files
+## Public files
 
-- [original.en.md](./original.en)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.ko.md](./translation.ko)
+- `article_index.md` - public reading index
+- `original.en.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.ko.md` - translation
 
-## Work log
+## Reading order
 
-- Preserved the accessible portion of the Hacker News thread through the current fetch path.
-- Captured the main split between real personal-use cases and skepticism from script-first users.
-- Recorded truncation explicitly because the fetched thread text did not include the full discussion.
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.en.md`
+4. `translation.ko.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

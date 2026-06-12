@@ -110,7 +110,7 @@ Moonshot은 이러한 능력을 평가하기 위해 visual input tasks, landing 
 - AIME 2026
 - GPQA-Diamond
 - MMMU-Pro
-- MathVision, V\* with python
+- MathVision, V* with python
 
 블로그는 reasoning 설정, token limit, context handling, benchmark reproduction 방식에 관한 각주도 함께 제공한다.
 

@@ -46,12 +46,12 @@ At first the reaction was mixed. Some mocked it as a copy-paste helper or Stack 
 
 What is interesting is that the three years of Copilot’s evolution became a compressed preview of the three eras the article goes on to describe.
 
-| Period  | Copilot version      | Main change                                                       | Corresponding era                                 |
-| ------- | -------------------- | ----------------------------------------------------------------- | ------------------------------------------------- |
-| 2022.06 | Early autocomplete   | Suggests the next line based on the current file                  | Prompt era. The code itself acts as the prompt    |
-| 2023.11 | Copilot Chat (GPT-4) | Conversational code questions, explanation, refactoring           | Start of the transition from prompts to context   |
-| 2025.02 | Agent Mode           | Multi-file editing, terminal execution, automatic lint-fix loops  | Harness era. The agent uses tools inside the loop |
-| 2025.05 | Coding Agent         | Issue assignment → cloud environment → code → tests → PR creation | Deeper harness era. Fully autonomous workflow     |
+| Period | Copilot version | Main change | Corresponding era |
+| --- | --- | --- | --- |
+| 2022.06 | Early autocomplete | Suggests the next line based on the current file | Prompt era. The code itself acts as the prompt |
+| 2023.11 | Copilot Chat (GPT-4) | Conversational code questions, explanation, refactoring | Start of the transition from prompts to context |
+| 2025.02 | Agent Mode | Multi-file editing, terminal execution, automatic lint-fix loops | Harness era. The agent uses tools inside the loop |
+| 2025.05 | Coding Agent | Issue assignment → cloud environment → code → tests → PR creation | Deeper harness era. Fully autonomous workflow |
 
 The initial 2022 version of Copilot was a pure prompt engineering artifact. It handed the model the implicit prompt of "the code in the current file" and let it predict the next token. The context was one file. There was no harness. And in 2022, that was still enough to feel incredibly useful.
 
@@ -139,14 +139,14 @@ If Copilot was autocomplete that only saw the current file, **Cursor**, launched
 
 The crucial difference was **context scope**.
 
-| Dimension            | GitHub Copilot (early)          | Cursor                                          |
-| -------------------- | ------------------------------- | ----------------------------------------------- |
-| **Context scope**    | Current file                    | Entire codebase                                 |
-| **Indexing**         | None                            | RAG + AST-based semantic search                 |
-| **Reference system** | None                            | `@file`, `@codebase`, `@Docs`, `@PR`, `@commit` |
-| **Editing unit**     | Single line or block            | Multi-file simultaneous editing (Composer)      |
-| **Agent mode**       | None, until added later in 2025 | Agent Mode with terminal and filesystem access  |
-| **Model selection**  | GPT family                      | GPT-4o, Claude 3.5 Sonnet, Gemini, and others   |
+| Dimension | GitHub Copilot (early) | Cursor |
+| --- | --- | --- |
+| **Context scope** | Current file | Entire codebase |
+| **Indexing** | None | RAG + AST-based semantic search |
+| **Reference system** | None | `@file`, `@codebase`, `@Docs`, `@PR`, `@commit` |
+| **Editing unit** | Single line or block | Multi-file simultaneous editing (Composer) |
+| **Agent mode** | None, until added later in 2025 | Agent Mode with terminal and filesystem access |
+| **Model selection** | GPT family | GPT-4o, Claude 3.5 Sonnet, Gemini, and others |
 
 Cursor’s method of understanding the codebase is technically interesting. It recursively scans all files in a project, parses the **AST (Abstract Syntax Tree)** to identify key symbols such as functions, classes, and variables, then transforms them into vector embeddings for semantic search. File names are obfuscated and code chunks encrypted to preserve privacy.
 
@@ -216,13 +216,13 @@ This was not just a replacement of terminology. The central question itself had 
 
 The clearest framework for understanding this shift is Karpathy’s [LLM-as-OS metaphor](https://x.com/karpathy/status/1707437820045062561), which treats the LLM as the kernel of modern computing.
 
-| Traditional OS component | Role                     | LLM OS counterpart        | Note                                     |
-| ------------------------ | ------------------------ | ------------------------- | ---------------------------------------- |
-| **Kernel**               | Manages system resources | LLM inference engine      | Core of problem solving                  |
-| **RAM**                  | Working memory           | Context window            | Managed in token units                   |
-| **File system**          | Persistent storage       | RAG / vector database     | Search and inject only what is needed    |
-| **System calls**         | Hardware control         | Tool calls / APIs         | Interface to the outside world           |
-| **Process management**   | Multitasking             | Multi-agent orchestration | Collaboration and isolation among agents |
+| Traditional OS component | Role | LLM OS counterpart | Note |
+| --- | --- | --- | --- |
+| **Kernel** | Manages system resources | LLM inference engine | Core of problem solving |
+| **RAM** | Working memory | Context window | Managed in token units |
+| **File system** | Persistent storage | RAG / vector database | Search and inject only what is needed |
+| **System calls** | Hardware control | Tool calls / APIs | Interface to the outside world |
+| **Process management** | Multitasking | Multi-agent orchestration | Collaboration and isolation among agents |
 
 The reason this metaphor matters is that it locates prompts correctly. A prompt is only a **single command line** fed to the OS. What really determines performance is what sits in RAM, meaning the context window. You can craft the `ls` command as elegantly as you want, but if the needed files are on an unmounted disk, it does not help.
 
@@ -364,9 +364,9 @@ Simon Willison’s definition of an agent also belongs here: an agent is an LLM 
 
 The word "harness" sounds grand, but in practice it means the collection of mechanisms that catch and correct agent failure. Fowler and Böckeler describe it using a clean [2×2 framework](https://martinfowler.com/articles/exploring-gen-ai/harness-engineering.html).
 
-|                       | **Feedforward (guide before the fact)**                                                          | **Feedback (correct after the fact)**                        |
-| --------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Deterministic**     | **Guides**: AGENTS.md, `.cursorrules`, coding conventions                                        | **Computational checks**: compiler, type checker, linter     |
+|  | **Feedforward (guide before the fact)** | **Feedback (correct after the fact)** |
+| --- | --- | --- |
+| **Deterministic** | **Guides**: AGENTS.md, `.cursorrules`, coding conventions | **Computational checks**: compiler, type checker, linter |
 | **Non-deterministic** | **System prompts and instructions**: role definitions, behavioral constraints, few-shot examples | **Inferential review**: LLM-as-a-judge, semantic code review |
 
 Each quadrant blocks a different failure mode.
@@ -439,17 +439,17 @@ These guardrails are not optional feature restrictions. They are core trust infr
 
 ### 6.1 Comparative view
 
-| Dimension             | Prompt Engineering                      | Context Engineering                   | Harness Engineering                    |
-| --------------------- | --------------------------------------- | ------------------------------------- | -------------------------------------- |
-| Core period           | 2022-2024                               | 2025                                  | 2026 onward                            |
-| Central question      | "What should we say?"                   | "What information should we include?" | "What system should we build?"         |
-| Everyday metaphor     | Writing the email                       | Managing the inbox                    | Designing the email system             |
-| OS metaphor           | Single command line                     | RAM management                        | Entire operating system                |
-| Representative metric | Output quality, often subjective        | KV-cache hit rate                     | Task completion rate, cost per task    |
-| Typical failure       | Blind prompting, non-determinism        | Context pollution, lost in the middle | Orchestration bugs, security incidents |
-| Where rigor lives     | Prompt text                             | Context-window composition            | Whole system architecture              |
-| Representative tools  | ChatGPT, early Copilot                  | Cursor Composer, RAG pipelines        | Claude Code, Copilot Coding Agent      |
-| Main skill demanded   | Language sensitivity + domain knowledge | Information architecture              | System design + security               |
+| Dimension | Prompt Engineering | Context Engineering | Harness Engineering |
+| --- | --- | --- | --- |
+| Core period | 2022-2024 | 2025 | 2026 onward |
+| Central question | "What should we say?" | "What information should we include?" | "What system should we build?" |
+| Everyday metaphor | Writing the email | Managing the inbox | Designing the email system |
+| OS metaphor | Single command line | RAM management | Entire operating system |
+| Representative metric | Output quality, often subjective | KV-cache hit rate | Task completion rate, cost per task |
+| Typical failure | Blind prompting, non-determinism | Context pollution, lost in the middle | Orchestration bugs, security incidents |
+| Where rigor lives | Prompt text | Context-window composition | Whole system architecture |
+| Representative tools | ChatGPT, early Copilot | Cursor Composer, RAG pipelines | Claude Code, Copilot Coding Agent |
+| Main skill demanded | Language sensitivity + domain knowledge | Information architecture | System design + security |
 
 ### 6.2 Lesson: the path of rigor’s movement
 

@@ -1,7 +1,6 @@
 # Figure Notes
 
 ## figure-01
-
 - Status: recovered
 - File: `figures/figure-01-linkedin-pulse-cover.jpg`
 - What it shows: LinkedIn Pulse 커버 이미지. 어두운 검정-회색 그라데이션 배경에 흰색 큰 제목 '당신도 문제적 인간인가요?'와 부제 '나라는 문제적 인간에 대한 고찰'이 표시된다.

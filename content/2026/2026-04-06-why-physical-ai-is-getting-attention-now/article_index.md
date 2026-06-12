@@ -1,19 +1,26 @@
-# Physical AI가 지금 주목받는 이유와 과거와의 차이점 — Article Index
+# Physical AI가 지금 주목받는 이유와 과거와의 차이점
 
-Source: https://news.hada.io/topic?id=28167
-Shared link: https://share.google/VEjk3k4S89MSfvqul
-Date: 2026-04-06
-Folder: `archive/2026/04/w1/2026-04-06-why-physical-ai-is-getting-attention-now/`
+## Source
 
-## Published files
+- Archived date: 2026-04-06
+- Archive source: `archive/2026/04/w1/2026-04-06-why-physical-ai-is-getting-attention-now/`
 
-- [original.ko.md](./original.ko)
-- [summary.en.md](./summary.en)
-- [summary.ko.md](./summary.ko)
-- [translation.en.md](./translation.en)
+## Public files
 
-## Notes
+- `article_index.md` - public reading index
+- `original.ko.md` - preserved source text
+- `summary.en.md` - English summary
+- `summary.ko.md` - Korean summary
+- `translation.en.md` - translation
 
-- The source is a GeekNews summary-style post in Korean.
-- The core argument is that Physical AI is entering a different phase because multiple enabling factors are compounding in parallel rather than arriving one by one.
-- It emphasizes foundation models for the physical world, easing data bottlenecks, edge inference maturity, cheaper hardware, labor shortages, and talent inflow.
+## Reading order
+
+1. `summary.ko.md`
+2. `summary.en.md`
+3. `original.ko.md`
+4. `translation.en.md`
+
+## Public copy notes
+
+- This public copy includes only reviewed public-safe archive artifacts.
+- Local-only opinions, personal notes, working notes, source snapshots, audio files, Graphify outputs, and private/internal materials are not part of the public site.

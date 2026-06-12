@@ -18,7 +18,6 @@
 문서는 이 아이디어를 일반적인 RAG 패턴과 대비한다.
 
 보통의 RAG 시스템은:
-
 - raw document를 저장하고
 - 질문 시점에 관련 조각을 찾고
 - 그때그때 답을 합성한다
@@ -26,7 +25,6 @@
 이 방식도 작동하지만, 미묘한 질문이 들어올 때마다 LLM은 다시 관련 자료를 찾고 연결해야 한다.
 
 반면 이 문서가 제안하는 wiki 방식은:
-
 - 새 source를 넣을 때마다 LLM이 wiki에 통합하고
 - entity page, concept page, summary를 계속 갱신하며
 - 모순을 미리 표시하고
@@ -39,12 +37,10 @@
 문서는 사람이 wiki를 직접 거의 쓰지 않는다고 본다.
 
 대신:
-
 - 사람은 source를 고르고, 탐색하고, 질문한다
 - LLM은 요약, 분류, 상호참조, 유지보수를 담당한다
 
 저자는 실전적으로는 한쪽에 LLM 에이전트를 열고, 다른 쪽에 Obsidian을 열어둔다고 설명한다. 그 구성에서:
-
 - Obsidian은 IDE이고
 - LLM은 프로그래머이며
 - wiki는 코드베이스다
@@ -69,7 +65,6 @@
 
 변경되지 않는 원천 자료들이다.
 예:
-
 - 기사
 - 논문
 - 이미지
@@ -83,14 +78,13 @@ LLM은 읽기만 하고 수정하지 않는다.
 LLM이 생성하고 유지하는 markdown 파일들의 디렉토리다.
 
 여기에는 예를 들어:
-
 - summary
 - entity page
 - concept page
 - comparison
 - synthesis page
 - overview page
-  등이 들어갈 수 있다.
+등이 들어갈 수 있다.
 
 이 레이어는 LLM이 만들고, 갱신하고, 교차 링크를 유지한다.
 
@@ -101,7 +95,6 @@ LLM에게 wiki를 어떻게 구조화하고 유지할지 가르치는 설정 문
 예시로는 `CLAUDE.md`, `AGENTS.md` 같은 파일이 언급된다.
 
 이 schema는 다음을 정의한다.
-
 - 구조
 - 규칙
 - ingest workflow
@@ -119,7 +112,6 @@ LLM에게 wiki를 어떻게 구조화하고 유지할지 가르치는 설정 문
 새 source를 raw collection에 넣는다.
 
 그러면 LLM은:
-
 - 읽고
 - 사용자와 핵심 내용을 논의하고
 - summary page를 쓰고
@@ -142,7 +134,6 @@ LLM은 관련 페이지를 찾고 읽은 뒤, citation과 함께 답을 합성�
 LLM은 주기적으로 wiki의 건강 상태를 점검한다.
 
 점검 항목 예시는 다음과 같다.
-
 - page 간 모순
 - 오래된 주장
 - orphan page
@@ -186,7 +177,6 @@ ingest, query, lint pass를 시간순으로 기록하는 append-only 로그다.
 
 문서는 지식베이스 유지의 가장 힘든 부분이 읽기나 사고가 아니라 bookkeeping이라고 본다.
 즉:
-
 - cross-reference 업데이트
 - summary 최신화
 - 모순 표시
