@@ -2,7 +2,7 @@
 
 Source: https://claude.com/blog/the-advisor-strategy
 Date: 2026-04-10
-Folder: `archive/2026/2026-04-10-the-advisor-strategy-give-agents-an-intelligence-boost/`
+Folder: `archive/2026/04/w2/2026-04-10-the-advisor-strategy-give-agents-an-intelligence-boost/`
 
 ## Published files
 

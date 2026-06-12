@@ -2,7 +2,7 @@
 
 Source: https://github.com/humanlayer/12-factor-agents
 Date: 2026-04-11
-Folder: `archive/2026/2026-04-11-12-factor-agents/`
+Folder: `archive/2026/04/w2/2026-04-11-12-factor-agents/`
 
 ## Published files
 

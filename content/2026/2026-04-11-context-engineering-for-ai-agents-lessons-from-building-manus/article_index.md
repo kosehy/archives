@@ -2,7 +2,7 @@
 
 Source: https://manus.im/ko/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
 Date: 2026-04-11
-Folder: `archive/2026/2026-04-11-context-engineering-for-ai-agents-lessons-from-building-manus/`
+Folder: `archive/2026/04/w2/2026-04-11-context-engineering-for-ai-agents-lessons-from-building-manus/`
 
 ## Published files
 

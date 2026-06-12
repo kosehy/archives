@@ -3,7 +3,7 @@
 Source: https://news.hada.io/topic?id=28167
 Shared link: https://share.google/VEjk3k4S89MSfvqul
 Date: 2026-04-06
-Folder: `archive/2026/2026-04-06-why-physical-ai-is-getting-attention-now/`
+Folder: `archive/2026/04/w1/2026-04-06-why-physical-ai-is-getting-attention-now/`
 
 ## Published files
 

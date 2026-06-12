@@ -1,7 +1,7 @@
 # 장시간 애플리케이션 개발을 위한 하니스 설계 — 요약
 
 원문: https://www.anthropic.com/engineering/harness-design-long-running-apps
-기준 파일: `archive/2026/2026-04-11-harness-design-for-long-running-application-development/translation.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-11-harness-design-for-long-running-application-development/translation.ko.md`
 저장일: 2026-04-11
 
 ## 한 문단 요약

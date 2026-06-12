@@ -1,7 +1,7 @@
 # 중국의 만두집이 에이전트 스킬을 배포했습니다 — 요약
 
 원문: https://www.linkedin.com/posts/woongjae-lee_github-jinguyuanjinguyuan-dumpling-skill-share-7449070408688906240-Bads?utm_source=share&utm_medium=member_android&rcm=ACoAAAXt8v0BjTAFa8U2A--Uyng7OCcG4aSv6gE
-기준 파일: `archive/2026/2026-04-13-github-jinguyuan-dumpling-skill-share/original.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-13-github-jinguyuan-dumpling-skill-share/original.ko.md`
 저장일: 2026-04-13
 
 ## 한 문단 요약

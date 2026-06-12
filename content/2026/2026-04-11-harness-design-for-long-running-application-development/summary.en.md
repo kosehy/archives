@@ -1,7 +1,7 @@
 # Harness design for long-running application development — Summary
 
 Source: https://www.anthropic.com/engineering/harness-design-long-running-apps
-Based on: `archive/2026/2026-04-11-harness-design-for-long-running-application-development/original.en.md`
+Based on: `archive/2026/04/w2/2026-04-11-harness-design-for-long-running-application-development/original.en.md`
 Saved: 2026-04-11
 
 ## One-paragraph summary

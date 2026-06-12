@@ -2,7 +2,7 @@
 
 Source: https://www.marktechpost.com/2026/04/02/defeating-the-token-tax-how-google-gemma-4-nvidia-and-openclaw-are-revolutionizing-local-agentic-ai-from-rtx-desktops-to-dgx-spark/
 Date: 2026-04-04
-Folder: `archive/2026/2026-04-04-defeating-the-token-tax-local-agentic-ai/`
+Folder: `archive/2026/04/w1/2026-04-04-defeating-the-token-tax-local-agentic-ai/`
 
 ## Published files
 

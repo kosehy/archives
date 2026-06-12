@@ -1,7 +1,7 @@
 # Production Is Where the Rigor Goes — Summary
 
 Source: https://www.honeycomb.io/blog/production-is-where-the-rigor-goes
-Based on: `archive/2026/2026-04-10-production-is-where-the-rigor-goes/original.en.md`
+Based on: `archive/2026/04/w2/2026-04-10-production-is-where-the-rigor-goes/original.en.md`
 Saved: 2026-04-10
 
 ## One-paragraph summary

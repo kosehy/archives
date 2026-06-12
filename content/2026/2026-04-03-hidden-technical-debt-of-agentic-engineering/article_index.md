@@ -2,7 +2,7 @@
 
 Source: https://thenewstack.io/hidden-agentic-technical-debt/
 Date: 2026-04-03
-Folder: `archive/2026/2026-04-03-hidden-technical-debt-of-agentic-engineering/`
+Folder: `archive/2026/04/w1/2026-04-03-hidden-technical-debt-of-agentic-engineering/`
 
 ## Published files
 

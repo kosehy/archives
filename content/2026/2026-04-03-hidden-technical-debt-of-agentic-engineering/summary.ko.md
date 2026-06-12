@@ -1,7 +1,7 @@
 # 에이전틱 엔지니어링의 숨겨진 기술 부채 — 요약
 
 - 원문: https://thenewstack.io/hidden-agentic-technical-debt/
-- 기준 파일: `archive/2026/2026-04-03-hidden-technical-debt-of-agentic-engineering/translation.ko.md`
+- 기준 파일: `archive/2026/04/w1/2026-04-03-hidden-technical-debt-of-agentic-engineering/translation.ko.md`
 - 저장일: 2026-04-03
 
 ## 한 문단 요약

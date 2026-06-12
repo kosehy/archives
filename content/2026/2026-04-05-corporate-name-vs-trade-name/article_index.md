@@ -2,7 +2,7 @@
 
 Source: https://lawpang.co.kr/%EB%B2%95%EC%9D%B8%EB%AA%85%EC%83%81%ED%98%B8%EB%AA%85%EC%B0%A8%EC%9D%B4393/?utm_source=perplexity
 Date: 2026-04-05
-Folder: `archive/2026/2026-04-05-corporate-name-vs-trade-name/`
+Folder: `archive/2026/04/w1/2026-04-05-corporate-name-vs-trade-name/`
 
 ## Published files
 

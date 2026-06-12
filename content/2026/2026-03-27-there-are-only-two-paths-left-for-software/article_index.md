@@ -2,7 +2,7 @@
 
 Source: https://www.a16z.news/p/there-are-only-two-paths-left-for
 Date: 2026-03-27
-Folder: `archive/2026/2026-03-27-there-are-only-two-paths-left-for-software/`
+Folder: `archive/2026/03/w4/2026-03-27-there-are-only-two-paths-left-for-software/`
 
 ## Published files
 

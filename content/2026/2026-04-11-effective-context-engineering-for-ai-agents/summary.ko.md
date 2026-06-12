@@ -1,7 +1,7 @@
 # AI 에이전트를 위한 효과적인 컨텍스트 엔지니어링 — 요약
 
 원문: https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
-기준 파일: `archive/2026/2026-04-11-effective-context-engineering-for-ai-agents/translation.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-11-effective-context-engineering-for-ai-agents/translation.ko.md`
 저장일: 2026-04-11
 
 ## 한 문단 요약

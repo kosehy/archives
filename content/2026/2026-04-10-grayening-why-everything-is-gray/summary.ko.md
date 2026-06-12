@@ -1,7 +1,7 @@
 # 현대 세계는 어떻게 회색으로 물들었나, 그리고 왜 다시 색이 돌아올지도 모르는가 — 요약
 
 원문: https://bigthink.com/strange-maps/grayening-why-everything-is-gray/
-기준 파일: `archive/2026/2026-04-10-grayening-why-everything-is-gray/translation.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-10-grayening-why-everything-is-gray/translation.ko.md`
 저장일: 2026-04-11
 
 ## 한 문단 요약

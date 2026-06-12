@@ -1,7 +1,7 @@
 # There are only two paths left for software — Summary
 
 Source: https://www.a16z.news/p/there-are-only-two-paths-left-for
-Based on: `archive/2026/2026-03-27-there-are-only-two-paths-left-for-software/original.en.md`
+Based on: `archive/2026/03/w4/2026-03-27-there-are-only-two-paths-left-for-software/original.en.md`
 Saved: 2026-03-27
 
 ## One-paragraph summary

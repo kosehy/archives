@@ -2,7 +2,7 @@
 
 Source: https://ollama.com/blog/mlx
 Date: 2026-04-02
-Folder: `archive/2026/2026-04-02-ollama-mlx-on-apple-silicon/`
+Folder: `archive/2026/04/w1/2026-04-02-ollama-mlx-on-apple-silicon/`
 
 ## Published files
 

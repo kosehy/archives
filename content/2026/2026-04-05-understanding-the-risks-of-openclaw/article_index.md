@@ -2,7 +2,7 @@
 
 Source: https://www.infoworld.com/article/4153975/understanding-the-risks-of-openclaw.html
 Date: 2026-04-05
-Folder: `archive/2026/2026-04-05-understanding-the-risks-of-openclaw/`
+Folder: `archive/2026/04/w1/2026-04-05-understanding-the-risks-of-openclaw/`
 
 ## Published files
 

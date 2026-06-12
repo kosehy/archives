@@ -1,7 +1,7 @@
 # Jinguyuan Dumpling Restaurant AI Skill — Summary
 
 Source: https://github.com/JinGuYuan/jinguyuan-dumpling-skill
-Based on: `archive/2026/2026-04-13-jinguyuan-dumpling-skill/original.zh.md`
+Based on: `archive/2026/04/w2/2026-04-13-jinguyuan-dumpling-skill/original.zh.md`
 Saved: 2026-04-13
 
 ## One-paragraph summary

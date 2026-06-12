@@ -1,7 +1,7 @@
 # Claude Code 월 100달러 지출을 Zed와 OpenRouter로 재배분하기 — 요약
 
 원문: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
-기준 파일: `archive/2026/2026-04-12-reallocating-100-month-claude-spend/translation.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-12-reallocating-100-month-claude-spend/translation.ko.md`
 저장일: 2026-04-12
 
 ## 한 문단 요약

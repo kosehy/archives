@@ -1,7 +1,7 @@
 # Raising the floor of team productivity through harnesses — Summary
 
 Source: https://toss.tech/article/harness-for-team-productivity
-Based on: `archive/2026/2026-04-02-toss-harness-for-team-productivity/translation.en.md`
+Based on: `archive/2026/04/w1/2026-04-02-toss-harness-for-team-productivity/translation.en.md`
 Saved: 2026-04-03
 
 ## One-paragraph summary

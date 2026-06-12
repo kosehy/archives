@@ -2,7 +2,7 @@
 
 Source: https://www.hellot.net/mobile/article.html?no=111774
 Date: 2026-04-01
-Folder: `archive/2026/2026-04-01-gartner-llm-inference-cost-down-but-enterprise-ai-cost-up/`
+Folder: `archive/2026/04/w1/2026-04-01-gartner-llm-inference-cost-down-but-enterprise-ai-cost-up/`
 
 ## Published files
 

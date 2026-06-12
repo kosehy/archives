@@ -4,7 +4,7 @@ Source: https://www.marketwatch.com/story/employers-are-using-your-personal-data
 Shared link: https://share.google/Tc6rvmeEELwGPnxmI
 Accessible preserved text source: https://www.morningstar.com/news/marketwatch/20260401139/employers-are-using-your-personal-data-to-figure-out-the-lowest-salary-youll-accept
 Date: 2026-04-09
-Folder: `archive/2026/2026-04-09-surveillance-wages-lowest-salary-youll-accept/`
+Folder: `archive/2026/04/w2/2026-04-09-surveillance-wages-lowest-salary-youll-accept/`
 
 ## Published files
 

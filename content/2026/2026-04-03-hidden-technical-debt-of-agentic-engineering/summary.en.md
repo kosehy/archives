@@ -1,7 +1,7 @@
 # The hidden technical debt of agentic engineering — Summary
 
 Source: https://thenewstack.io/hidden-agentic-technical-debt/
-Based on: `archive/2026/2026-04-03-hidden-technical-debt-of-agentic-engineering/original.en.md`
+Based on: `archive/2026/04/w1/2026-04-03-hidden-technical-debt-of-agentic-engineering/original.en.md`
 Saved: 2026-04-03
 
 ## One-paragraph summary

@@ -3,7 +3,7 @@
 Source: https://bits-bytes-nn.github.io/insights/agentic-ai/2026/04/05/evolution-of-ai-agentic-patterns.html
 Shared link: https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fbits-bytes-nn%2Egithub%2Eio%2Finsights%2Fagentic-ai%2F2026%2F04%2F05%2Fevolution-of-ai-agentic-patterns%2Ehtml&urlhash=7ueu&mt=H2NLC8Xp_p43gapJmugIkIK9uyPbUOG5CIfUQF-0NUNecDo6wyWatBKX65CnLOnyddgOIwr7QIidjRv1jUz2AwCalsmLb1MW_8Uj-WY4vxxjA7QOIDK0tFlR&isSdui=true
 Date: 2026-04-06
-Folder: `archive/2026/2026-04-06-evolution-of-ai-agentic-patterns/`
+Folder: `archive/2026/04/w1/2026-04-06-evolution-of-ai-agentic-patterns/`
 
 ## Published files
 

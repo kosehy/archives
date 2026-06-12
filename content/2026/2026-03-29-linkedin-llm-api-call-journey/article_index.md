@@ -2,7 +2,7 @@
 
 Source: https://www.linkedin.com/posts/brijpandeyji_you-hit-send-on-an-llm-api-call-400-share-7443133741075521536-cdjK
 Date: 2026-03-29
-Folder: `archive/2026/2026-03-29-linkedin-llm-api-call-journey/`
+Folder: `archive/2026/03/w5/2026-03-29-linkedin-llm-api-call-journey/`
 
 ## Published files
 

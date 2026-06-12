@@ -2,7 +2,7 @@
 
 Source: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
 Date: 2026-04-12
-Folder: `archive/2026/2026-04-12-reallocating-100-month-claude-spend/`
+Folder: `archive/2026/04/w2/2026-04-12-reallocating-100-month-claude-spend/`
 
 ## Published files
 

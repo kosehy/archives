@@ -1,7 +1,7 @@
 # How the modern world turned gray (and why color may be coming back) — Summary
 
 Source: https://bigthink.com/strange-maps/grayening-why-everything-is-gray/
-Based on: `archive/2026/2026-04-10-grayening-why-everything-is-gray/original.en.md`
+Based on: `archive/2026/04/w2/2026-04-10-grayening-why-everything-is-gray/original.en.md`
 Saved: 2026-04-11
 
 ## One-paragraph summary

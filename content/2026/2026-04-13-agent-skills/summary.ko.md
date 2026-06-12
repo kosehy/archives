@@ -1,7 +1,7 @@
 # agent-skills — 요약
 
 원문: https://github.com/addyosmani/agent-skills
-기준 파일: `archive/2026/2026-04-13-agent-skills/translation.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-13-agent-skills/translation.ko.md`
 저장일: 2026-04-13
 
 ## 한 문단 요약

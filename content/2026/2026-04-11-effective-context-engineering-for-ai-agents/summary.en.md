@@ -1,7 +1,7 @@
 # Effective context engineering for AI agents — Summary
 
 Source: https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
-Based on: `archive/2026/2026-04-11-effective-context-engineering-for-ai-agents/original.en.md`
+Based on: `archive/2026/04/w2/2026-04-11-effective-context-engineering-for-ai-agents/original.en.md`
 Saved: 2026-04-11
 
 ## One-paragraph summary

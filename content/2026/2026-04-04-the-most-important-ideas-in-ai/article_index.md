@@ -2,7 +2,7 @@
 
 Source: https://danielmiessler.com/blog/the-most-important-ideas-in-ai
 Date: 2026-04-04
-Folder: `archive/2026/2026-04-04-the-most-important-ideas-in-ai/`
+Folder: `archive/2026/04/w1/2026-04-04-the-most-important-ideas-in-ai/`
 
 ## Published files
 

@@ -1,7 +1,7 @@
 # 가트너, 2030년 LLM 추론 비용 90% 감소 전망 — 요약
 
 - 원문: https://www.hellot.net/mobile/article.html?no=111774
-- 기준 파일: `archive/2026/2026-04-01-gartner-llm-inference-cost-down-but-enterprise-ai-cost-up/original.ko.md`
+- 기준 파일: `archive/2026/04/w1/2026-04-01-gartner-llm-inference-cost-down-but-enterprise-ai-cost-up/original.ko.md`
 - 저장일: 2026-04-01
 
 ## 한 문단 요약

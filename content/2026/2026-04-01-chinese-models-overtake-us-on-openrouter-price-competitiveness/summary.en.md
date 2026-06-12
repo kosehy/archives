@@ -1,7 +1,7 @@
 # Chinese models surpass U.S. rivals on OpenRouter — Summary
 
 Source: https://www.aitimes.com/news/articleView.html?idxno=207427
-Based on: `archive/2026/2026-04-01-chinese-models-overtake-us-on-openrouter-price-competitiveness/translation.en.md`
+Based on: `archive/2026/04/w1/2026-04-01-chinese-models-overtake-us-on-openrouter-price-competitiveness/translation.en.md`
 Saved: 2026-04-01
 
 ## One-paragraph summary

@@ -3,7 +3,7 @@
 Source: https://www.a16z.news/p/the-lighthouse-playbook
 Shared link: https://share.google/8dJB5McWROmKyzmVp
 Date: 2026-04-06
-Folder: `archive/2026/2026-04-06-the-lighthouse-playbook/`
+Folder: `archive/2026/04/w1/2026-04-06-the-lighthouse-playbook/`
 
 ## Published files
 

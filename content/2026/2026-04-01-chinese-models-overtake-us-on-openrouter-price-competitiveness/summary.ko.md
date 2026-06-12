@@ -1,7 +1,7 @@
 # 중국 모델, 가격 경쟁력으로 미국 넘어 — 요약
 
 - 원문: https://www.aitimes.com/news/articleView.html?idxno=207427
-- 기준 파일: `archive/2026/2026-04-01-chinese-models-overtake-us-on-openrouter-price-competitiveness/original.ko.md`
+- 기준 파일: `archive/2026/04/w1/2026-04-01-chinese-models-overtake-us-on-openrouter-price-competitiveness/original.ko.md`
 - 저장일: 2026-04-01
 
 ## 한 문단 요약

@@ -1,7 +1,7 @@
 # Ollama가 Apple Silicon에서 MLX 기반으로 전환됐다 — 요약
 
 - 원문: https://ollama.com/blog/mlx
-- 기준 파일: `archive/2026/2026-04-02-ollama-mlx-on-apple-silicon/translation.ko.md`
+- 기준 파일: `archive/2026/04/w1/2026-04-02-ollama-mlx-on-apple-silicon/translation.ko.md`
 - 저장일: 2026-04-02
 
 ## 한 문단 요약

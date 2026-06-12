@@ -1,7 +1,7 @@
 # 프로덕션에서의 SQLite: 단일 파일로 스토어를 운영하며 얻은 교훈 — 요약
 
 원문: https://ultrathink.art/blog/sqlite-in-production-lessons
-기준 파일: `archive/2026/2026-04-11-sqlite-in-production-lessons-from-running-a-store-on-a-single-file/translation.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-11-sqlite-in-production-lessons-from-running-a-store-on-a-single-file/translation.ko.md`
 저장일: 2026-04-11
 
 ## 한 문단 요약

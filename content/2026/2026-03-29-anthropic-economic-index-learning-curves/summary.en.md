@@ -1,7 +1,7 @@
 # Anthropic Economic Index report: Learning curves — Summary
 
 Source: https://www.anthropic.com/research/economic-index-march-2026-report
-Based on: `archive/2026/2026-03-29-anthropic-economic-index-learning-curves/original.en.md`
+Based on: `archive/2026/03/w5/2026-03-29-anthropic-economic-index-learning-curves/original.en.md`
 Saved: 2026-03-29
 
 ## One-paragraph summary

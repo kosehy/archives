@@ -1,7 +1,7 @@
 # AI 에이전트를 위한 컨텍스트 엔지니어링: Manus 구축에서 얻은 교훈 — 요약
 
 원문: https://manus.im/ko/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
-기준 파일: `archive/2026/2026-04-11-context-engineering-for-ai-agents-lessons-from-building-manus/original.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-11-context-engineering-for-ai-agents-lessons-from-building-manus/original.ko.md`
 저장일: 2026-04-11
 
 ## 한 문단 요약

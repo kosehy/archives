@@ -3,7 +3,7 @@
 Source: https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html
 Shared link: https://share.google/ZP0RjCM0qwFmImooM
 Date: 2026-04-09
-Folder: `archive/2026/2026-04-09-s3-files-and-the-changing-face-of-s3/`
+Folder: `archive/2026/04/w2/2026-04-09-s3-files-and-the-changing-face-of-s3/`
 
 ## Published files
 

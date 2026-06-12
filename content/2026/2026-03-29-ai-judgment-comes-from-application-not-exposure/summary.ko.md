@@ -1,7 +1,7 @@
 # AI를 매일 접해도 판단력은 생기지 않는다 — 요약
 
 - 원문: https://hyungwoon.vercel.app/article/ai%EB%A5%BC-%EB%A7%A4%EC%9D%BC-%EC%A0%91%ED%95%B4%EB%8F%84-%ED%8C%90%EB%8B%A8%EB%A0%A5%EC%9D%80-%EC%83%9D%EA%B8%B0%EC%A7%80-%EC%95%8A%EB%8A%94%EB%8B%A4
-- 기준 파일: `archive/2026/2026-03-29-ai-judgment-comes-from-application-not-exposure/original.ko.md`
+- 기준 파일: `archive/2026/03/w5/2026-03-29-ai-judgment-comes-from-application-not-exposure/original.ko.md`
 - 저장일: 2026-03-29
 
 ## 한 문단 요약

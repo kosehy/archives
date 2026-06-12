@@ -1,7 +1,7 @@
 # China emphasizes a “token economy” — Summary
 
 Source: https://www.aitimes.com/news/articleView.html?idxno=208626
-Based on: `archive/2026/2026-04-01-china-token-economy-exporting-electricity-as-ai-tokens/translation.en.md`
+Based on: `archive/2026/04/w1/2026-04-01-china-token-economy-exporting-electricity-as-ai-tokens/translation.en.md`
 Saved: 2026-04-01
 
 ## One-paragraph summary

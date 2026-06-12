@@ -1,7 +1,7 @@
 # The advisor strategy: Give agents an intelligence boost — Summary
 
 Source: https://claude.com/blog/the-advisor-strategy
-Based on: `archive/2026/2026-04-10-the-advisor-strategy-give-agents-an-intelligence-boost/original.en.md`
+Based on: `archive/2026/04/w2/2026-04-10-the-advisor-strategy-give-agents-an-intelligence-boost/original.en.md`
 Saved: 2026-04-10
 
 ## One-paragraph summary

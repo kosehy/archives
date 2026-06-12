@@ -2,7 +2,7 @@
 
 Source: https://github.com/addyosmani/agent-skills
 Date: 2026-04-13
-Folder: `archive/2026/2026-04-13-agent-skills/`
+Folder: `archive/2026/04/w2/2026-04-13-agent-skills/`
 
 ## Published files
 

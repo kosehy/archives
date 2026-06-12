@@ -2,7 +2,7 @@
 
 Source: https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
 Date: 2026-04-11
-Folder: `archive/2026/2026-04-11-effective-context-engineering-for-ai-agents/`
+Folder: `archive/2026/04/w2/2026-04-11-effective-context-engineering-for-ai-agents/`
 
 ## Published files
 

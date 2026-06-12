@@ -1,7 +1,7 @@
 # 12-factor agents — 요약
 
 원문: https://github.com/humanlayer/12-factor-agents
-기준 파일: `archive/2026/2026-04-11-12-factor-agents/translation.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-11-12-factor-agents/translation.ko.md`
 저장일: 2026-04-11
 
 ## 한 문단 요약

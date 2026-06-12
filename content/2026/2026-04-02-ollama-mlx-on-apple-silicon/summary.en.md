@@ -1,7 +1,7 @@
 # Ollama is now powered by MLX on Apple Silicon — Summary
 
 Source: https://ollama.com/blog/mlx
-Based on: `archive/2026/2026-04-02-ollama-mlx-on-apple-silicon/original.en.md`
+Based on: `archive/2026/04/w1/2026-04-02-ollama-mlx-on-apple-silicon/original.en.md`
 Saved: 2026-04-02
 
 ## One-paragraph summary

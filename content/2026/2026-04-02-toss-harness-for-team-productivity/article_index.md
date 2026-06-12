@@ -2,7 +2,7 @@
 
 Source: https://toss.tech/article/harness-for-team-productivity
 Date: 2026-04-03
-Folder: `archive/2026/2026-04-02-toss-harness-for-team-productivity/`
+Folder: `archive/2026/04/w1/2026-04-02-toss-harness-for-team-productivity/`
 
 ## Published files
 

@@ -2,7 +2,7 @@
 
 Source: https://siliconcanals.com/gen-psychology-says-people-who-constantly-research-self-improvement-but-never-start-arent-lazy-theyve-confused-the-feeling-of-learning-with-the-feeling-of-changing/
 Date: 2026-04-06
-Folder: `archive/2026/2026-04-06-learning-vs-changing-self-improvement/`
+Folder: `archive/2026/04/w1/2026-04-06-learning-vs-changing-self-improvement/`
 
 ## Published files
 

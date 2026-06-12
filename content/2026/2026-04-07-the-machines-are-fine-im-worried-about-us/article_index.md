@@ -3,7 +3,7 @@
 Source: https://ergosphere.blog/posts/the-machines-are-fine/
 Shared link: https://share.google/SRPH1YfC6IScQDDvG
 Date: 2026-04-07
-Folder: `archive/2026/2026-04-07-the-machines-are-fine-im-worried-about-us/`
+Folder: `archive/2026/04/w1/2026-04-07-the-machines-are-fine-im-worried-about-us/`
 
 ## Published files
 

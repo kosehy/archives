@@ -3,7 +3,7 @@
 Source: https://www.sciencetimes.co.kr/nscvrg/view/menu/251?searchCategory=223&nscvrgSn=261568
 Shared link: https://share.google/4kufXlVoWC8VoeH0S
 Date: 2026-04-10
-Folder: `archive/2026/2026-04-10-why-some-experiences-become-memories/`
+Folder: `archive/2026/04/w2/2026-04-10-why-some-experiences-become-memories/`
 
 ## Published files
 

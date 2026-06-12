@@ -2,7 +2,7 @@
 
 Source: https://webzinekoita.or.kr/202603/1_2.php
 Date: 2026-04-01
-Folder: `archive/2026/2026-04-01-longgang-one-hour-supply-chain/`
+Folder: `archive/2026/04/w1/2026-04-01-longgang-one-hour-supply-chain/`
 
 ## Published files
 

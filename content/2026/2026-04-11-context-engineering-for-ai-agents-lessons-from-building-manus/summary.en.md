@@ -1,7 +1,7 @@
 # Context Engineering for AI Agents: Lessons from Building Manus — Summary
 
 Source: https://manus.im/ko/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus
-Based on: `archive/2026/2026-04-11-context-engineering-for-ai-agents-lessons-from-building-manus/translation.en.md`
+Based on: `archive/2026/04/w2/2026-04-11-context-engineering-for-ai-agents-lessons-from-building-manus/translation.en.md`
 Saved: 2026-04-11
 
 ## One-paragraph summary

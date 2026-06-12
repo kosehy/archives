@@ -1,7 +1,7 @@
 # SQLite in Production: Lessons from Running a Store on a Single File — Summary
 
 Source: https://ultrathink.art/blog/sqlite-in-production-lessons
-Based on: `archive/2026/2026-04-11-sqlite-in-production-lessons-from-running-a-store-on-a-single-file/original.en.md`
+Based on: `archive/2026/04/w2/2026-04-11-sqlite-in-production-lessons-from-running-a-store-on-a-single-file/original.en.md`
 Saved: 2026-04-11
 
 ## One-paragraph summary

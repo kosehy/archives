@@ -3,7 +3,7 @@
 Primary source: https://www.reuters.com/technology/ai-is-rewiring-worlds-most-prolific-film-industry-2026-04-04/
 Shared link: https://share.google/DfUrXLCpbhydpuRSA
 Archive date: 2026-04-06
-Folder: `archive/2026/2026-04-06-ai-rewiring-indias-film-industry/`
+Folder: `archive/2026/04/w1/2026-04-06-ai-rewiring-indias-film-industry/`
 
 ## Published files
 

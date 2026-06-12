@@ -1,7 +1,7 @@
 # 금곡원 만두집 AI Skill — 요약
 
 원문: https://github.com/JinGuYuan/jinguyuan-dumpling-skill
-기준 파일: `archive/2026/2026-04-13-jinguyuan-dumpling-skill/translation.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-13-jinguyuan-dumpling-skill/translation.ko.md`
 저장일: 2026-04-13
 
 ## 한 문단 요약

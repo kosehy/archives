@@ -2,7 +2,7 @@
 
 Source: https://www.anthropic.com/engineering/harness-design-long-running-apps
 Date: 2026-04-11
-Folder: `archive/2026/2026-04-11-harness-design-for-long-running-application-development/`
+Folder: `archive/2026/04/w2/2026-04-11-harness-design-for-long-running-application-development/`
 
 ## Published files
 

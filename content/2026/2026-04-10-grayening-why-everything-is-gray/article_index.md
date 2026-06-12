@@ -2,7 +2,7 @@
 
 Source: https://bigthink.com/strange-maps/grayening-why-everything-is-gray/
 Date: 2026-04-10
-Folder: `archive/2026/2026-04-10-grayening-why-everything-is-gray/`
+Folder: `archive/2026/04/w2/2026-04-10-grayening-why-everything-is-gray/`
 
 ## Published files
 

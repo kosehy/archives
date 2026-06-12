@@ -2,7 +2,7 @@
 
 Source: https://www.aitimes.com/news/articleView.html?idxno=208626
 Date: 2026-04-01
-Folder: `archive/2026/2026-04-01-china-token-economy-exporting-electricity-as-ai-tokens/`
+Folder: `archive/2026/04/w1/2026-04-01-china-token-economy-exporting-electricity-as-ai-tokens/`
 
 ## Published files
 

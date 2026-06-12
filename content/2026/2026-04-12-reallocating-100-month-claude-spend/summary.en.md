@@ -1,7 +1,7 @@
 # Reallocating $100/Month Claude Code spend to Zed and OpenRouter — Summary
 
 Source: https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/
-Based on: `archive/2026/2026-04-12-reallocating-100-month-claude-spend/original.en.md`
+Based on: `archive/2026/04/w2/2026-04-12-reallocating-100-month-claude-spend/original.en.md`
 Saved: 2026-04-12
 
 ## One-paragraph summary

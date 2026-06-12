@@ -1,7 +1,7 @@
 # Gartner: LLM inference costs will fall 90% by 2030 — Summary
 
 Source: https://www.hellot.net/mobile/article.html?no=111774
-Based on: `archive/2026/2026-04-01-gartner-llm-inference-cost-down-but-enterprise-ai-cost-up/translation.en.md`
+Based on: `archive/2026/04/w1/2026-04-01-gartner-llm-inference-cost-down-but-enterprise-ai-cost-up/translation.en.md`
 Saved: 2026-04-01
 
 ## One-paragraph summary

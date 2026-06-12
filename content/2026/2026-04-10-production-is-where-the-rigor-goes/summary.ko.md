@@ -1,7 +1,7 @@
 # 엄밀함은 프로덕션으로 간다 — 요약
 
 원문: https://www.honeycomb.io/blog/production-is-where-the-rigor-goes
-기준 파일: `archive/2026/2026-04-10-production-is-where-the-rigor-goes/translation.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-10-production-is-where-the-rigor-goes/translation.ko.md`
 저장일: 2026-04-10
 
 ## 한 문단 요약

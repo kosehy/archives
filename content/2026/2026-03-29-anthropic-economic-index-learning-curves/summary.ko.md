@@ -1,7 +1,7 @@
 # Anthropic Economic Index report: Learning curves — 요약
 
 - 원문: https://www.anthropic.com/research/economic-index-march-2026-report
-- 기준 파일: `archive/2026/2026-03-29-anthropic-economic-index-learning-curves/translation.ko.md`
+- 기준 파일: `archive/2026/03/w5/2026-03-29-anthropic-economic-index-learning-curves/translation.ko.md`
 - 저장일: 2026-03-29
 
 ## 한 문단 요약

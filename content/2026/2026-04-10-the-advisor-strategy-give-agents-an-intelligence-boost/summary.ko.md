@@ -1,7 +1,7 @@
 # advisor strategy: 에이전트의 지능을 끌어올리는 방법 — 요약
 
 원문: https://claude.com/blog/the-advisor-strategy
-기준 파일: `archive/2026/2026-04-10-the-advisor-strategy-give-agents-an-intelligence-boost/translation.ko.md`
+기준 파일: `archive/2026/04/w2/2026-04-10-the-advisor-strategy-give-agents-an-intelligence-boost/translation.ko.md`
 저장일: 2026-04-10
 
 ## 한 문단 요약

@@ -1,7 +1,7 @@
 # agent-skills — Summary
 
 Source: https://github.com/addyosmani/agent-skills
-Based on: `archive/2026/2026-04-13-agent-skills/original.en.md`
+Based on: `archive/2026/04/w2/2026-04-13-agent-skills/original.en.md`
 Saved: 2026-04-13
 
 ## One-paragraph summary

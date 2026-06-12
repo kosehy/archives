@@ -1,7 +1,7 @@
 # A dumpling shop in China has published an agent skill — Summary
 
 Source: https://www.linkedin.com/posts/woongjae-lee_github-jinguyuanjinguyuan-dumpling-skill-share-7449070408688906240-Bads?utm_source=share&utm_medium=member_android&rcm=ACoAAAXt8v0BjTAFa8U2A--Uyng7OCcG4aSv6gE
-Based on: `archive/2026/2026-04-13-github-jinguyuan-dumpling-skill-share/translation.en.md`
+Based on: `archive/2026/04/w2/2026-04-13-github-jinguyuan-dumpling-skill-share/translation.en.md`
 Saved: 2026-04-13
 
 ## One-paragraph summary

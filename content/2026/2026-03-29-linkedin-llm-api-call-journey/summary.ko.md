@@ -1,7 +1,7 @@
 # LLM API 호출에서 응답이 오기까지 — 요약
 
 - 원문: https://www.linkedin.com/posts/brijpandeyji_you-hit-send-on-an-llm-api-call-400-share-7443133741075521536-cdjK
-- 기준 파일: `archive/2026/2026-03-29-linkedin-llm-api-call-journey/translation.ko.md`
+- 기준 파일: `archive/2026/03/w5/2026-03-29-linkedin-llm-api-call-journey/translation.ko.md`
 - 저장일: 2026-03-29
 
 ## 한 문단 요약

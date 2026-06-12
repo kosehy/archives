@@ -1,7 +1,7 @@
 # Software 3.0 시대, Harness를 통한 조직 생산성 저점 높이기 — 요약
 
 - 원문: https://toss.tech/article/harness-for-team-productivity
-- 기준 파일: `archive/2026/2026-04-02-toss-harness-for-team-productivity/original.ko.md`
+- 기준 파일: `archive/2026/04/w1/2026-04-02-toss-harness-for-team-productivity/original.ko.md`
 - 저장일: 2026-04-03
 
 ## 한 문단 요약

@@ -3,7 +3,7 @@
 Source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 Shared link: https://share.google/L1e2KG8xbH8LXd7AW
 Date: 2026-04-06
-Folder: `archive/2026/2026-04-06-llm-wiki/`
+Folder: `archive/2026/04/w1/2026-04-06-llm-wiki/`
 
 ## Published files
 

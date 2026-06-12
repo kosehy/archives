@@ -3,7 +3,7 @@
 Source: https://blog.langchain.com/continual-learning-for-ai-agents/
 Shared link: https://share.google/wnhXjk7uQk2U0drLJ
 Date: 2026-04-06
-Folder: `archive/2026/2026-04-06-continual-learning-for-ai-agents/`
+Folder: `archive/2026/04/w1/2026-04-06-continual-learning-for-ai-agents/`
 
 ## Published files
 

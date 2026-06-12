@@ -2,7 +2,7 @@
 
 Source: https://m.blog.naver.com/PostView.naver?blogId=buza-club&logNo=223373274221&categoryNo=44&proxyReferer=&noTrackingCode=true
 Date: 2026-04-05
-Folder: `archive/2026/2026-04-05-how-to-name-a-corporate-brand/`
+Folder: `archive/2026/04/w1/2026-04-05-how-to-name-a-corporate-brand/`
 
 ## Published files
 

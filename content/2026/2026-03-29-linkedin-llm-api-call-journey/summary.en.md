@@ -1,7 +1,7 @@
 # You hit "Send" on an LLM API call. — Summary
 
 Source: https://www.linkedin.com/posts/brijpandeyji_you-hit-send-on-an-llm-api-call-400-share-7443133741075521536-cdjK
-Based on: `archive/2026/2026-03-29-linkedin-llm-api-call-journey/original.en.md`
+Based on: `archive/2026/03/w5/2026-03-29-linkedin-llm-api-call-journey/original.en.md`
 Saved: 2026-03-29
 
 ## One-paragraph summary

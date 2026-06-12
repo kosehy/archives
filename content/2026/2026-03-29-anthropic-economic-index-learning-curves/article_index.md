@@ -2,7 +2,7 @@
 
 Source: https://www.anthropic.com/research/economic-index-march-2026-report
 Date: 2026-03-29
-Folder: `archive/2026/2026-03-29-anthropic-economic-index-learning-curves/`
+Folder: `archive/2026/03/w5/2026-03-29-anthropic-economic-index-learning-curves/`
 
 ## Published files
 

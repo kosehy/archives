@@ -3,7 +3,7 @@
 Source: https://jola.dev/posts/dropping-cloudflare
 Shared link: https://share.google/VubPnD8TxS5KxJLss
 Date: 2026-04-10
-Folder: `archive/2026/2026-04-10-dropping-cloudflare-for-bunny-net/`
+Folder: `archive/2026/04/w2/2026-04-10-dropping-cloudflare-for-bunny-net/`
 
 ## Published files
 

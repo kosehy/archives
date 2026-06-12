@@ -1,7 +1,7 @@
 # 룽강의 ‘1시간 공급망’ — 요약
 
 - 원문: https://webzinekoita.or.kr/202603/1_2.php
-- 기준 파일: `archive/2026/2026-04-01-longgang-one-hour-supply-chain/original.ko.md`
+- 기준 파일: `archive/2026/04/w1/2026-04-01-longgang-one-hour-supply-chain/original.ko.md`
 - 저장일: 2026-04-01
 
 ## 한 문단 요약

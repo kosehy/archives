@@ -3,7 +3,7 @@
 Source: https://share.google/BPBBQOCf3HOaoSuJO
 Final source: https://gist.github.com/greenstevester/fc49b4e60a4fef9effc79066c1033ae5
 Date: 2026-04-04
-Folder: `archive/2026/2026-04-04-ollama-gemma4-mac-mini-setup/`
+Folder: `archive/2026/04/w1/2026-04-04-ollama-gemma4-mac-mini-setup/`
 
 ## Published files
 

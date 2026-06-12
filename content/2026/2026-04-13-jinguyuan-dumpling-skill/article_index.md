@@ -2,7 +2,7 @@
 
 Source: https://github.com/JinGuYuan/jinguyuan-dumpling-skill
 Date: 2026-04-13
-Folder: `archive/2026/2026-04-13-jinguyuan-dumpling-skill/`
+Folder: `archive/2026/04/w2/2026-04-13-jinguyuan-dumpling-skill/`
 
 ## Published files
 

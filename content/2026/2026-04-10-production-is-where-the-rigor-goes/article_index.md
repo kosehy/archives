@@ -2,7 +2,7 @@
 
 Source: https://www.honeycomb.io/blog/production-is-where-the-rigor-goes
 Date: 2026-04-10
-Folder: `archive/2026/2026-04-10-production-is-where-the-rigor-goes/`
+Folder: `archive/2026/04/w2/2026-04-10-production-is-where-the-rigor-goes/`
 
 ## Published files
 
