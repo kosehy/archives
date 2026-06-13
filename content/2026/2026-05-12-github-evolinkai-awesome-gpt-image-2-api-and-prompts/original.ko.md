@@ -61,7 +61,7 @@ Evolink에서 사용해보기: [GPT-Image-2 API](https://evolink.ai/gpt-image-2-
 
 유용하다면 스타를 눌러주세요. ⭐
 
-<a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-API-and-Prompts'><img src='https://img.shields.io/badge/🚀 Try%20it%20on-Evolink-black' height="25"></a>
+<a href='https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=badge&utm_campaign=awesome-gpt-image-2-API-and-Prompts'><img src='https://img.shields.io/badge/%F0%9F%9A%80%20Try%20it%20on-Evolink-black' height="25"></a>
 
 ## ❓ GPT Image 2란?
 
@@ -451,7 +451,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 | Output |
 | :----: |
-| <img src="./images/ui_case124/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 12-Panel Storyboard Poster"> |
+| <img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ui_case124/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 12-Panel Storyboard Poster"> |
 
 **Prompt:**
 
@@ -543,7 +543,7 @@ Edit prompt: Remove the background make it transparent
 
 | Output |
 | :----: |
-| <img src="./images/comparison_case77/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Printable Paint by Numbers"> |
+| <img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/comparison_case77/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Printable Paint by Numbers"> |
 
 **Prompt:**
 

@@ -14,7 +14,7 @@
   <br/>
   ◯ ─────────── ◯
   <br/><br/>
-  <img src="./docs/images/ouroboros.png" width="520" alt="Ouroboros">
+  <img src="https://raw.githubusercontent.com/Q00/ouroboros/main/docs/images/ouroboros.png" width="520" alt="Ouroboros">
   <br/><br/>
   <strong>O U R O B O R O S</strong>
   <br/><br/>

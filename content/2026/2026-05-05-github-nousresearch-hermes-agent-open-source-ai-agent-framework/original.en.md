@@ -251,7 +251,7 @@ Saved: 2026-05-05
 # Preserved README.md
 
 <p align="center">
-  <img src="assets/banner.png" alt="Hermes Agent" width="100%">
+  <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/assets/banner.png" alt="Hermes Agent" width="100%">
 </p>
 
 # Hermes Agent ☤

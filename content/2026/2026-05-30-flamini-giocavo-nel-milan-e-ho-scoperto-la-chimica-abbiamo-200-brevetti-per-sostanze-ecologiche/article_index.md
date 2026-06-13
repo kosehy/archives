@@ -13,10 +13,12 @@
 
 - `article_index.md` - public reading index
 - `original.it.md` - preserved source text
+- `translation.ko.md` - Korean translation, humanized for readability
 
 ## Reading order
 
-1. `original.it.md`
+1. `translation.ko.md`
+2. `original.it.md`
 
 ## Public copy notes
 

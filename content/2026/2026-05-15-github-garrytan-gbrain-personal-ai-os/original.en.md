@@ -836,7 +836,7 @@ concert, all measured.**
 Call a phone number. Your AI answers. It knows who's calling, pulls their full context from the brain, and responds like someone who actually knows your world. When the call ends, a brain page appears with the transcript, entity detection, and cross-references.
 
 <p align="center">
-  <img src="docs/images/voice-client.png" alt="Voice client connected" width="300" />
+  <img src="https://raw.githubusercontent.com/garrytan/gbrain/master/docs/images/voice-client.png" alt="Voice client connected" width="300" />
 </p>
 
 > [See it in action](https://x.com/garrytan/status/2043022208512172263)
